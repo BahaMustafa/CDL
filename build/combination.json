@@ -1,0 +1,253 @@
+[
+  {
+    "question": "The 'crack-the-whip' effect can:",
+    "choices": ["Increase fuel efficiency", "Turn over a trailer", "Improve handling"],
+    "answer": "Turn over a trailer"
+  },
+  {
+    "question": "Trailers with low underneath clearance may be difficult to drive:",
+    "choices": ["In urban areas", "Over railroad crossings", "On highways"],
+    "answer": "Over railroad crossings"
+  },
+  {
+    "question": "A shut-off valve:",
+    "choices": ["Controls the vehicle's speed", "Prevents air from escaping an air brake system", "Regulates fuel intake"],
+    "answer": "Prevents air from escaping an air brake system"
+  },
+  {
+    "question": "If a trailer is too high:",
+    "choices": ["It may not couple correctly", "It increases the risk of jackknifing", "It is easier to maneuver"],
+    "answer": "It may not couple correctly"
+  },
+  {
+    "question": "After coupling, there should be ____ between the upper and lower fifth wheel.",
+    "choices": ["No space", "A minimal gap", "At least an inch of space"],
+    "answer": "No space"
+  },
+  {
+    "question": "When uncoupling a trailer, landing gear should be:",
+    "choices": ["Slightly raised", "Firmly on the ground", "Fully retracted"],
+    "answer": "Firmly on the ground"
+  },
+  {
+    "question": "Before a drive, ensure that air flows to all trailers by:",
+    "choices": ["Checking the dashboard gauges", "Opening the rear shut-off valves and listening for escaping air", "Inspecting the hoses"],
+    "answer": "Opening the rear shut-off valves and listening for escaping air"
+  },
+  {
+    "question": "Test the tractor protection valve by:",
+    "choices": ["Inspecting it visually", "Releasing air with the brake pedal", "Checking the pressure gauges"],
+    "answer": "Releasing air with the brake pedal"
+  },
+  {
+    "question": "Pull out the trailer air supply control to test:",
+    "choices": ["The trailer lights", "The trailer emergency brakes", "The air compressor"],
+    "answer": "The trailer emergency brakes"
+  },
+  {
+    "question": "To help prevent rollovers, you should:",
+    "choices": ["Drive fast on straight roads", "Drive slowly around turns", "Load cargo on the top"],
+    "answer": "Drive slowly around turns"
+  },
+  {
+    "question": "Large combination vehicles take the longest amount of time to stop:",
+    "choices": ["When fully loaded", "When empty", "In wet conditions"],
+    "answer": "When empty"
+  },
+  {
+    "question": "What is off-tracking?",
+    "choices": ["A maintenance issue", "When a vehicle’s front wheels follow a different path than its rear wheels", "When brakes fail"],
+    "answer": "When a vehicle’s front wheels follow a different path than its rear wheels"
+  },
+  {
+    "question": "When backing a trailer, how should you turn the steering wheel?",
+    "choices": ["In the direction you want to go", "Turn the top of the steering wheel in the direction opposite of where you want the trailer to go", "Steering wheel direction doesn't matter"],
+    "answer": "Turn the top of the steering wheel in the direction opposite of where you want the trailer to go"
+  },
+  {
+    "question": "What does the trailer air supply control look like?",
+    "choices": ["A blue triangle", "It is an eight-sided red knob.", "A green square"],
+    "answer": "It is an eight-sided red knob"
+  },
+  {
+    "question": "Air pressure in the ____ air line is controlled by either the foot brake or trailer hand brake.",
+    "choices": ["Emergency", "Supply", "Service"],
+    "answer": "Service"
+  },
+  {
+    "question": "One function of the emergency air line is to:",
+    "choices": ["Supply fuel to the engine", "Control the emergency brakes", "Regulate air temperature"],
+    "answer": "Control the emergency brakes"
+  },
+  {
+    "question": "Having ABS on only one axle:",
+    "choices": ["Is not allowed", "Reduces braking efficiency", "Will allow the driver additional control when braking"],
+    "answer": "Will allow the driver additional control when braking"
+  },
+  {
+    "question": "If a trailer begins to skid, the driver should:",
+    "choices": ["Accelerate", "Release the brakes", "Steer sharply"],
+    "answer": "Release the brakes"
+  },
+  {
+    "question": "The trailer hand valve should:",
+    "choices": ["Be used only to test the trailer brakes", "Be used frequently while driving", "Not be present in modern vehicles"],
+    "answer": "Be used only to test the trailer brakes"
+  },
+  {
+    "question": "All trailers made after ____ must be equipped with Anti-Lock Braking Systems (ABS).",
+    "choices": ["1988", "1998", "2008"],
+    "answer": "1998"
+  },
+  {
+    "question": "When a combination vehicle goes around a corner:",
+    "choices": ["The wheels lock up", "The front and rear wheels move in different paths", "The trailer detaches"],
+    "answer": "The front and rear wheels move in different paths"
+  },
+  {
+    "question": "If a parked trailer does not have spring brakes, you should keep the trailer from moving by:",
+    "choices": ["Using wheel chocks", "Parking on a hill", "Applying the trailer hand brake only"],
+    "answer": "Using wheel chocks"
+  },
+  {
+    "question": "To prevent a rollover, a driver should:",
+    "choices": ["Keep cargo low", "Drive faster around turns", "Load cargo on top"],
+    "answer": "Keep cargo low"
+  },
+  {
+    "question": "One way to prevent a rollover is to:",
+    "choices": ["Keep cargo centered on the rig", "Ignore weight limits", "Make quick turns"],
+    "answer": "Keep cargo centered on the rig"
+  },
+  {
+    "question": "In a sudden turn, the ____ trailer is the most likely to turn over.",
+    "choices": ["First", "Middle", "Last"],
+    "answer": "Last"
+  },
+  {
+    "question": "Using the trailer hand brake while experiencing a trailer jackknife will:",
+    "choices": ["Correct the skid", "Continue the skid", "Detach the trailer"],
+    "answer": "Continue the skid"
+  },
+  {
+    "question": "If you need to back your trailer but cannot back up in a straight path, you should:",
+    "choices": ["Back randomly", "Back toward the driver's side", "Avoid backing at all"],
+    "answer": "Back toward the driver's side"
+  },
+  {
+    "question": "Using the trailer hand valve while driving:",
+    "choices": ["Increases brake power", "Can cause a skid", "Is recommended for downhill driving"],
+    "answer": "Can cause a skid"
+  },
+  {
+    "question": "Push in the trailer air supply control to:",
+    "choices": ["Supply the trailer with air", "Activate the ABS", "Engage the parking brakes"],
+    "answer": "Supply the trailer with air"
+  },
+  {
+    "question": "In a vehicle equipped with an automatic tractor protection valve, the valve will pop out when:",
+    "choices": ["Air pressure is optimal", "Air pressure drops to a level between 20 and 45 psi", "The brakes are fully applied"],
+    "answer": "Air pressure drops to a level between 20 and 45 psi"
+  },
+  
+    {
+      "question": "An air supply control in its 'emergency' position will:",
+      "choices": ["Stop the engine", "Apply the trailer emergency brakes", "Disengage the ABS"],
+      "answer": "Apply the trailer emergency brakes"
+    },
+    {
+      "question": "The service air line is attached to the:",
+      "choices": ["Relay valves", "Air compressor", "Brake pedal"],
+      "answer": "Relay valves"
+    },
+    {
+      "question": "The emergency air line:",
+      "choices": ["Controls the ABS", "Supplies air to the trailer air tanks", "Signals the brake lights"],
+      "answer": "Supplies air to the trailer air tanks"
+    },
+    {
+      "question": "Trailers built before 1975 are:",
+      "choices": ["Required to have ABS", "Not required to have spring brakes", "Equipped with disc brakes"],
+      "answer": "Not required to have spring brakes"
+    },
+    {
+      "question": "While inspecting a coupling, you should go under the trailer and:",
+      "choices": ["Check for leaks", "Look into the back of the fifth wheel", "Inspect the tire tread"],
+      "answer": "Look into the back of the fifth wheel"
+    },
+    {
+      "question": "If you are operating a vehicle built before 1998 and are unsure if the trailer has an Anti-Lock Braking System (ABS), you can:",
+      "choices": ["Check the dashboard indicators", "Check for wheel speed sensors coming from the back of the brakes", "Look for the ABS logo on the trailer"],
+      "answer": "Check for wheel speed sensors coming from the back of the brakes"
+    },
+    {
+      "question": "After finishing a pre-trip inspection, you should:",
+      "choices": ["Check your mirrors", "Close the emergency line valve", "Start the engine"],
+      "answer": "Close the emergency line valve"
+    },
+    {
+      "question": "After finishing a pre-trip inspection, you should:",
+      "choices": ["Close the service line valve", "Adjust your seat", "Test the horn"],
+      "answer": "Close the service line valve"
+    },
+    {
+      "question": "During a trip, which shut-off valves should be open?",
+      "choices": ["Only the front valves", "All shut-off valves should be in the open position, except the rear shut-off valves", "All valves should always be closed"],
+      "answer": "All shut-off valves should be in the open position, except the rear shut-off valves"
+    },
+    {
+      "question": "To test the trailer service brakes, you should:",
+      "choices": ["Accelerate then brake sharply", "Move the vehicle forward slowly and apply the brakes with the hand control.", "Use the foot brake only"],
+      "answer": "Move the vehicle forward slowly and apply the brakes with the hand control."
+    },
+    {
+      "question": "____ are the cause of more than half of all accident-related truck driver deaths.",
+      "choices": ["Truck rollovers", "Rear-end collisions", "Speeding"],
+      "answer": "Truck rollovers"
+    },
+    {
+      "question": "When traveling more slowly than 40 mph, maintain at least ____ of following distance per every 10 feet of your vehicle.",
+      "choices": ["One second", "Two seconds", "Half a second"],
+      "answer": "One second"
+    },
+    {
+      "question": "Avoid needing to make sudden lane changes by:",
+      "choices": ["Speeding up", "Watching the road ahead while driving", "Changing lanes frequently"],
+      "answer": "Watching the road ahead while driving"
+    },
+    {
+      "question": "A lightly-loaded combination vehicle will stop more slowly than a fully-loaded vehicle because:",
+      "choices": ["The stiff suspension springs and strong brakes will have low traction", "It is more aerodynamic", "It has less engine power"],
+      "answer": "The stiff suspension springs and strong brakes will have low traction"
+    },
+    {
+      "question": "When driving a bobtail tractor, you should be aware that:",
+      "choices": ["Bobtails are more difficult to stop than tractors with semitrailers", "Bobtails are faster", "Bobtails require less braking distance"],
+      "answer": "Bobtails are more difficult to stop than tractors with semitrailers"
+    },
+    {
+      "question": "Compared to other commercial motor vehicles, combination vehicles need more space on the road because they are longer and they:",
+      "choices": ["Need more space to turn and stop", "Are more prone to accidents", "Have higher speed limits"],
+      "answer": "Need more space to turn and stop"
+    },
+    {
+      "question": "When entering or crossing traffic while driving a combination vehicle, it is especially important that you:",
+      "choices": ["Accelerate quickly", "Make sure there is a large enough gap for your vehicle", "Use your horn frequently"],
+      "answer": "Make sure there is a large enough gap for your vehicle"
+    },
+    {
+      "question": "An air supply control lever should be in its 'normal' position when you are:",
+      "choices": ["Performing maintenance", "Pulling a trailer", "Parked"],
+      "answer": "Pulling a trailer"
+    },
+    {
+      "question": "When glad hands are coupled, the seals should be pressed together at an angle of:",
+      "choices": ["45 degrees", "90 degrees", "180 degrees"],
+      "answer": "90 degrees"
+    },
+    {
+      "question": "In a double or triple combination:",
+      "choices": ["The heaviest trailer should be positioned directly behind the cab", "The lightest trailer should be in front", "All trailers should be equally loaded"],
+      "answer": "The heaviest trailer should be positioned directly behind the cab"
+    }
+]

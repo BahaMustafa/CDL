@@ -23,7 +23,8 @@ function App() {
       setCurrentQuestionIndex(parseInt(savedIndex, 10));
     }
 
-    fetch(`/${selectedTest}.json`)
+    fetch(`${process.env.PUBLIC_URL}/${selectedTest}.json`)
+
       .then(response => response.json())
       .then(data => {
         const shuffledQuestions = shuffleArray(data).map(question => ({

@@ -1,0 +1,161 @@
+[
+  {
+    "question": "To prevent a load from shifting, there should be at least one tie down for every ____ feet of cargo.",
+    "choices": ["10", "15", "7"],
+    "answer": "10"
+  },
+  {
+    "question": "You are driving a 40-foot vehicle at 35mph. The road is dry, and visibility is good. What is the least amount of space you should keep in front of your vehicle to be safe?",
+    "choices": ["2 seconds", "4 seconds", "6 seconds"],
+    "answer": "4 seconds"
+  },
+  {
+    "question": "Which of these statements about drinking alcohol is true?",
+    "choices": [
+      "A few beers have the same effect on driving as a few shots of whiskey or a few glasses of wine.",
+      "Coffee and fresh air will help a drinker sober up.",
+      "Not everyone who drinks is affected by alcohol."
+    ],
+    "answer": "A few beers have the same effect on driving as a few shots of whiskey or a few glasses of wine."
+  },
+  {
+    "question": "While driving, ice builds up on your wipers and they no longer clean the windshield. You should:",
+    "choices": [
+      "Keep driving, and turn your defroster on. Drive slower until you can see again.",
+      "Keep driving, and spray the windshield with washer fluid.",
+      "Stop safely and fix the problem."
+    ],
+    "answer": "Stop safely and fix the problem."
+  },
+  {
+    "question": "Which of these statements about driving in areas with strong winds is true?",
+    "choices": [
+      "Winds are a big problem when a truck comes out of tunnels.",
+      "You should drive alongside other vehicles to help break up the wind.",
+      "The lighter your vehicle, the less trouble you will have with the wind."
+    ],
+    "answer": "Winds are a big problem when a truck comes out of tunnels."
+  },
+  {
+    "question": "What is counter-steering?",
+    "choices": [
+      "Steering in the opposite direction from what other drivers expect you to.",
+      "Turning the wheel in a counterclockwise fashion.",
+      "Turning the wheel back in the other direction after steering to avoid a traffic emergency."
+    ],
+    "answer": "Turning the wheel back in the other direction after steering to avoid a traffic emergency."
+  },
+  {
+    "question": "To help you stay alert while driving, you should:",
+    "choices": [
+      "Schedule trips for hours you are normally asleep.",
+      "Take cold medicine, if you have a cold.",
+      "Take short breaks before you get drowsy."
+    ],
+    "answer": "Take short breaks before you get drowsy."
+  },
+  {
+    "question": "You do not have a Hazardous Materials Endorsement on your Commercial Driver's License. You can drive a vehicle hauling hazardous materials when:",
+    "choices": [
+      "The cargo will be transported less than 100 miles.",
+      "The vehicle does not require placards.",
+      "A person who has the Hazardous Materials Endorsement rides with you."
+    ],
+    "answer": "The vehicle does not require placards."
+  },
+  {
+    "question": "Retarders:",
+    "choices": [
+      "Cause extra brake wear.",
+      "Allow you to disconnect the steering axle brakes.",
+      "Can cause the drive wheels to skid when they have poor traction."
+    ],
+    "answer": "Can cause the drive wheels to skid when they have poor traction."
+  },
+  {
+    "question": "To prevent a load from shifting, there should be at least one tie down for every ____ feet of cargo.",
+    "choices": ["10", "15", "7"],
+    "answer": "10"
+  },
+  [
+    
+    {
+      "question": "You are driving a 40-foot vehicle at 35mph. The road is dry, and visibility is good. What is the least amount of space you should keep in front of your vehicle to be safe?",
+      "choices": ["2 seconds", "4 seconds", "6 seconds"],
+      "answer": "4 seconds"
+    },
+    {
+      "question": "Which of these statements about drinking alcohol is true?",
+      "choices": [
+        "A few beers have the same effect on driving as a few shots of whiskey or a few glasses of wine.",
+        "Coffee and fresh air will help a drinker sober up.",
+        "Not everyone who drinks is affected by alcohol."
+      ],
+      "answer": "A few beers have the same effect on driving as a few shots of whiskey or a few glasses of wine."
+    },
+    {
+      "question": "While driving, ice builds up on your wipers and they no longer clean the windshield. You should:",
+      "choices": [
+        "Keep driving, and turn your defroster on. Drive slower until you can see again.",
+        "Keep driving, and spray the windshield with washer fluid.",
+        "Stop safely and fix the problem."
+      ],
+      "answer": "Stop safely and fix the problem."
+    },
+    {
+      "question": "Which of these statements about driving in areas with strong winds is true?",
+      "choices": [
+        "Winds are a big problem when a truck comes out of tunnels.",
+        "You should drive alongside other vehicles to help break up the wind.",
+        "The lighter your vehicle, the less trouble you will have with the wind."
+      ],
+      "answer": "Winds are a big problem when a truck comes out of tunnels."
+    },
+    {
+      "question": "What is counter-steering?",
+      "choices": [
+        "Steering in the opposite direction from what other drivers expect you to.",
+        "Turning the wheel in a counterclockwise fashion.",
+        "Turning the wheel back in the other direction after steering to avoid a traffic emergency."
+      ],
+      "answer": "Turning the wheel back in the other direction after steering to avoid a traffic emergency."
+    },
+    {
+      "question": "To help you stay alert while driving, you should:",
+      "choices": [
+        "Schedule trips for hours you are normally asleep.",
+        "Take cold medicine, if you have a cold.",
+        "Take short breaks before you get drowsy."
+      ],
+      "answer": "Take short breaks before you get drowsy."
+    },
+    {
+      "question": "You do not have a Hazardous Materials Endorsement on your Commercial Driver's License. You can drive a vehicle hauling hazardous materials when:",
+      "choices": [
+        "The cargo will be transported less than 100 miles.",
+        "The vehicle does not require placards.",
+        "A person who has the Hazardous Materials Endorsement rides with you."
+      ],
+      "answer": "The vehicle does not require placards."
+    },
+    {
+      "question": "Retarders:",
+      "choices": [
+        "Cause extra brake wear.",
+        "Allow you to disconnect the steering axle brakes.",
+        "Can cause the drive wheels to skid when they have poor traction."
+      ],
+      "answer": "Can cause the drive wheels to skid when they have poor traction."
+    },
+    {
+      "question": "The marking on a vehicle that identifies the type of hazardous materials is called:",
+      "choices": [
+        "A red triangle with an orange center.",
+        "The vehicle's registration.",
+        "The hazardous materials placard."
+      ],
+      "answer": "The hazardous materials placard."
+    }
+  ]
+  
+]
