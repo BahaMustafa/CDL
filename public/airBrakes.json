@@ -1,0 +1,253 @@
+[
+  {
+    "question": "Why should you regularly drain the air tanks?",
+    "choices": ["To add more air", "Because compressed air contains some water and the water collects in the tanks", "To check for leaks"],
+    "answer": "Because compressed air contains some water and the water collects in the tanks"
+  },
+  {
+    "question": "Vehicles equipped with Anti-Lock Braking Systems (ABS) have ____ malfunction lamps.",
+    "choices": ["Red", "Green", "Yellow"],
+    "answer": "Yellow"
+  },
+  {
+    "question": "A dual air brake system:",
+    "choices": ["Has separate controls for front and rear brakes", "Consists of two separate air brake systems that share a single set of controls", "Is only found on older models"],
+    "answer": "Consists of two separate air brake systems that share a single set of controls"
+  },
+  {
+    "question": "A safety valve is set to open at ____ psi.",
+    "choices": ["100", "150", "200"],
+    "answer": "150"
+  },
+  {
+    "question": "Air pressure should build up in a single air system within:",
+    "choices": ["One minute", "Three minutes", "Five minutes"],
+    "answer": "Three minutes"
+  },
+  {
+    "question": "The ____ tells a driver how much pressure is in the air tanks.",
+    "choices": ["Air pressure gauge", "Supply pressure gauge", "Altitude gauge"],
+    "answer": "Supply pressure gauge"
+  },
+  {
+    "question": "When inspecting your brakes, a slack adjuster should move ____ from where it is attached to the push rod.",
+    "choices": ["No more than one inch", "Exactly two inches", "More than three inches"],
+    "answer": "No more than one inch"
+  },
+  {
+    "question": "Before driving a vehicle with air brakes, you should ensure that the spring brakes come on automatically when:",
+    "choices": ["Air pressure falls below 45 psi", "The vehicle reaches 20 mph", "Brakes are applied"],
+    "answer": "Air pressure falls below 45 psi"
+  },
+  {
+    "question": "During an applied leakage test, the maximum leakage rate for a double combination vehicle is:",
+    "choices": ["2 psi in a minute", "4 psi in a minute", "6 psi in a minute"],
+    "answer": "4 psi in a minute"
+  },
+  {
+    "question": "During an applied leakage test, the maximum leakage rate for a triple combination vehicle is:",
+    "choices": ["3 psi in a minute", "5 psi in a minute", "6 psi in a minute"],
+    "answer": "6 psi in a minute"
+  },
+  {
+    "question": "A visual low pressure warning signal should activate before air pressure drops to a level between:",
+    "choices": ["55 and 75 psi", "40 and 60 psi", "70 and 90 psi"],
+    "answer": "55 and 75 psi"
+  },
+  {
+    "question": "Some air brake systems use alcohol:",
+    "choices": ["To improve fuel efficiency", "To reduce the risk of ice forming in air brake valves", "To clean the system"],
+    "answer": "To reduce the risk of ice forming in air brake valves"
+  },
+  {
+    "question": "Spring brakes come on:",
+    "choices": ["Automatically when the vehicle starts", "When too much air pressure is lost", "Only when manually activated"],
+    "answer": "When too much air pressure is lost"
+  },
+  {
+    "question": "On trucks and buses, where are ABS malfunction lamps located?",
+    "choices": ["On the exterior", "On the instrument panel", "Near the brakes"],
+    "answer": "On the instrument panel"
+  },
+  {
+    "question": "Before driving a vehicle with a dual air brake system, you must wait for the air compressor to build a minimum of ____ in both the primary and secondary systems.",
+    "choices": ["50 psi", "100 psi", "150 psi"],
+    "answer": "100 psi"
+  },
+  {
+    "question": "Anti-Lock Braking Systems (ABS):",
+    "choices": ["Replace normal brakes", "Decrease braking power", "Are equipped in addition to other braking systems and do not reduce normal braking power"],
+    "answer": "Are equipped in addition to other braking systems and do not reduce normal braking power"
+  },
+  {
+    "question": "If using air tanks with manually operated drains, how often should you drain the tanks?",
+    "choices": ["Every week", "Every day", "Once a month"],
+    "answer": "Every day"
+  },
+  {
+    "question": "The parking brake should be:",
+    "choices": ["Checked only during inspections", "Used whenever you park your vehicle", "Engaged only when parked on a slope"],
+    "answer": "Used whenever you park your vehicle"
+  },
+  {
+    "question": "If the brake pads rub against the brake drums and create too much heat:",
+    "choices": ["The brakes will become more efficient", "The brakes may stop working", "It will have no effect on braking"],
+    "answer": "The brakes may stop working"
+  },
+  {
+    "question": "A low air pressure warning signal:",
+    "choices": ["Is not necessary on newer vehicles", "Is only found on buses", "Is required on vehicles with air brakes"],
+    "answer": "Is required on vehicles with air brakes"
+  },
+
+  {
+    "question": "Foundation brakes are used:",
+    "choices": ["Only on the front wheels", "Only on the rear wheels", "At each wheel"],
+    "answer": "At each wheel"
+  },
+  {
+    "question": "The air compressor governor controls:",
+    "choices": ["The speed of the vehicle", "When the air compressor pumps air into the air storage tanks", "The temperature of the engine"],
+    "answer": "When the air compressor pumps air into the air storage tanks"
+  },
+  {
+    "question": "When traveling down a steep downgrade:",
+    "choices": ["Use only the brakes to reduce speed", "Shift into a lower gear, then use brakes to supplement the braking effect of the engine", "Maintain a high gear"],
+    "answer": "Shift into a lower gear, then use brakes to supplement the braking effect of the engine"
+  },
+  {
+    "question": "To confirm that a trailer has ABS, you can:",
+    "choices": ["Check the dashboard", "Look under the trailer for wheel speed sensors coming from the back of the brakes", "Listen for the ABS during operation"],
+    "answer": "Look under the trailer for wheel speed sensors coming from the back of the brakes"
+  },
+  {
+    "question": "Dollies equipped with ABS are required to have malfunction lamps located where?",
+    "choices": ["On the right side", "On the left side", "On the front"],
+    "answer": "On the left side"
+  },
+  {
+    "question": "Front wheel braking works:",
+    "choices": ["Only in dry conditions", "Under all conditions", "Only when ABS is active"],
+    "answer": "Under all conditions"
+  },
+  {
+    "question": "When you press the brake pedal in a vehicle with S-cam brakes, air pressure pushes out the rod and moves the:",
+    "choices": ["Slack adjuster", "Brake chamber", "S-cam itself"],
+    "answer": "Slack adjuster"
+  },
+  {
+    "question": "Friction inside a brake drum is caused when the brake shoes and linings:",
+    "choices": ["Wear out", "Push against the inside of the drum", "Become overheated"],
+    "answer": "Push against the inside of the drum"
+  },
+  {
+    "question": "Braking mechanisms are located ____ a brake drum.",
+    "choices": ["Outside", "Inside", "Below"],
+    "answer": "Inside"
+  },
+  {
+    "question": "When a brake pedal is pressed and the S-cam is turned, the S-cam:",
+    "choices": ["Loosens the brake shoes", "Presses the brake shoes against the inside of the brake drum", "Stops the vehicle immediately"],
+    "answer": "Presses the brake shoes against the inside of the brake drum"
+  },
+  {
+    "question": "To inspect slack adjusters on S-cam brakes, you need to:",
+    "choices": ["Chock the wheels and disengage the parking brake", "Apply the service brakes", "Inspect visually only"],
+    "answer": "Chock the wheels and disengage the parking brake"
+  },
+  {
+    "question": "How should you test the low pressure warning signal?",
+    "choices": ["By checking the gauge", "Rapidly press and release the brake pedal", "Start the engine"],
+    "answer": "Rapidly press and release the brake pedal"
+  },
+  {
+    "question": "Before starting down a hill, be sure to:",
+    "choices": ["Check your mirrors", "Switch into a low gear", "Increase your speed"],
+    "answer": "Switch into a low gear"
+  },
+  {
+    "question": "During an applied leakage test, the maximum leakage rate for a single vehicle with air brakes is:",
+    "choices": ["1 psi in one minute", "3 psi in one minute", "5 psi in one minute"],
+    "answer": "3 psi in one minute"
+  },
+  {
+    "question": "During a static leakage test, the maximum leakage rate for a double combination vehicle is:",
+    "choices": ["2 psi in one minute", "3 psi in one minute", "4 psi in one minute"],
+    "answer": "3 psi in one minute"
+  },
+  {
+    "question": "During a static leakage test, the maximum leakage rate for a triple combination vehicle with air brakes is ____ in a minute.",
+    "choices": ["3 psi", "4 psi", "5 psi"],
+    "answer": "5 psi"
+  },
+  {
+    "question": "During a static leakage test, the maximum leakage rate for a single vehicle with air brakes is ____ in one minute.",
+    "choices": ["1 psi", "2 psi", "3 psi"],
+    "answer": "2 psi"
+  },
+  {
+    "question": "While driving, spring brakes are generally held in place by:",
+    "choices": ["Mechanical force", "Hydraulic pressure", "Air pressure"],
+    "answer": "Air pressure"
+  },
+  {
+    "question": "The emergency brake system uses:",
+    "choices": ["Only the service brake system", "Only the parking brake system", "Parts of both the parking and service brake systems"],
+    "answer": "Parts of both the parking and service brake systems"
+  },
+  {
+    "question": "A modulating control valve can control the:",
+    "choices": ["Service brakes", "Air compressor", "Spring brakes"],
+    "answer": "Spring brakes"
+  },
+  {
+    "question": "During a walk-around inspection, ensure there are no cracks on the brake drums that are more than ____ of the width of the friction area.",
+    "choices": ["One fourth", "One half", "Three quarters"],
+    "answer": "One half"
+  },
+  {
+    "question": "The air pressure in a dual air brake system should build from 85 to 100 psi within:",
+    "choices": ["30 seconds", "45 seconds", "60 seconds"],
+    "answer": "45 seconds"
+  },
+  {
+    "question": "In cold weather, an alcohol evaporator should be checked and filled:",
+    "choices": ["Every week", "Every day", "Only when it's freezing"],
+    "answer": "Every day"
+  },
+  {
+    "question": "Applying the brake pedal causes air pressure to activate an electric switch and:",
+    "choices": ["Start the engine", "Turn on the brake lights", "Engage the ABS"],
+    "answer": "Turn on the brake lights"
+  },
+  {
+    "question": "A one-way check valve:",
+    "choices": ["Prevents air from escaping if the air compressor has a leak", "Increases air pressure", "Controls the air flow direction"],
+    "answer": "Prevents air from escaping if the air compressor has a leak"
+  },
+  {
+    "question": "An air compressor governor will stop the compressor from pumping air once the air tanks have an air pressure level of:",
+    "choices": ["100 psi", "125 psi", "150 psi"],
+    "answer": "125 psi"
+  },
+  {
+    "question": "While driving downhill, you should brake until you reach a speed that is ____ below your safe speed, then release the brake pedal.",
+    "choices": ["3 mph", "5 mph", "10 mph"],
+    "answer": "5 mph"
+  },
+  {
+    "question": "When you need to stop in an emergency, you should:",
+    "choices": ["Stop in the nearest lane", "Stop in a way that keeps your vehicle in a straight line", "Immediately pull over to the shoulder"],
+    "answer": "Stop in a way that keeps your vehicle in a straight line"
+  },
+  {
+    "question": "If braking at a speed of 55 mph while driving on dry pavement, the brake lag can add ____ to your vehicle's total stopping distance.",
+    "choices": ["20 feet", "32 feet", "45 feet"],
+    "answer": "32 feet"
+  },
+  {
+    "question": "An air brake-equipped vehicle traveling at a speed of 55 mph under ideal driving conditions will need approximately ____ to come to a complete stop.",
+    "choices": ["300 feet", "450 feet", "600 feet"],
+    "answer": "450 feet"
+  }
+]
