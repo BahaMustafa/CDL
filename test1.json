@@ -1,0 +1,256 @@
+[
+  {
+    "question": "Cargo being transported should be checked:",
+    "choices": ["Before the trip and every 100 miles", "Before the trip and again within the first 50 miles of the trip", "Only before the trip"],
+    "answer": "Before the trip and again within the first 50 miles of the trip"
+  },
+  {
+    "question": "What must be done if a load extends four or more feet beyond the rear of a truck?",
+    "choices": ["Use warning lights", "A red or orange flag must be placed on the end of the load", "No action is required"],
+    "answer": "A red or orange flag must be placed on the end of the load"
+  },
+  {
+    "question": "How many daily hours of sleep does an adult need to maintain alertness?",
+    "choices": ["Five to six", "Seven to eight", "Nine to ten"],
+    "answer": "Seven to eight"
+  },
+  {
+    "question": "A tread depth of ____ should be in every major groove of a front tire.",
+    "choices": ["2/32 of an inch", "4/32 of an inch", "6/32 of an inch"],
+    "answer": "4/32 of an inch"
+  },
+  {
+    "question": "A tread depth of ____ should be in every major groove of a tire that is not in the front of a commercial motor vehicle.",
+    "choices": ["2/32 of an inch", "4/32 of an inch", "6/32 of an inch"],
+    "answer": "2/32 of an inch"
+  },
+  {
+    "question": "If one-fourth of the leaves in a leaf spring are missing when a vehicle is inspected:",
+    "choices": ["The vehicle will be put out-of-service until it is fixed", "It's still safe to drive", "Only a warning is given"],
+    "answer": "The vehicle will be put out-of-service until it is fixed"
+  },
+  {
+    "question": "A broken exhaust system:",
+    "choices": ["Increases fuel efficiency", "Can allow poisonous fumes to enter the cabin", "Has no significant impact"],
+    "answer": "Can allow poisonous fumes to enter the cabin"
+  },
+  {
+    "question": "A pre-trip inspection:",
+    "choices": ["Should be done in the same way every time", "Is only necessary for long trips", "Can be performed by a co-driver"],
+    "answer": "Should be done in the same way every time"
+  },
+  {
+    "question": "When approaching a vehicle for a pre-trip inspection, a driver should look under the vehicle:",
+    "choices": ["To check tire pressure", "To see if there are any fresh fluids on the ground", "To ensure the ground is level"],
+    "answer": "To see if there are any fresh fluids on the ground"
+  },
+  {
+    "question": "A pre-trip inspection should include:",
+    "choices": ["A check of the engine oil level", "Only a visual inspection of the vehicle", "Checking the radio and air conditioning"],
+    "answer": "A check of the engine oil level"
+  },
+
+
+  {
+    "question": "When starting the engine of a truck with a trailer, you can tell that your vehicle's ABS is not working if:",
+    "choices": ["The yellow light on the left rear of the trailer stays on", "The engine makes a strange noise", "The trailer detaches"],
+    "answer": "The yellow light on the left rear of the trailer stays on"
+  },
+  {
+    "question": "When starting an engine, oil pressure should come up to a normal level:",
+    "choices": ["Within minutes", "Within seconds", "Within hours"],
+    "answer": "Within seconds"
+  },
+  {
+    "question": "How can you check for a leak in hydraulic brakes?",
+    "choices": ["Check the brake fluid level", "Pump the brake pedal three times, then hold down the pedal for five seconds", "Listen for unusual noises"],
+    "answer": "Pump the brake pedal three times, then hold down the pedal for five seconds"
+  },
+  {
+    "question": "When stopping a manual transmission vehicle, you should:",
+    "choices": ["Push the clutch in when the engine is close to idle", "Always use the emergency brake", "Shift to a lower gear immediately"],
+    "answer": "Push the clutch in when the engine is close to idle"
+  },
+  {
+    "question": "When backing with a trailer, you should begin by:",
+    "choices": ["Turning the steering wheel in the direction of the turn", "Turning the steering wheel in the direction opposite of the turn", "Backing up straight"],
+    "answer": "Turning the steering wheel in the direction opposite of the turn"
+  },
+  {
+    "question": "When backing up, follow a turning trailer by:",
+    "choices": ["Keeping the steering wheel stationary", "Changing the direction of the steering wheel", "Accelerating gently"],
+    "answer": "Changing the direction of the steering wheel"
+  },
+  {
+    "question": "If you remain in neutral for too long while switching gears:",
+    "choices": ["You may have trouble putting the vehicle into the next gear", "It helps the engine cool down", "It's the recommended practice"],
+    "answer": "You may have trouble putting the vehicle into the next gear"
+  },
+  {
+    "question": "Scan the road ____ ahead of your vehicle.",
+    "choices": ["5 to 7 seconds", "8 to 10 seconds", "12 to 15 seconds"],
+    "answer": "12 to 15 seconds"
+  },
+  {
+    "question": "You should check and adjust your mirrors:",
+    "choices": ["Before driving", "After driving", "Every hour while driving"],
+    "answer": "Before driving"
+  },
+  {
+    "question": "When adjusting your mirrors before a trip:",
+    "choices": ["Part of your vehicle should be visible in the mirrors", "You should see as much of the road as possible", "You should not be able to see your vehicle"],
+    "answer": "Part of your vehicle should be visible in the mirrors"
+  },
+  {
+    "question": "To warn drivers behind you that you will be slowing down, you should:",
+    "choices": ["Turn on your hazard lights", "Tap your brake pedal a few times to illuminate your brake lights", "Honk your horn"],
+    "answer": "Tap your brake pedal a few times to illuminate your brake lights"
+  },
+  {
+    "question": "When it is difficult to see and you are traveling near other drivers, you should:",
+    "choices": ["Use high beam lights", "Use low beam lights", "Turn off your lights"],
+    "answer": "Use low beam lights"
+  },
+  {
+    "question": "When driving on a wet road, you should reduce your speed by:",
+    "choices": ["About one-third", "About one-half", "About one-quarter"],
+    "answer": "About one-third"
+  },
+  {
+    "question": "When driving on packed snow, you should reduce your speed by:",
+    "choices": ["One-third", "One-half or more", "Not at all, drive as usual"],
+    "answer": "One-half or more"
+  },
+  {
+    "question": "You should maintain at least ____ of following distance per every 10 feet of your vehicle when you are traveling more slowly than 40 mph.",
+    "choices": ["One second", "Two seconds", "Three seconds"],
+    "answer": "One second"
+  },
+  {
+    "question": "If you are turning left at an intersection where there are two available turn lanes:",
+    "choices": ["It is best to use the left lane", "It is best to use the right lane", "Either lane is acceptable"],
+    "answer": "It is best to use the right lane"
+  },
+  {
+    "question": "Slow down and be extra careful:",
+    "choices": ["When approaching a school zone", "When approaching a work zone", "On highways only"],
+    "answer": "When approaching a work zone"
+  },
+  {
+    "question": "Texting while driving is especially dangerous because:",
+    "choices": ["It is a physical distraction only", "It is a mental distraction only", "It is both a mental and physical distraction"],
+    "answer": "It is both a mental and physical distraction"
+  },
+  {
+    "question": "In cool weather, as the temperature begins to rise and ice begins to melt:",
+    "choices": ["The road becomes less slippery", "The road becomes even more slippery", "It has no effect on road conditions"],
+    "answer": "The road becomes even more slippery"
+  },
+  {
+    "question": "In hot weather, spots on the pavement where tar is bleeding:",
+    "choices": ["Are very slippery", "Improve traction", "Have no effect on driving conditions"],
+    "answer": "Are very slippery"
+  },
+  {
+    "question": "When near a railroad crossing:",
+    "choices": ["You may not hear a train, even if one is approaching", "You should accelerate to cross quickly", "Trains are always required to sound their horn"],
+    "answer": "You may not hear a train, even if one is approaching"
+  },
+  {
+    "question": "When approaching a railroad crossing, you should:",
+    "choices": ["Speed up to cross quickly", "Not rely solely on warning signals to indicate if a train is approaching", "Only stop if you see a train"],
+    "answer": "Not rely solely on warning signals to indicate if a train is approaching"
+  },
+  {
+    "question": "What should you do if your vehicle gets stuck on railroad tracks?",
+    "choices": ["Try to push the vehicle off the tracks", "Get out of the vehicle and call for assistance", "Wait in the vehicle for help"],
+    "answer": "Get out of the vehicle and call for assistance"
+  },
+  {
+    "question": "To avoid a hazard, you:",
+    "choices": ["Should always brake hard", "May need to swerve your vehicle out of the way", "Should maintain your speed and direction"],
+    "answer": "May need to swerve your vehicle out of the way"
+  },
+  {
+    "question": "If a tire fails, you should:",
+    "choices": ["Brake immediately to stop", "Stay off the brakes", "Accelerate to maintain control"],
+    "answer": "Stay off the brakes"
+  },
+  {
+    "question": "After an accident, flares should be used with caution because:",
+    "choices": ["They are not effective in daylight", "They can be distracting to other drivers", "There may be fuel spilled on the ground that could catch fire"],
+    "answer": "There may be fuel spilled on the ground that could catch fire"
+  },
+  {
+    "question": "If you have an engine fire, you should:",
+    "choices": ["Try to extinguish it immediately", "Turn off the engine as soon as possible", "Continue driving to a service station"],
+    "answer": "Turn off the engine as soon as possible"
+  },
+  {
+    "question": "When trying to put out an electrical fire, you should:",
+    "choices": ["Use water", "Use a B:C extinguisher", "Use any type of extinguisher"],
+    "answer": "Use a B:C extinguisher"
+  },
+  {
+    "question": "If you’re not sure what to do to extinguish a fire in your vehicle, you should:",
+    "choices": ["Try different types of extinguishers", "Wait for the firefighters", "Leave the vehicle and let it burn"],
+    "answer": "Wait for the firefighters"
+  },
+  {
+    "question": "When using a fire extinguisher on a fire, you should:",
+    "choices": ["Stand as close as possible", "Aim at the flames", "Stand as far away from the fire as possible"],
+    "answer": "Stand as far away from the fire as possible"
+  },
+  {
+    "question": "You may not consume alcohol within ____ of going on duty.",
+    "choices": ["Two hours", "Four hours", "Six hours"],
+    "answer": "Four hours"
+  },
+  {
+    "question": "The only way to sober up after consuming alcohol is to:",
+    "choices": ["Drink coffee", "Wait", "Take a cold shower"],
+    "answer": "Wait"
+  },
+  {
+    "question": "If a vehicle is carrying hazardous cargo, placards must be placed:",
+    "choices": ["Only on the rear", "On the front, rear, and sides of the vehicle", "Inside the vehicle"],
+    "answer": "On the front, rear, and sides of the vehicle"
+  },
+  {
+    "question": "Who is responsible for ensuring cargo is loaded properly?",
+    "choices": ["The vehicle owner", "The loading crew", "The driver"],
+    "answer": "The driver"
+  },
+  {
+    "question": "When loading cargo, it is important to:",
+    "choices": ["Load as much as possible", "Know the weight capacity rating of the suspension system", "Ignore the weight distribution"],
+    "answer": "Know the weight capacity rating of the suspension system"
+  },
+  {
+    "question": "Cargo should be covered:",
+    "choices": ["Only in bad weather", "To protect people from spillage", "As per the shipper's request"],
+    "answer": "To protect people from spillage"
+  },
+  {
+    "question": "Laws about securing loads and regulating CMV weights may vary from state to state. During interstate travel:",
+    "choices": ["Federal law takes precedence", "The law of the state the vehicle is in takes precedence", "The driver's home state law applies"],
+    "answer": "The law of the state the vehicle is in takes precedence"
+  },
+  {
+    "question": "When loading cargo, weight should be placed:",
+    "choices": ["As high as possible", "As low as possible", "Only in the rear"],
+    "answer": "As low as possible"
+  },
+  {
+    "question": "Who is responsible for inspecting a vehicle's cargo?",
+    "choices": ["The shipper", "The receiver", "The driver"],
+    "answer": "The driver"
+  },
+  {
+    "question": "Loading cargo onto a vehicle:",
+    "choices": ["Should always be done by the driver", "May be done by a person other than the driver, but the driver is responsible for the safety of the cargo", "Is not the driver's responsibility"],
+    "answer": "May be done by a person other than the driver, but the driver is responsible for the safety of the cargo"
+  }
+]
+
+

@@ -1,0 +1,255 @@
+[
+  
+
+  {
+    "question": "One way to prevent drowsiness while driving is to:",
+    "choices": ["Drink coffee continuously", "Get adequate sleep the night before the trip", "Keep the vehicle warm"],
+    "answer": "Get adequate sleep the night before the trip"
+  },
+  {
+    "question": "If driving so slowly that you could impede other drivers, you should:",
+    "choices": ["Drive while using your four-way flashers", "Continue at the same pace", "Honk frequently"],
+    "answer": "Drive while using your four-way flashers"
+  },
+  {
+    "question": "If driving through flowing water or a large puddle, you should:",
+    "choices": ["Speed up", "Turn around", "Gently apply the brakes"],
+    "answer": "Gently apply the brakes"
+  },
+  {
+    "question": "What is the best way to stop if your brakes fail while you are driving downhill?",
+    "choices": ["Pump the brakes", "Steer onto an escape ramp", "Switch to a lower gear"],
+    "answer": "Steer onto an escape ramp"
+  },
+  {
+    "question": "What are placards?",
+    "choices": ["Signs placed on a vehicle to identify cargo hazards", "Decorations on a vehicle", "Identification numbers for commercial vehicles"],
+    "answer": "Signs placed on a vehicle to identify cargo hazards"
+  },
+  {
+    "question": "Distracted driving:",
+    "choices": ["Is only caused by physical activities", "Can be avoided by not engaging in complex conversations while driving", "Is a minor issue"],
+    "answer": "Can be avoided by not engaging in complex conversations while driving"
+  },
+  {
+    "question": "If a driver has stopped on the road and is placing triangles to warn other motorists:",
+    "choices": ["The triangles should be placed behind the vehicle", "The triangles should be held between the driver and oncoming traffic", "Triangles are not necessary"],
+    "answer": "The triangles should be held between the driver and oncoming traffic"
+  },
+  {
+    "question": "What is reaction distance?",
+    "choices": ["The distance covered after the brakes are applied", "The distance from the vehicle in front", "The distance you will travel between realizing you must brake and when you physically hit the brakes"],
+    "answer": "The distance you will travel between realizing you must brake and when you physically hit the brakes"
+  },
+  {
+    "question": "When passing a row of parked vehicles, a driver should:",
+    "choices": ["Increase speed", "Watch for signs of a person exiting a vehicle", "Honk to alert potential pedestrians"],
+    "answer": "Watch for signs of a person exiting a vehicle"
+  },
+  {
+    "question": "When backing with a trailer, turning toward the driver’s side is encouraged because:",
+    "choices": ["It's easier to maneuver", "The driver will have the best possible view", "It is the standard procedure"],
+    "answer": "The driver will have the best possible view"
+  },
+  {
+    "question": "In very hot weather, tires should be checked regularly because:",
+    "choices": ["They can become overinflated", "Air pressure may increase with the temperature", "They are likely to go flat"],
+    "answer": "Air pressure may increase with the temperature"
+  },
+  {
+    "question": "When driving:",
+    "choices": ["You should always use turn signals to warn others about your intentions", "Using turn signals is optional", "Signals are only necessary when traffic is present"],
+    "answer": "You should always use turn signals to warn others about your intentions"
+  },
+  {
+    "question": "The most important reason to inspect your vehicle before a trip is:",
+    "choices": ["To ensure it looks clean", "To ensure safety", "To check fuel levels"],
+    "answer": "To ensure safety"
+  },
+  {
+    "question": "If you must stop on the side of a highway, how far behind your vehicle should warning devices be placed?",
+    "choices": ["5, 50, and 100 feet", "10, 100, and 200 feet", "20, 150, and 300 feet"],
+    "answer": "10, 100, and 200 feet"
+  },
+  {
+    "question": "In an emergency, if you must leave the roadway to drive on the shoulder, you should:",
+    "choices": ["Keep moving at highway speed", "Stop safely before returning to the road, if possible", "Return to the road immediately"],
+    "answer": "Stop safely before returning to the road, if possible"
+  },
+  {
+    "question": "When inspecting a power steering-equipped vehicle, you should be sure that:",
+    "choices": ["The fan belt is tight", "The fluid is at the proper level", "The steering wheel is comfortable to hold"],
+    "answer": "The fluid is at the proper level"
+  },
+  {
+    "question": "Accelerating roughly is:",
+    "choices": ["Recommended in most situations", "Discouraged, as it may cause damage to the vehicle", "Only a concern for new vehicles"],
+    "answer": "Discouraged, as it may cause damage to the vehicle"
+  },
+  {
+    "question": "When stopping:",
+    "choices": ["The brake pedal should be pressed down gradually", "You should always stop abruptly", "Only use the handbrake"],
+    "answer": "The brake pedal should be pressed down gradually"
+  },
+  {
+    "question": "If you must drive in reverse, it is helpful to:",
+    "choices": ["Use the rearview mirror only", "First exit the truck and walk the path to look for obstacles", "Reverse quickly to minimize time"],
+    "answer": "First exit the truck and walk the path to look for obstacles"
+  },
+  {
+    "question": "Dual tires should:",
+    "choices": ["Not come into contact with one another", "Be of different sizes", "Be rotated every 500 miles"],
+    "answer": "Not come into contact with one another"
+  },
+  {
+    "question": "Most heavy vehicles require ____ to change gears.",
+    "choices": ["Single clutching", "Double clutching", "Automatic transmission"],
+    "answer": "Double clutching"
+  },
+  {
+    "question": "The two indicators that determine when you should upshift are:",
+    "choices": ["Engine temperature and road condition", "Engine speed and road speed", "Fuel level and engine speed"],
+    "answer": "Engine speed and road speed"
+  },
+  {
+    "question": "Leaking shock absorbers:",
+    "choices": ["Are a normal occurrence", "Indicate a potentially dangerous defect", "Improve vehicle handling"],
+    "answer": "Indicate a potentially dangerous defect"
+  },
+  {
+    "question": "If you need to travel down a hill, you should switch into a lower gear:",
+    "choices": ["At the bottom of the hill", "Halfway down the hill", "Before you start moving downhill"],
+    "answer": "Before you start moving downhill"
+  },
+  {
+    "question": "For safety purposes, when should you turn off a retarder?",
+    "choices": ["When the roadways are slippery", "On highways", "In urban areas"],
+    "answer": "When the roadways are slippery"
+  },
+  {
+    "question": "When checking your vehicle's lights before driving:",
+    "choices": ["The engine should be running", "The engine should be turned off", "It's not necessary to check every time"],
+    "answer": "The engine should be turned off"
+  },
+  {
+    "question": "When testing a parking brake, the vehicle should:",
+    "choices": ["Be in neutral", "Be placed in a low gear while the driver attempts to pull forward", "Be moving slowly"],
+    "answer": "Be placed in a low gear while the driver attempts to pull forward"
+  },
+  {
+    "question": "When parked on the side of the road, you should:",
+    "choices": ["Turn off all lights", "Use your high beams", "Use your four-way flashers"],
+    "answer": "Use your four-way flashers"
+  },
+  {
+    "question": "If driving a vehicle with a manual transmission, you can prevent your vehicle from rolling backward when starting from a stop by:",
+    "choices": ["Accelerating quickly", "Partly engaging the clutch before removing your foot from the brake pedal", "Using the parking brake only"],
+    "answer": "Partly engaging the clutch before removing your foot from the brake pedal"
+  },
+  {
+    "question": "How does doubling your speed from 20 mph to 40 mph affect your vehicle's braking distance?",
+    "choices": ["It doubles", "It triples", "It quadruples"],
+    "answer": "It quadruples"
+  },
+  {
+    "question": "When backing, it is best to:",
+    "choices": ["Use a helper, if possible", "Back up quickly", "Avoid using mirrors"],
+    "answer": "Use a helper, if possible"
+  },
+  {
+    "question": "A truck should be parked:",
+    "choices": ["So that it faces downhill", "So that it can be pulled forward to leave the space", "In reverse position"],
+    "answer": "So that it can be pulled forward to leave the space"
+  },
+  {
+    "question": "When using your mirrors, you should frequently look at your tires to:",
+    "choices": ["Check their condition", "Adjust your speed", "Watch for tire fires"],
+    "answer": "Watch for tire fires"
+  },
+  {
+    "question": "You must put out emergency warning devices within ____ of stopping on the side of the road.",
+    "choices": ["5 minutes", "10 minutes", "15 minutes"],
+    "answer": "10 minutes"
+  },
+  {
+    "question": "Texting while driving a CMV is:",
+    "choices": ["Allowed in certain conditions", "Only allowed at low speeds", "Prohibited"],
+    "answer": "Prohibited"
+  },
+  {
+    "question": "If a driver begins to feel fatigued while driving, they should:",
+    "choices": ["Continue driving", "Stop and rest", "Drink coffee"],
+    "answer": "Stop and rest"
+  },
+  {
+    "question": "How could you reduce your stress while driving?",
+    "choices": ["Listen to loud music", "Drive faster", "Listen to calming music"],
+    "answer": "Listen to calming music"
+  },
+  {
+    "question": "If an aggressive driver confronts you, you should not:",
+    "choices": ["Challenge them", "Ignore them", "Get out of their way"],
+    "answer": "Challenge them"
+  },
+  {
+    "question": "When driving a vehicle equipped with an Anti-Lock Braking System (ABS), you should:",
+    "choices": ["Brake differently than normal", "Brake as you would in a vehicle not equipped with ABS", "Avoid using the brakes"],
+    "answer": "Brake as you would in a vehicle not equipped with ABS"
+  },
+  {
+    "question": "If an approaching driver is using their high beam headlights, you should:",
+    "choices": ["Turn on your high beams", "Flash your headlights", "Look to the right side of your lane until the vehicle has passed"],
+    "answer": "Look to the right side of your lane until the vehicle has passed"
+  },
+  {
+    "question": "Over-the-counter medication:",
+    "choices": ["Has no effect on driving ability", "Can affect a person’s ability to drive safely", "Improves driving focus"],
+    "answer": "Can affect a person’s ability to drive safely"
+  },
+  {
+    "question": "If you are driving at a reduced speed in a construction zone when you spot a construction worker near the road, you should:",
+    "choices": ["Maintain your speed", "Further reduce your speed", "Honk to alert the worker"],
+    "answer": "Further reduce your speed"
+  },
+  {
+    "question": "If you realize you may be running late to your destination, you should:",
+    "choices": ["Speed up", "Deal with it and drive at a safe speed", "Call and notify someone"],
+    "answer": "Deal with it and drive at a safe speed"
+  },
+  {
+    "question": "Joggers who are wearing headsets:",
+    "choices": ["Can hear traffic clearly", "May not be aware of what is happening around them", "Are usually more attentive"],
+    "answer": "May not be aware of what is happening around them"
+  },
+  {
+    "question": "A person working on a disabled vehicle on the shoulder of a road:",
+    "choices": ["Is likely paying attention to traffic", "May be focused on the repair and not paying attention to roadway traffic", "Should not be a concern to passing drivers"],
+    "answer": "May be focused on the repair and not paying attention to roadway traffic"
+  },
+  {
+    "question": "What is the purpose of a vehicle inspection report?",
+    "choices": ["To keep a record of routes", "To log fuel usage", "It tells the motor carrier about problems that may need to be fixed"],
+    "answer": "It tells the motor carrier about problems that may need to be fixed"
+  },
+  {
+    "question": "An open automobile window in cold weather may indicate that the driver is:",
+    "choices": ["Enjoying the fresh air", "Driving impaired", "Listening for unusual noises from their vehicle"],
+    "answer": "Driving impaired"
+  },
+  {
+    "question": "While driving, you should:",
+    "choices": ["Only focus on the vehicle ahead", "Develop plans to get out of any dangerous situation that could arise", "Ignore distractions"],
+    "answer": "Develop plans to get out of any dangerous situation that could arise"
+  },
+  {
+    "question": "If an aggressive driver is involved in a crash on the road ahead of you, you should:",
+    "choices": ["Continue driving", "Stop and offer assistance", "Stop after the crash scene and report the driver’s aggressive behavior to the police"],
+    "answer": "Stop after the crash scene and report the driver’s aggressive behavior to the police"
+  },
+  {
+    "question": "The radiator cap:",
+    "choices": ["Should be checked regularly while driving", "Should not be removed when the coolant is hot", "Is not important for vehicle operation"],
+    "answer": "Should not be removed when the coolant is hot"
+  }
+]
+

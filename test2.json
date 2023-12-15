@@ -1,0 +1,253 @@
+[
+  
+  {
+    "question": "What is the Gross Vehicle Weight Rating (GVWR)?",
+    "choices": ["The weight of the vehicle without cargo", "The maximum permitted total weight of a vehicle and its cargo", "The weight of the vehicle including the driver"],
+    "answer": "The maximum permitted total weight of a vehicle and its cargo"
+  },
+  {
+    "question": "If transporting 30 feet of cargo on a flatbed trailer, you should use a minimum of ____ to restrain the cargo.",
+    "choices": ["One tie-down", "Three tie-downs", "Five tie-downs"],
+    "answer": "Three tie-downs"
+  },
+  {
+    "question": "A poor balance of weight in a trailer:",
+    "choices": ["Can make handling unsafe", "Has no effect on handling", "Improves fuel efficiency"],
+    "answer": "Can make handling unsafe"
+  },
+  {
+    "question": "You should always use at least ____ to secure cargo on a flatbed trailer.",
+    "choices": ["One tie-down", "Two tie-downs", "Four tie-downs"],
+    "answer": "Two tie-downs"
+  },
+  {
+    "question": "Bracing is used to:",
+    "choices": ["Increase the vehicle's speed", "Prevent items from moving in a trailer", "Support the roof of the trailer"],
+    "answer": "Prevent items from moving in a trailer"
+  },
+  {
+    "question": "An item that is 40 feet long placed on a flatbed trailer should be secured by at least ____ tie-down(s).",
+    "choices": ["Two", "Three", "Four"],
+    "answer": "Four"
+  },
+  {
+    "question": "If transporting livestock, drivers should be concerned about:",
+    "choices": ["The vehicle's weight shifting as the animals move", "The animals getting sick", "The time it takes to deliver"],
+    "answer": "The vehicle's weight shifting as the animals move"
+  },
+  {
+    "question": "A truck may need to be under the legal maximum weight limit when being driven:",
+    "choices": ["On a flat highway", "On a mountainous road", "In urban areas"],
+    "answer": "On a mountainous road"
+  },
+  {
+    "question": "Too little weight on a steering axle can result in:",
+    "choices": ["Improved handling", "Poor traction", "Increased fuel efficiency"],
+    "answer": "Poor traction"
+  },
+  {
+    "question": "Dry bulk tanks require special care because:",
+    "choices": ["They are difficult to clean", "They have high centers of gravity", "They are prone to rusting"],
+    "answer": "They have high centers of gravity"
+  },
+  {
+    "question": "You should cover cargo:",
+    "choices": ["To protect it from theft", "To protect the cargo from weather", "Only if it is fragile"],
+    "answer": "To protect the cargo from weather"
+  },
+  {
+    "question": "When carrying a sealed load, the driver:",
+    "choices": ["Does not need to check the cargo", "Should ensure the weight of the cargo does not violate weight limits", "Must open and inspect the cargo"],
+    "answer": "Should ensure the weight of the cargo does not violate weight limits"
+  },
+  {
+    "question": "A second conviction of operating a CMV with a minimum blood alcohol concentration (BAC) of 0.04 percent will result in:",
+    "choices": ["A fine", "The loss of your CDL for life", "A temporary suspension of your CDL"],
+    "answer": "The loss of your CDL for life"
+  },
+  {
+    "question": "While still below the legal limit, a driver operating a CMV with a detectable amount of alcohol in their system will:",
+    "choices": ["Be fined", "Result in an out-of-service order for 24 hours", "Have no consequences"],
+    "answer": "Result in an out-of-service order for 24 hours"
+  },
+  {
+    "question": "If you are disqualified from driving:",
+    "choices": ["You must notify your employer within two business days", "You can still drive personal vehicles", "You do not need to inform anyone"],
+    "answer": "You must notify your employer within two business days"
+  },
+  {
+    "question": "While operating a CMV:",
+    "choices": ["You are always required to wear a safety belt", "Safety belts are optional", "Only wear a safety belt in heavy traffic"],
+    "answer": "You are always required to wear a safety belt"
+  },
+  {
+    "question": "It is illegal to operate a CMV with a minimum blood alcohol content (BAC) of:",
+    "choices": ["0.02 percent", "0.04 percent", "0.08 percent"],
+    "answer": "0.04 percent"
+  },
+  {
+    "question": "If asked by a law enforcement officer to take a test to determine your blood alcohol concentration (BAC):",
+    "choices": ["You have the right to refuse", "You will lose your CDL if you refuse to take the test", "You can request a lawyer first"],
+    "answer": "You will lose your CDL if you refuse to take the test"
+  },
+  {
+    "question": "Your CDL will be revoked if:",
+    "choices": ["You receive a parking ticket", "You fail a drug test", "Your privilege to operate your personal vehicle is revoked"],
+    "answer": "Your privilege to operate your personal vehicle is revoked"
+  },
+  {
+    "question": "If convicted of a traffic violation, you must inform your employer:",
+    "choices": ["Within 30 days", "Immediately", "Only if your license is suspended"],
+    "answer": "Within 30 days"
+  },
+  {
+    "question": "While driving a CMV:",
+    "choices": ["You may not hold a cell phone to make a call", "You can use any mobile device freely", "Only hands-free calls are prohibited"],
+    "answer": "You may not hold a cell phone to make a call"
+  },
+  {
+    "question": "During the steering box portion of the vehicle inspection test, you should not:",
+    "choices": ["Check for missing nuts and bolts", "Assume all cotter keys are present", "Inspect for power steering fluid leaks"],
+    "answer": "Assume all cotter keys are present"
+  },
+  {
+    "question": "When performing a pre-trip inspection and looking into the fifth wheel gap, you should:",
+    "choices": ["Ensure there is no gap between the kingpin and the locking jaws", "Make sure the locking jaws are fully closed around the kingpin", "Check for any visible damage only"],
+    "answer": "Make sure the locking jaws are fully closed around the kingpin"
+  },
+  {
+    "question": "Move over laws require:",
+    "choices": ["Slowing down when approaching a stationary vehicle", "All vehicles to vacate the lane closest to an emergency vehicle that is stopped with its lights flashing", "Honking when passing a stopped emergency vehicle"],
+    "answer": "All vehicles to vacate the lane closest to an emergency vehicle that is stopped with its lights flashing"
+  },
+  {
+    "question": "Emergency equipment in a vehicle is:",
+    "choices": ["Optional", "Required", "Only necessary for long trips"],
+    "answer": "Required"
+  },
+  {
+    "question": "Mirror adjustment can only be checked properly if:",
+    "choices": ["The vehicle is in motion", "The mirrors are clean", "The trailer is straight"],
+    "answer": "The trailer is straight"
+  },
+  {
+    "question": "If unable to tell if the road is becoming icy and slippery, a driver:",
+    "choices": ["Should increase speed", "May open their window and feel the front of the side mirror for ice", "Must stop immediately"],
+    "answer": "May open their window and feel the front of the side mirror for ice"
+  },
+  {
+    "question": "What happens when a vehicle hydroplanes?",
+    "choices": ["The brakes become more effective", "The tires lose contact with the road", "The vehicle speeds up automatically"],
+    "answer": "The tires lose contact with the road"
+  },
+  {
+    "question": "A cardboard box on the roadway:",
+    "choices": ["May contain a heavy object that could damage your vehicle", "Is always harmless", "Should be ignored"],
+    "answer": "May contain a heavy object that could damage your vehicle"
+  },
+  {
+    "question": "A stopped bus:",
+    "choices": ["Is a concern, whether passengers are visible or not", "Should be passed quickly", "Only requires caution if children are present"],
+    "answer": "Is a concern, whether passengers are visible or not"
+  },
+  {
+    "question": "Headlights:",
+    "choices": ["Should be on the high beam setting whenever possible", "Should be off during the day", "Should be used only in complete darkness"],
+    "answer": "Should be on the high beam setting whenever possible"
+  },
+  {
+    "question": "What is road rage?",
+    "choices": ["Simply honking at other drivers", "Operating a motor vehicle with the intent of doing harm to others", "Driving over the speed limit"],
+    "answer": "Operating a motor vehicle with the intent of doing harm to others"
+  },
+  {
+    "question": "Black ice is:",
+    "choices": ["A thin layer of ice on the road", "Completely black and visible ice", "Ice that makes loud noises"],
+    "answer": "A thin layer of ice on the road"
+  },
+  {
+    "question": "Before entering a curve, you should:",
+    "choices": ["Accelerate", "Maintain your speed", "Downshift"],
+    "answer": "Downshift"
+  },
+  {
+    "question": "When driving, it is important to:",
+    "choices": ["Only look forward", "Look to the front, sides, and rear of your vehicle", "Focus on the radio"],
+    "answer": "Look to the front, sides, and rear of your vehicle"
+  },
+  {
+    "question": "When making a turn, when should you cancel your turn signal?",
+    "choices": ["Before starting the turn", "After the turn is completed", "Halfway through the turn"],
+    "answer": "After the turn is completed"
+  },
+  {
+    "question": "The maximum amount of play that is safe on a 20-inch steering wheel is:",
+    "choices": ["One inch", "Two inches", "Five inches"],
+    "answer": "Two inches"
+  },
+  {
+    "question": "If you identify a distracted driver on the road, you should:",
+    "choices": ["Honk to alert them", "Follow closely to keep an eye on them", "Give them plenty of room"],
+    "answer": "Give them plenty of room"
+  },
+  {
+    "question": "When conducting a pre-drive inspection:",
+    "choices": ["You should ignore previous reports", "The previous inspection report should be reviewed, if applicable", "Start the engine immediately"],
+    "answer": "The previous inspection report should be reviewed, if applicable"
+  },
+  {
+    "question": "In low temperatures, bridges usually freeze:",
+    "choices": ["After other parts of the roadway", "At the same time as other parts", "Before other parts of the roadway"],
+    "answer": "Before other parts of the roadway"
+  },
+  {
+    "question": "If being tailgated, you should:",
+    "choices": ["Speed up", "Brake suddenly", "Increase the amount of space between your vehicle and the vehicle in front of you"],
+    "answer": "Increase the amount of space between your vehicle and the vehicle in front of you"
+  },
+  {
+    "question": "If a vehicle is equipped with power steering, the hoses should be checked:",
+    "choices": ["For leaks", "For color changes", "For temperature"],
+    "answer": "For leaks"
+  },
+  {
+    "question": "You will often have to drive your vehicle under bridges and overpasses. If approaching such an opening, you should:",
+    "choices": ["Speed up", "Assume the posted clearance height is inaccurate", "Rely on GPS for clearance information"],
+    "answer": "Assume the posted clearance height is inaccurate"
+  },
+  {
+    "question": "A ramp's posted speed limit:",
+    "choices": ["Should always be followed", "Is suitable for some vehicles, but may be too fast for a large CMV", "Is only a suggestion"],
+    "answer": "Is suitable for some vehicles, but may be too fast for a large CMV"
+  },
+  {
+    "question": "Parked delivery trucks may be hazardous because:",
+    "choices": ["They take up a lot of space", "They often have loud music playing", "People are often in a hurry when exiting such trucks and may not look for other vehicles"],
+    "answer": "People are often in a hurry when exiting such trucks and may not look for other vehicles"
+  },
+  {
+    "question": "How do ice cream trucks become hazardous to other drivers?",
+    "choices": ["They make frequent stops", "Children often run toward an ice cream truck without looking for other traffic", "They play loud music"],
+    "answer": "Children often run toward an ice cream truck without looking for other traffic"
+  },
+  {
+    "question": "When a vehicle is started, warning lights and buzzers:",
+    "choices": ["Should stay on", "Should turn off within a few seconds", "Should be ignored"],
+    "answer": "Should turn off within a few seconds"
+  },
+  {
+    "question": "After two violations of any state law regarding hand-held mobile phone use:",
+    "choices": ["You will be given a warning", "You will be fined", "Your CDL will be disqualified"],
+    "answer": "Your CDL will be disqualified"
+  },
+  {
+    "question": "One way to avoid becoming an aggressive driver is to:",
+    "choices": ["Ignore other drivers", "Set realistic expectations regarding travel time", "Always drive faster than the traffic flow"],
+    "answer": "Set realistic expectations regarding travel time"
+  },
+  {
+    "question": "When passing another vehicle, you should:",
+    "choices": ["Use the horn continuously", "Assume the other driver doesn’t see you", "Pass as closely as possible"],
+    "answer": "Assume the other driver doesn’t see you"
+  }
+]
