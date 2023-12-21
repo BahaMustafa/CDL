@@ -88,6 +88,7 @@ function App() {
         <option value="airBrakes">Air Brakes</option>
         <option value="combination">Combination</option>
         <option value="generalKnowledge">General Knowledge</option>
+        <option value="generalKnowledge1">General Knowledge1</option>
       </select>
       {testCompleted ? (
         <>

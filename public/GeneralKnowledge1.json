@@ -1,0 +1,438 @@
+[
+{
+  "question": "58. For your safety, when setting out reflective triangles you should:",
+  "choices": [
+      "Carry the triangles at your side.",
+      "Hold the triangles between yourself and oncoming traffic.",
+      "Keep them out of sight while you walk to the spots where you set them out."
+  ],
+  "answer": "Hold the triangles between yourself and oncoming traffic."
+},
+{
+  "question": "59. Heavy vehicles must sometimes travel more slowly than other traffic. Which of these is NOT a good rule to follow when you are driving such a vehicle?",
+  "choices": [
+      "Signal other drivers when it is safe for them to pass you.",
+      "Stay to the right.",
+      "Turn on your flashers if it is legal to do so."
+  ],
+  "answer": "Turn on your flashers if it is legal to do so."
+},
+{
+  "question": "60. The most important reason for being alert to hazards is so:",
+  "choices": [
+      "Accident reports will be accurate.",
+      "Law enforcement personnel can be called.",
+      "You will have time to plan your escape if the hazard becomes an emergency."
+  ],
+  "answer": "You will have time to plan your escape if the hazard becomes an emergency."
+},
+{
+  "question": "61. Hydroplaning:",
+  "choices": [
+      "Cannot occur when driving through a puddle.",
+      "Only occurs at speeds above 50 mph.",
+      "Is more likely if tire pressure is low."
+  ],
+  "answer": "Is more likely if tire pressure is low."
+},
+{
+  "question": "62. If you are being tailgated, you should:",
+  "choices": [
+      "Increase your following distance.",
+      "Flash your brake lights.",
+      "Signal the tailgater when it is safe to pass you."
+  ],
+  "answer": "Signal the tailgater when it is safe to pass you."
+},
+{
+  "question": "63. Which of these statements about overhead clearance is true?",
+  "choices": [
+      "You should assume posted clearance signs are correct.",
+      "The weight of a vehicle changes its height.",
+      "If the road surface causes your vehicle to tilt toward objects at the edge of the road, you should drive close to the shoulder."
+  ],
+  "answer": "You should assume posted clearance signs are correct."
+},
+{
+  "question": "64. Which of these is a good rule to follow when using a fire extinguisher?",
+  "choices": [
+      "Keep as close to the fire as possible.",
+      "Stay downwind of the fire.",
+      "Aim at the base of the fire."
+  ],
+  "answer": "Aim at the base of the fire."
+},
+{
+  "question": "65. While driving, you see a small (1-foot square) cardboard box ahead in your lane. You should:",
+  "choices": [
+      "Steer around it without making a sudden or unsafe move.",
+      "Brake hard to avoid hitting it.",
+      "Hit it with your vehicle to knock it off the road."
+  ],
+  "answer": "Steer around it without making a sudden or unsafe move."
+},
+{
+  "question": "66. Is it legal to drive with one fourth of a vehicle's leaf springs broken or missing?",
+  "choices": [
+      "It doesn't make any difference as long as you go the speed limit.",
+      "Yes.",
+      "No."
+  ],
+  "answer": "No."
+},
+{
+  "question": "67. Which of these can cause a fire?",
+  "choices": [
+      "Loose fuel connections.",
+      "Under-inflated tires.",
+      "Electrical short circuits.",
+      "All the answers are correct."
+  ],
+  "answer": "All of the answers are correct."
+},
+{
+  "question": "68. Dry bulk tanks and hanging meat:",
+  "choices": [
+      "Have low centers of gravity.",
+      "Do not require special care.",
+      "Are unstable loads."
+  ],
+  "answer": "Are unstable loads."
+},
+{
+  "question": "69. Which of the following should you NOT do in the event of hydraulic brake failure?",
+  "choices": [
+      "Shift up.",
+      "Use the parking or emergency brake.",
+      "Pump the brakes."
+  ],
+  "answer": "Use the parking or emergency brake."
+},
+{
+  "question": "70. To correct a drive-wheel braking skid you should:",
+  "choices": [
+      "Turn slowly.",
+      "Keep your foot off the clutch.",
+      "Counter-steer."
+  ],
+  "answer": "Counter-steer."
+},
+{
+  "question": "71. Which of the following statements about tank vehicles is true?",
+  "choices": [
+      "All tank vehicles have some sort of bulkhead or baffle.",
+      "The term 'tank vehicle' refers only to those vehicles having a permanently attached tank.",
+      "Special skills are required to haul liquid tanks."
+  ],
+  "answer": "All tank vehicles have some sort of bulkhead or baffle."
+},
+{
+  "question": "72. If you are driving a long distance, you should:",
+  "choices": [
+      "Stop often and take short breaks before you feel really drowsy or tired.",
+      "Take a short break once or twice during the trip when you are feeling tired or drowsy.",
+      "Avoid short breaks, but keep the window open."
+  ],
+  "answer": "Stop often and take short breaks before you feel really drowsy or tired."
+},
+{
+  "question": "73. Which of the following is true about a vehicle with a high center of gravity?",
+  "choices": [
+      "The vehicle is less likely to tip over.",
+      "The cargo should be rearranged so that the heaviest parts of the cargo are under the lightest parts.",
+      "The vehicle is less dangerous on curves."
+  ],
+  "answer": "The cargo should be rearranged so that the heaviest parts of the cargo are under the lightest parts."
+},
+{
+  "question": "74. To prevent skidding, you should:",
+  "choices": [
+      "Brake hard at all stops.",
+      "Turn the wheel sharply for all turns.",
+      "Adjust to conditions while driving."
+  ],
+  "answer": "Adjust to conditions while driving."
+},
+{
+  "question": "75. You should back and turn toward the driver's side:",
+  "choices": [
+      "Unless you would have to drive around the block first.",
+      "So you can watch the rear of the vehicle by looking out the side window.",
+      "If you do not have someone to help you."
+  ],
+  "answer": "So you can watch the rear of the vehicle by looking out the side window."
+},
+{
+  "question": "76. When you check the condition of visible parts during your pretrip inspection, make sure that they are secured against snagging, rubbing or wearing.",
+  "choices": [
+      "Primary and secondary safety cab locks.",
+      "Frame and cross members.",
+      "Airlines and electrical wiring."
+  ],
+  "answer": "Frame and cross members."
+},
+{
+  "question": "77. With a BAC of _, most people lose consciousness, and some die. a. .40 b. .16 c. .10",
+  "choices": [
+      "a. .40",
+      "b. .16",
+      "c. .10"
+  ],
+  "answer": "a. .40"
+},
+{
+  "question": "78. The distance your vehicle travels from the time your eyes see a hazard until your brakes recognize it is called:",
+  "choices": [
+      "Distance.",
+      "Perception.",
+      "Reaction.",
+      "Braking."
+  ],
+  "answer": "Perception."
+},
+{
+  "question": "79. Which of these items is checked in a pre-trip inspection?",
+  "choices": [
+      "Whether all vehicle lights are working and clean.",
+      "Cargo securement.",
+      "Wiper blades.",
+      "All of these answers are correct."
+  ],
+  "answer": "All of these answers are correct."
+},
+{
+  "question": "80. The 'reaction distance' is the distance traveled from the time:",
+  "choices": [
+      "The brain tells the foot to push the brake pedal to the time the foot actually pushes the pedal.",
+      "The eyes see a hazard to the time the brain knows that it is a hazard.",
+      "The eyes see a hazard to the time the foot pushes the brake pedal."
+  ],
+  "answer": "The eyes see a hazard to the time the brain knows that it is a hazard."
+},
+{
+  "question": "81. When driving a commercial vehicle with a height over 13 feet, you should:",
+  "choices": [
+      "If you aren't sure a clearance is high enough, stop and make sure.",
+      "Not worry about the height clearance as long as you stay on the state or federal highways.",
+      "Assume all clearances are high enough."
+  ],
+  "answer": "If you aren't sure a clearance is high enough, stop and make sure."
+},
+{
+  "question": "82. The purpose of a baffle is to:",
+  "choices": [
+      "Control the load surge.",
+      "Separate the load.",
+      "To keep expansion of load down."
+  ],
+  "answer": "Control the load surge."
+},
+{
+  "question": "83. The new BAC (Blood Alcohol Concentration) for commercial drivers to be considered intoxicated when driving a commercial vehicle is:",
+  "choices": [
+      "a. .02",
+      "b. .06",
+      "c. .04"
+  ],
+  "answer": "c. .04"
+},
+{
+  "question": "84. Truck escape ramps:",
+  "choices": [
+      "Cannot be used by certain types of heavy vehicles.",
+      "Are designed to protect vehicles from damage.",
+      "Should not be used unless you have first tried all other ways to save your vehicle after brake failure."
+  ],
+  "answer": "Should not be used unless you have first tried all other ways to save your vehicle after brake failure."
+},
+{
+  "question": "85. Which of these can cause the vehicle to skid?",
+  "choices": [
+      "Not enough weight on the front axle.",
+      "Over acceleration.",
+      "Turning too sharply.",
+      "All of these can cause a vehicle to skid."
+  ],
+  "answer": "All of these can cause a vehicle to skid."
+},
+{
+  "question": "86. Which of these describes how you should use the brake pedal on a steep downhill grade?",
+  "choices": [
+      "Release the brake when you are 5 MPH below your safe speed, then let your speed come back up to your safe speed and repeat braking again (bring your speed down 5 MPH below your safe speed).",
+      "With stronger pressure as the vehicle goes downhill.",
+      "Light steady pressure."
+  ],
+  "answer": "Light steady pressure."
+},
+{
+  "question": "87. An en-route inspection should include checking:",
+  "choices": [
+      "Cargo doors and/or cargo securement.",
+      "Tire temperature.",
+      "Brake temperature.",
+      "All of these should be checked."
+  ],
+  "answer": "All of these should be checked."
+},
+{
+  "question": "88. According to the driver's manual, why should you limit the use of your horn?",
+  "choices": [
+      "It wears down the battery.",
+      "It can startle other drivers.",
+      "The horn is not a good way to let others know you're there."
+  ],
+  "answer": "It can startle other drivers."
+},
+{
+  "question": "89. The amount of liquid to load into a tank depends on:",
+  "choices": [
+      "The weight of the liquid.",
+      "The legal weight limits.",
+      "The amount of liquid will expand in transit.",
+      "All of these are correct."
+  ],
+  "answer": "All of these are correct."
+},
+{
+  "question": "90. You should use your mirrors to check:",
+  "choices": [
+      "Traffic gaps before you merge.",
+      "The condition of the tires and cargo.",
+      "Where the rear of your vehicle is while you make turns.",
+      "All of these are correct."
+  ],
+  "answer": "All of these are correct."
+},
+{
+  "question": "91. Your brakes can get wet when you drive through a heavy rain. What can this cause when the brakes are applied?",
+  "choices": [
+      "Lack of braking power.",
+      "Trailer jackknife.",
+      "Wheel lockup.",
+      "All of these are correct."
+  ],
+  "answer": "All of these are correct."
+},
+{
+  "question": "92. Which of these statements about using mirrors is true?",
+  "choices": [
+      "There are blind spots that your mirrors cannot show you.",
+      "You should check your mirrors twice for a lane change.",
+      "You should look at a mirror for several seconds at a time."
+  ],
+  "answer": "There are blind spots that your mirrors cannot show you."
+},
+{
+  "question": "93. To avoid a crash, you had to drive onto the right shoulder. You are now driving at 40 MPH on the shoulder. How should you move back onto the pavement?",
+  "choices": [
+      "Keep moving at the present speed and steer very gently back onto the pavement.",
+      "Come to a complete stop, if possible, before steering back onto the pavement.",
+      "Brake hard to slow the vehicle, then steer sharply onto the pavement."
+  ],
+  "answer": "Keep moving at the present speed and steer very gently back onto the pavement."
+},
+{
+  "question": "94. Which of these statements about managing space is true?",
+  "choices": [
+      "Smaller vehicles require more space to stop than larger ones.",
+      "When the road is slippery, you should keep much more space in front of your vehicle.",
+      "Many accidents are caused by drivers keeping too much space in front of their vehicles."
+  ],
+  "answer": "When the road is slippery, you should keep much more space in front of your vehicle."
+},
+{
+  "question": "95. You are testing the stopping action of service brakes on a hydraulic system. Which of these can mean there is a problem?",
+  "choices": [
+      "The brake pedal goes to the floor.",
+      "Stopping action is delayed.",
+      "The vehicle pulls to one side when the brake pedal is pressed.",
+      "All of these are correct."
+  ],
+  "answer": "All of these are correct."
+},
+{
+  "question": "96. The distance that you should look ahead of your vehicle while driving amounts to about _____ at highway speed.",
+  "choices": [
+      "1/4 mile.",
+      "25 feet.",
+      "1 mile."
+  ],
+  "answer": "1/4 mile."
+},
+{
+  "question": "97. Which of these statements about drinking alcohol is true?",
+  "choices": [
+      "Alcohol first affects judgment and self-control, which are essential for safe driving.",
+      "Statistics show that drivers who have been drinking have a much greater chance of being in a crash.",
+      "A driver can lose their license for driving while under the influence of alcohol.",
+      "All of these are true."
+  ],
+  "answer": "All of these are true."
+},
+{
+  "question": "98. On which fires can you use the 'ABC' fire extinguisher?",
+  "choices": [
+      "Electrical fires.",
+      "Burning tires.",
+      "Burning cloth.",
+      "All of these are correct."
+  ],
+  "answer": "All of these are correct."
+},
+{
+  "question": "99. Which of these is a proper use of vehicle lights and flashers?",
+  "choices": [
+      "Flashing your brake lights to warn someone behind you of a hazard that will require slowing down.",
+      "Turning on your headlights during the day when visibility is reduced due to rain or snow.",
+      "Flashing your brake lights to warn someone behind you that you are going to stop on the road.",
+      "All of these are correct."
+  ],
+  "answer": "All of these are correct."
+},
+{
+  "question": "100. Which of these tell you that cargo contains hazardous materials?",
+  "choices": [
+      "A four-inch, diamond-shaped hazardous materials label on the container.",
+      "A hazardous materials placard on the vehicle.",
+      "Both of these answers are correct.",
+      "Neither of these answers are correct."
+  ],
+  "answer": "Both of these answers are correct."
+},
+{
+  "question": "101. If you are convicted for driving under the influence while driving a commercial vehicle, and this is your first offense, you will most likely get:",
+  "choices": [
+      "A fine of $500.",
+      "Probation for a period of one year.",
+      "At least a one-year suspension of your CDL."
+  ],
+  "answer": "At least a one-year suspension of your CDL."
+},
+{
+  "question": "102. Some liquid tanks are divided into several smaller tanks by:",
+  "choices": [
+      "Regulators.",
+      "Bulkheads.",
+      "Baffles."
+  ],
+  "answer": "Baffles."
+},
+{
+  "question": "103. Front-end header boards:",
+  "choices": [
+      "Block the forward movement of your cargo.",
+      "Protect you from your cargo in case of collision.",
+      "Both answers are correct."
+  ],
+  "answer": "Both answers are correct."
+},
+{
+  "question": "104. The height of the vehicle center of gravity is very important for safe handling. A high center of gravity means you are more likely to:",
+  "choices": [
+      "Rollover.",
+      "Stop faster.",
+      "Get stuck."
+  ],
+  "answer": "Rollover."
+}
+]
