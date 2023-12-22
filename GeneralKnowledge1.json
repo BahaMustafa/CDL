@@ -15,7 +15,7 @@
       "Stay to the right.",
       "Turn on your flashers if it is legal to do so."
   ],
-  "answer": "Turn on your flashers if it is legal to do so."
+  "answer": "Signal other drivers when it is safe for them to pass you."
 },
 {
   "question": "60. The most important reason for being alert to hazards is so:",
@@ -42,7 +42,7 @@
       "Flash your brake lights.",
       "Signal the tailgater when it is safe to pass you."
   ],
-  "answer": "Signal the tailgater when it is safe to pass you."
+  "answer": "Increase your following distance."
 },
 {
   "question": "63. Which of these statements about overhead clearance is true?",
@@ -51,7 +51,7 @@
       "The weight of a vehicle changes its height.",
       "If the road surface causes your vehicle to tilt toward objects at the edge of the road, you should drive close to the shoulder."
   ],
-  "answer": "You should assume posted clearance signs are correct."
+  "answer": "The weight of a vehicle changes its height."
 },
 {
   "question": "64. Which of these is a good rule to follow when using a fire extinguisher?",
@@ -106,7 +106,7 @@
       "Use the parking or emergency brake.",
       "Pump the brakes."
   ],
-  "answer": "Use the parking or emergency brake."
+  "answer": "Shift up."
 },
 {
   "question": "70. To correct a drive-wheel braking skid you should:",
@@ -124,7 +124,7 @@
       "The term 'tank vehicle' refers only to those vehicles having a permanently attached tank.",
       "Special skills are required to haul liquid tanks."
   ],
-  "answer": "All tank vehicles have some sort of bulkhead or baffle."
+  "answer": "Special skills are required to haul liquid tanks."
 },
 {
   "question": "72. If you are driving a long distance, you should:",
@@ -169,7 +169,7 @@
       "Frame and cross members.",
       "Airlines and electrical wiring."
   ],
-  "answer": "Frame and cross members."
+  "answer": "Airlines and electrical wiring."
 },
 {
   "question": "77. With a BAC of _, most people lose consciousness, and some die. a. .40 b. .16 c. .10",
@@ -207,7 +207,7 @@
       "The eyes see a hazard to the time the brain knows that it is a hazard.",
       "The eyes see a hazard to the time the foot pushes the brake pedal."
   ],
-  "answer": "The eyes see a hazard to the time the brain knows that it is a hazard."
+  "answer": "The brain tells the foot to push the brake pedal to the time the foot actually pushes the pedal."
 },
 {
   "question": "81. When driving a commercial vehicle with a height over 13 feet, you should:",
@@ -243,7 +243,7 @@
       "Are designed to protect vehicles from damage.",
       "Should not be used unless you have first tried all other ways to save your vehicle after brake failure."
   ],
-  "answer": "Should not be used unless you have first tried all other ways to save your vehicle after brake failure."
+  "answer": "Are designed to protect vehicles from damage."
 },
 {
   "question": "85. Which of these can cause the vehicle to skid?",
@@ -262,7 +262,7 @@
       "With stronger pressure as the vehicle goes downhill.",
       "Light steady pressure."
   ],
-  "answer": "Light steady pressure."
+  "answer": "Release the brake when you are 5 MPH below your safe speed, then let your speed come back up to your safe speed and repeat braking again (bring your speed down 5 MPH below your safe speed)."
 },
 {
   "question": "87. An en-route inspection should include checking:",
@@ -329,7 +329,7 @@
       "Come to a complete stop, if possible, before steering back onto the pavement.",
       "Brake hard to slow the vehicle, then steer sharply onto the pavement."
   ],
-  "answer": "Keep moving at the present speed and steer very gently back onto the pavement."
+  "answer": "Come to a complete stop, if possible, before steering back onto the pavement."
 },
 {
   "question": "94. Which of these statements about managing space is true?",
@@ -415,7 +415,7 @@
       "Bulkheads.",
       "Baffles."
   ],
-  "answer": "Baffles."
+  "answer": "Bulkheads."
 },
 {
   "question": "103. Front-end header boards:",
