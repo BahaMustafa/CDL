@@ -1,0 +1,603 @@
+[
+  {
+    "question": "160. To avoid rollbacks when you start, you should:",
+    "choices": [
+      "Stop on a flat area.",
+      "Engage the clutch very quickly.",
+      "Partly engage the clutch before you take your right foot off the brake."
+    ],
+    "answer": "Partly engage the clutch before you take your right foot off the brake."
+  },
+  {
+    "question": "161. What is the proper way to hold the steering wheel?",
+    "choices": [
+      "Firmly with both hands on opposite sides of the wheel.",
+      "With your right hand on the wheel.",
+      "Firmly with one hand at the top of the wheel and the other hand at the bottom of the wheel."
+    ],
+    "answer": "Firmly with both hands on opposite sides of the wheel."
+  },
+  {
+    "question": "162. Why should you back towards the driver's side?",
+    "choices": [
+      "Backing toward the right side is dangerous.",
+      "So you can see better.",
+      "Both answers are correct."
+    ],
+    "answer": "Both answers are correct."
+  },
+  {
+    "question": "163. When backing, why is it important to use a helper?",
+    "choices": [
+      "It makes people think you are a better driver.",
+      "There are blind spots you can't see.",
+      "It's more fun when you have help."
+    ],
+    "answer": "There are blind spots you can't see."
+  },
+  {
+    "question": "164. What is the most important hand signal you and your backing helper should agree on?",
+    "choices": ["Stop.", "Go.", "Slowly."],
+    "answer": "Stop."
+  },
+  {
+    "question": "165. What are two special occasions where you should downshift?",
+    "choices": [
+      "When starting off fast and speed shifting.",
+      "Before starting down a hill and before entering a curve.",
+      "Before starting up a hill and when going around a curve."
+    ],
+    "answer": "Before starting down a hill and before entering a curve."
+  },
+  {
+    "question": "166. When should you downshift automatic transmissions?",
+    "choices": ["When going down grades.", "When going up grades.", "When going around curves."],
+    "answer": "When going down grades."
+  },
+  {
+    "question": "167. Retarders keep you from skidding where the road is slippery.",
+    "choices": ["True.", "False."],
+    "answer": "False."
+  },
+  {
+    "question": "168. What are two ways to know when to shift?",
+    "choices": [
+      "Use engine speed (rpm) and road signs.",
+      "Use your watch and engine sounds.",
+      "Use engine speed (rpm) and use road speed (mph)."
+    ],
+    "answer": "Use engine speed (rpm) and use road speed (mph)."
+  },
+  {
+    "question": "169. How far ahead should you look?",
+    "choices": ["5-10 seconds.", "12-15 seconds.", "15-30 seconds."],
+    "answer": "12-15 seconds."
+  },
+  
+    {
+      "question": "170. What are the two main things to look for ahead?",
+      "choices": [
+        "Road signs and traffic.",
+        "Police and weigh stations.",
+        "Traffic and road conditions."
+      ],
+      "answer": "Traffic and road conditions."
+    },
+    {
+      "question": "171. What is your most valuable way to see the sides and rear?",
+      "choices": [
+        "By looking out the window.",
+        "Checking your mirrors regularly.",
+        "Getting out and inspecting the areas."
+      ],
+      "answer": "Checking your mirrors regularly."
+    },
+    {
+      "question": "172. What does 'communicating' in mean in safe driving?",
+      "choices": [
+        "Letting other drivers know you're there to help prevent crashes.",
+        "Using hand signals.",
+        "Driving brightly colored vehicles."
+      ],
+      "answer": "Letting other drivers know you're there to help prevent crashes."
+    },
+    {
+      "question": "173. If you go twice as fast your stopping distance will increase by:",
+      "choices": ["Two times.", "Three times.", "Four times."],
+      "answer": "Four times."
+    },
+    {
+      "question": "174. Empty trucks have the best braking.",
+      "choices": ["True.", "False."],
+      "answer": "False."
+    },
+    {
+      "question": "175. What is hydroplaning?",
+      "choices": [
+        "Driving in the snow.",
+        "When the tires lose their contact with the road.",
+        "When you hit a pot hole."
+      ],
+      "answer": "When the tires lose their contact with the road."
+    },
+    {
+      "question": "176. What is black ice?",
+      "choices": [
+        "Dirty snow.",
+        "Rain and snow mixed.",
+        "A thin layer of ice clear enough that you can see the road underneath it."
+      ],
+      "answer": "A thin layer of ice clear enough that you can see the road underneath it."
+    },
+    {
+      "question": "177. If the vehicle in front of you is smaller than yours, it can probably:",
+      "choices": [
+        "Out-run you.",
+        "Stop faster than you.",
+        "Take turns faster than you."
+      ],
+      "answer": "Stop faster than you."
+    },
+    {
+      "question": "178. If you are driving a 30 foot vehicle at 55 mph, how many seconds of following distance should you allow?",
+      "choices": ["4 seconds.", "6 seconds.", "8 seconds."],
+      "answer": "4 seconds."
+    },
+    {
+      "question": "179. If you swing wide to the left before turning right another driver may try to pass you on your right.",
+      "choices": ["True.", "False."],
+      "answer": "True."
+    },
+    
+      {
+        "question": "180. You should use low beams whenever you can.",
+        "choices": ["True.", "False."],
+        "answer": "False."
+      },
+      {
+        "question": "181. What should you do before driving if you are sleepy?",
+        "choices": [
+          "Drink some coffee.",
+          "Take some caffeine pills.",
+          "Get some sleep before you drive."
+        ],
+        "answer": "Get some sleep before you drive."
+      },
+      {
+        "question": "182. What effects can wet brakes cause?",
+        "choices": [
+          "Brakes can be weak or grab.",
+          "Brakes to work better.",
+          "Your foot can get tired."
+        ],
+        "answer": "Brakes can be weak or grab."
+      },
+      {
+        "question": "183. How can you avoid wet brake problems?",
+        "choices": [
+          "Speed up, shift to a higher gear.",
+          "Slow down, shift to a low gear, gently put on the brakes.",
+          "Apply the brakes harder and faster."
+        ],
+        "answer": "Slow down, shift to a low gear, gently put on the brakes."
+      },
+      {
+        "question": "184. You should let air out of hot tires so the pressure goes back to normal.",
+        "choices": ["True.", "False."],
+        "answer": "False."
+      },
+      {
+        "question": "185. You can safely remove the radiator cap as long as the engine isn't overheated.",
+        "choices": ["True.", "False."],
+        "answer": "False."
+      },
+      {
+        "question": "186. What factors determine your selection of 'safe' speed when going down a long steep downgrade?",
+        "choices": [
+          "Size of vehicle, traffic conditions, curves in the road.",
+          "Condition of the brakes, radio bulletins, and alertness of the driver.",
+          "Total weight of the vehicle, length of the grade, steepness, road conditions, and weather."
+        ],
+        "answer": "Total weight of the vehicle, length of the grade, steepness, road conditions, and weather."
+      },
+      {
+        "question": "187. Why should you be in the proper gear before starting down a hill?",
+        "choices": [
+          "Because gravity can cause the speed of your vehicle to increase.",
+          "Because you don't want to shift going down a hill.",
+          "Because the clutch works better up a hill."
+        ],
+        "answer": "Because gravity can cause the speed of your vehicle to increase."
+      },
+      {
+        "question": "188. What is a hazard?",
+        "choices": [
+          "Any road condition or other road user that is a possible danger.",
+          "A flashing amber light.",
+          "A small animal."
+        ],
+        "answer": "Any road condition or other road user that is a possible danger."
+      },
+      {
+        "question": "189. Why make emergency plans when you see a hazard?",
+        "choices": [
+          "To have something to do while driving.",
+          "In order to protect yourself and others.",
+          "To avoid getting a ticket."
+        ],
+        "answer": "In order to protect yourself and others."
+      },
+      {
+        "question": "190. What are some advantages of going right instead of left around an obstacle?",
+        "choices": [
+          "You can avoid a head-on collision.",
+          "Taking the shoulder may be best.",
+          "Someone may be passing to the left.",
+          "All of these answers are correct."
+        ],
+        "answer": "All of these answers are correct."
+      },
+        
+        {
+          "question": "191. Stopping isn't always the safest thing to do in an emergency.",
+          "choices": ["True.", "False."],
+          "answer": "True."
+        },
+        {
+          "question": "192. What is an 'escape ramp'?",
+          "choices": [
+            "Ramps that are located a few miles from the top of a downgrade to help you stop.",
+            "A quick way to get out of town.",
+            "Ramps to get on and off an interstate highway fast."
+          ],
+          "answer": "Ramps that are located a few miles from the top of a downgrade to help you stop."
+        },
+        {
+          "question": "193. What are some things to do at an accident scene to prevent another accident?",
+          "choices": [
+            "Try to get your vehicle to the side of the road.",
+            "If you're stopping to help, park away from the accident.",
+            "Put on your flashers and set out reflective triangles.",
+            "All of these answers are correct."
+          ],
+          "answer": "All of these answers are correct."
+        },
+        {
+          "question": "194. Name two causes of fires:",
+          "choices": [
+            "Under-inflated tires and duals that touch.",
+            "Tight turns and gravel roads.",
+            "Driver smoking and following too close."
+          ],
+          "answer": "Under-inflated tires and duals that touch."
+        },
+        {
+          "question": "195. Which of these can cause the vehicle to skid?",
+          "choices": [
+            "Not enough weight on the front axle.",
+            "Over acceleration.",
+            "Turning too sharply.",
+            "All of these answers are correct."
+          ],
+          "answer": "All of these answers are correct."
+        },
+        {
+          "question": "196. You are driving a vehicle that could safely be driven at 55 mph on an open road; but traffic is now heavy, moving at 35 mph, although the speed limit is 55. The safest speed for your vehicle in this situation is most likely:",
+          "choices": ["35 mph.", "40 mph.", "45 mph."],
+          "answer": "35 mph."
+        },
+        {
+          "question": "197. Every time you park your vehicle and shut the engine off you should:",
+          "choices": [
+            "Leave it in gear (if it has a manual transmission).",
+            "Apply the parking brake.",
+            "Turn the steering wheel as far to the left as you can."
+          ],
+          "answer": "Apply the parking brake."
+        },
+        {
+          "question": "198. For an average commercial vehicle being driven at 55 mph on dry pavement it will take about _______ to bring the vehicle to a stop.",
+          "choices": [
+            "The length of a football field (300 feet).",
+            "Half the length of a football field (150 feet).",
+            "Twice the length of the vehicle."
+          ],
+          "answer": "The length of a football field (300 feet)."
+        },
+        {
+          "question": "199. Which of these statements about certain types of cargo is true?",
+          "choices": [
+            "Oversize loads can be hauled without special permits during daylight hours.",
+            "When liquids are hauled, the tank should always be loaded completely full.",
+            "Unstable loads such as hanging meat or livestock require extra caution on curves."
+          ],
+          "answer": "Unstable loads such as hanging meat or livestock require extra caution on curves."
+        },
+        {
+          "question": "200. Which of the following statements about backing is true?",
+          "choices": [
+            "Backing is always dangerous.",
+            "You should back and turn towards the driver's side whenever possible.",
+            "You should use a helper and communicate with hand signals.",
+            "All of these are true."
+          ],
+          "answer": "All of these are true."
+        },
+          {
+            "question": "201. The most common cause of serious vehicle skids is:",
+            "choices": [
+              "Driving too fast for road conditions.",
+              "Poorly adjusted brakes.",
+              "Over-inflated tires."
+            ],
+            "answer": "Driving too fast for road conditions."
+          },
+          {
+            "question": "202. The parking brake should be tested while the vehicle is:",
+            "choices": [
+              "Moving slowly.",
+              "Moving at highway speed.",
+              "Moving forward slowly."
+            ],
+            "answer": "Moving forward slowly."
+          },
+          {
+            "question": "203. A driver's trip log if required:",
+            "choices": [
+              "May be brought up to date once a week.",
+              "May be written in pencil.",
+              "Must be shown immediately when an officer requests it."
+            ],
+            "answer": "Must be shown immediately when an officer requests it."
+          },
+          {
+            "question": "204. When should the pre-trip inspection report from the last driver be reviewed?",
+            "choices": [
+              "During your pre-trip inspection.",
+              "Once per week.",
+              "It doesn't have to be reviewed."
+            ],
+            "answer": "During your pre-trip inspection."
+          },
+          {
+            "question": "205. If you are stopped at a rest area and found to have a BAC (Blood Alcohol Concentration) of .02 you will:",
+            "choices": [
+              "Be placed out of service for 24 hours.",
+              "Be placed out of service for 48 hours.",
+              "Be placed out of service for 72 hours."
+            ],
+            "answer": "Be placed out of service for 24 hours."
+          },
+          {
+            "question": "206. How far ahead should you be looking while driving in town?",
+            "choices": [
+              "1 block.",
+              "2 blocks.",
+              "As far ahead as you can see."
+            ],
+            "answer": "1 block."
+          },
+          {
+            "question": "207. How does 'bleeding tar' effect the road surface and driving conditions?",
+            "choices": [
+              "It is very sticky slowing down your vehicle.",
+              "Tar in the road pavement rises to the road surface in very hot weather causing the roads to become very slippery.",
+              "It does not affect the road surface or driving conditions."
+            ],
+            "answer": "Tar in the road pavement rises to the road surface in very hot weather causing the roads to become very slippery."
+          },
+          {
+            "question": "208. Converter dollies built on or after March 1, 1998 are required to have anti-lock brakes. These dollies will have:",
+            "choices": [
+              "A yellow malfunction lamp in the center of the dolly.",
+              "A yellow malfunction lamp on the left side of the dolly.",
+              "A yellow malfunction lamp on the right side of the dolly."
+            ],
+            "answer": "A yellow malfunction lamp on the right side of the dolly."
+          },
+          {
+            "question": "209. What is the minimum length for mud flaps?",
+            "choices": [
+              "Within 6 inches from the surface of the road.",
+              "Within 8 inches of the surface of the road.",
+              "Within 10 inches of the surface of the road."
+            ],
+            "answer": "Within 8 inches from the surface of the road."
+          },
+          {
+            "question": "210. How long does it take a typical tractor trailer to clear a single track? A double track?",
+            "choices": [
+              "It takes 7 seconds to clear a single track, and more than 10 seconds to clear a double track.",
+              "It takes 10 seconds to clear a single track, and more than 12 seconds to clear a double track.",
+              "It takes 14 seconds to clear a single track, and more than 15 seconds to clear a double track."
+            ],
+            "answer": "It takes 14 seconds to clear a single track, and more than 15 seconds to clear a double track."
+          },
+          
+            {
+              "question": "211. What is the definition of 'sleep debt'?",
+              "choices": [
+                "The cumulative effect of not getting enough sleep.",
+                "The money you owe hotels after resting there.",
+                "The amount of sleep you get each day."
+              ],
+              "answer": "The cumulative effect of not getting enough sleep."
+            },
+            {
+              "question": "212. Name some important steering system parts:",
+              "choices": [
+                "Tie rod, spindle, and pitman arm.",
+                "Leaf spring, vehicle frame, and torque rod.",
+                "Main spring, axle, and spring shackle."
+              ],
+              "answer": "Tie rod, spindle, and pitman arm."
+            },
+            {
+              "question": "213. What is the minimum tread depth for front tires?",
+              "choices": [
+                "1/32 inch.",
+                "2/32 inch.",
+                "4/32 inch."
+              ],
+              "answer": "4/32 inch."
+            },
+            {
+              "question": "214. When using your fire extinguisher you should get as close to the fire as possible.",
+              "choices": [
+                "True.",
+                "False."
+              ],
+              "answer": "False."
+            },
+            {
+              "question": "215. Name some things you should check on the FRONT of your vehicle during your pre-trip inspection:",
+              "choices": [
+                "Low beams, high beams, four-way flashers, and turn signals.",
+                "Windshield wipers, mirrors, and hood latches.",
+                "Oil, transmission, air compressor, and radiator."
+              ],
+              "answer": "Low beams, high beams, four-way flashers, and turn signals."
+            },
+            {
+              "question": "216. Why are placards used?",
+              "choices": [
+                "So hazardous materials are not mixed with food.",
+                "It is the law.",
+                "To communicate the risk."
+              ],
+              "answer": "To communicate the risk."
+            },
+            {
+              "question": "217. Name some suspension system defects:",
+              "choices": [
+                "Broken leaves in leaf spring and cracked or broken spring hanger.",
+                "Leaking shock absorbers.",
+                "All of the answers are correct."
+              ],
+              "answer": "All of the answers are correct."
+            },
+            {
+              "question": "218. What is the minimum tread depth for tires other than front tires?",
+              "choices": [
+                "2/32 inch.",
+                "3/32 inch.",
+                "4/32 inch."
+              ],
+              "answer": "2/32 inch."
+            },
+            {
+              "question": "219. How can you avoid the effects that wet brakes can cause?",
+              "choices": [
+                "Slow down and place the transmission in low gear.",
+                "Gently put on the brakes and increase engine rpm, cross the water while keeping light pressure on the brakes.",
+                "When out of water, maintain light pressure on the brakes for a short distance.",
+                "All of these answers are correct."
+              ],
+              "answer": "All of these answers are correct."
+            },
+            {
+              "question": "220. What things should you check during a trip?",
+              "choices": [
+                "Check load stability by slightly swerving left to right in your lane.",
+                "Map, directions, and weather report.",
+                "Watch gauges, mirrors, and use your senses to check for problems...LOOK, LISTEN, AND SMELL."
+              ],
+              "answer": "Watch gauges, mirrors, and use your senses to check for problems...LOOK, LISTEN, AND SMELL."
+            },
+            
+              {
+                "question": "221. Why should you be in the proper gear before starting down a hill?",
+                "choices": [
+                  "Because you need to be in the same gear at the bottom of the hill.",
+                  "You will not be able to shift into a lower gear once you are going down a hill.",
+                  "Because the clutch is made to be used on even surfaces."
+                ],
+                "answer": "You will not be able to shift into a lower gear once you are going down a hill."
+              },
+              {
+                "question": "222. What is an advantage of going right instead of left around an obstacle?",
+                "choices": [
+                  "There is no advantage.",
+                  "It is much easier to turn a truck to the right.",
+                  "If you are blocked on both sides, a move to the right won't force anybody into opposing traffic lane and a possible head-on collision."
+                ],
+                "answer": "If you are blocked on both sides, a move to the right won't force anybody into opposing traffic lane and a possible head-on collision."
+              },
+              {
+                "question": "223. Name two situations where legal maximum weights may not be safe to haul:",
+                "choices": [
+                  "During bad weather or in mountains.",
+                  "Through tunnels and over bridges.",
+                  "At night or during heavy traffic."
+                ],
+                "answer": "During bad weather or in mountains."
+              },
+              {
+                "question": "224. What three things related to cargo are the driver's responsibility?",
+                "choices": [
+                  "Inspecting the cargo, recognizing overloads, and properly securing the cargo.",
+                  "Inspecting the cargo, hauling the cargo, and securing the cargo.",
+                  "Weighing the cargo, securing the cargo, and delivering the cargo."
+                ],
+                "answer": "Inspecting the cargo, recognizing overloads, and properly securing the cargo."
+              },
+              {
+                "question": "225. What is a hazardous materials placard?",
+                "choices": [
+                  "Signs put on the outside of a vehicle which identify the hazard class of the cargo.",
+                  "Signs put on the back of a vehicle which identify the hazard class of the cargo.",
+                  "Signs put on the outside of a vehicle which identify the hazard class and weight of the vehicle."
+                ],
+                "answer": "Signs put on the outside of a vehicle which identify the hazard class of the cargo."
+              },
+              {
+                "question": "226. What must you check before transporting a sealed load?",
+                "choices": [
+                  "That the seal is authentic.",
+                  "That the load is properly secured.",
+                  "That the placard numbers match the seal numbers."
+                ],
+                "answer": "That the load is properly secured."
+              },
+              {
+                "question": "227. How do you calculate how many seconds of following distance space you have?",
+                "choices": [
+                  "Wait until the vehicle ahead of you passes a clear landmark, then count off the seconds until you reach the same spot.",
+                  "Wait until the vehicle ahead of you passes a clear landmark, then count off the seconds until you reach the same spot, then multiply your figure by 2.",
+                  "Divide your speed by four and add one second for every ten feet of trailer you are hauling."
+                ],
+                "answer": "Wait until the vehicle ahead of you passes a clear landmark, then count off the seconds until you reach the same spot."
+              },
+              {
+                "question": "228. What is a 'pull-up'?",
+                "choices": [
+                  "When pulling off the shoulder you pull up until the trailer is straight.",
+                  "A maneuver performed by a tow truck to pick up an overturned truck.",
+                  "Pulling forward while backing a trailer to reposition it."
+                ],
+                "answer": "Pulling forward while backing a trailer to reposition it."
+              },
+              {
+                "question": "229. What should wheel bearing seals be checked for?",
+                "choices": [
+                  "Leaks.",
+                  "Gasoline.",
+                  "Color changes."
+                ],
+                "answer": "Leaks."
+              },
+              {
+                "question": "230. Select the proper collision procedures that are required for any collision that you are involved in; in which you are not seriously injured.",
+                "choices": [
+                  "Protect the area.",
+                  "Notify the authorities.",
+                  "Care for the injured.",
+                  "All of these are required."
+                ],
+                "answer": "All of these are required."
+              }
+                        
+                    
+        ]        
+      
+      
