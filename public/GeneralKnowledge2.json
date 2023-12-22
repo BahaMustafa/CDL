@@ -1,0 +1,488 @@
+[
+  {
+    "question": "105. The 'load' means the following?",
+    "choices": [
+      "Specified pressure an air tire can carry.",
+      "The maximum safe weight a tire can carry at a specified pressure.",
+      "Neither of these answers are correct."
+    ],
+    "answer": "The maximum safe weight a tire can carry at a specified pressure."
+  },
+  {
+    "question": "106. Whether or not you load and secure your load yourself, you are responsible for:",
+    "choices": [
+      "Knowing your cargo is securely tied-down and covered.",
+      "Recognizing overloads and poorly balanced weight.",
+      "Inspecting your cargo.",
+      "All of these answers are correct."
+    ],
+    "answer": "All of these answers are correct."
+  },
+  {
+    "question": "107. Which of these statements about downshifting for a long downhill grade is true?",
+    "choices": [
+      "The proper time to downshift is just after the vehicle starts down the hill.",
+      "It allows engine compression and friction to help the brakes slow the vehicle.",
+      "It should not be done with automatic transmissions."
+    ],
+    "answer": "It allows engine compression and friction to help the brakes slow the vehicle."
+  },
+  {
+    "question": "108. Medical certificates must be renewed every:",
+    "choices": ["2 years.", "9 months.", "4 years."],
+    "answer": "2 years."
+  },
+  {
+    "question": "109. During a pre-trip inspection you discover an exhaust leak or power steering leak, you should:",
+    "choices": [
+      "Report the problem and make arrangements for another vehicle to use.",
+      "Go home because you shouldn't drive the vehicle this way.",
+      "Note the problem and continue your route."
+    ],
+    "answer": "Report the problem and make arrangements for another vehicle to use."
+  },
+  {
+    "question": "110. During what time in your pre-trip inspection of a school bus do you check the back emergency door? (to ensure it is closed.)",
+    "choices": [
+      "During step four (lights first half) the inside walk through.",
+      "Only during the operation inspection of the pre-trip.",
+      "Only during the inside walk through."
+    ],
+    "answer": "During step four (lights first half) the inside walk through."
+  },
+  {
+    "question": "111. Inspect your cargo after you have driven:",
+    "choices": [
+      "25 miles or 50 miles depending on the law in the state you are in, then again after 3 hours or after you have driven 150 miles and after every stop for a break.",
+      "75 miles.",
+      "150 miles."
+    ],
+    "answer": "25 miles or 50 miles depending on the law in the state you are in, then again after 3 hours or after you have driven 150 miles and after every stop for a break."
+  },
+  {
+    "question": "112. Axle weight means the following?",
+    "choices": [
+      "The weight transmitted to the ground by one axle or one set of axles.",
+      "The weight transmitted to the tires from the axle.",
+      "Both of these are correct."
+    ],
+    "answer": "The weight transmitted to the ground by one axle or one set of axles."
+  },
+  {
+    "question": "113. Blocking your cargo to keep it from sliding must be done at the:",
+    "choices": [
+      "Needed in the front of a piece of cargo only.",
+      "Unattached to the cargo deck.",
+      "Used in front, back, and/or sides of a piece of cargo."
+    ],
+    "answer": "Used in front, back, and/or sides of a piece of cargo."
+  },
+  {
+    "question": "114. Over-length, over-width, and/or overweight loads require:",
+    "choices": [
+      "Flashing lights.",
+      "Driving limited to certain times.",
+      "Special transit permits.",
+      "All of these answers are correct."
+    ],
+    "answer": "All of these answers are correct."
+  },
+  {
+    "question": "115. Turn signals should be used:",
+    "choices": [
+      "At least 100 feet before turning or changing lanes.",
+      "At least 250 feet before turning or changing lanes.",
+      "At least 350 feet before turning or changing lanes."
+    ],
+    "answer": "At least 100 feet before turning or changing lanes."
+  },
+  {
+    "question": "116. Which of these statements about speed management is true?",
+    "choices": [
+      "On a wet road, you should reduce your speed by about 1/3.",
+      "On packed snow, you should reduce your speed by about 1/2.",
+      "When the road is slippery, it will take longer to stop and it will be harder to turn without skidding.",
+      "All of these are true."
+    ],
+    "answer": "All of these are true."
+  },
+  {
+    "question": "117. You are driving on a straight, level highway at 50 mph. There are no vehicles in front of you. Suddenly a tire blows out on your vehicle. What should you do first?",
+    "choices": [
+      "Begin light braking.",
+      "Begin controlled or stab braking.",
+      "Stay off the brake until the vehicle slows down on its own."
+    ],
+    "answer": "Stay off the brake until the vehicle slows down on its own."
+  },
+  {
+    "question": "118. Which of these will help keep an engine cool in hot weather?",
+    "choices": [
+      "Making sure the engine has the right amount of oil.",
+      "Properly adjusted v-belts.",
+      "Avoiding high-speed driving.",
+      "All of these answers are correct."
+    ],
+    "answer": "All of these answers are correct."
+  },
+  {
+    "question": "119. When a vehicle is carrying a load at night, which extends four feet or more beyond the rear of the body, there must be at the extreme end of the load.",
+    "choices": [
+      "1 large red flag.",
+      "3 red flags.",
+      "2 red lights."
+    ],
+    "answer": "2 red lights."
+  },
+  {
+    "question": "120. When checking the bus seats, what are you looking for?",
+    "choices": [
+      "To ensure they are securely fastened to the bus.",
+      "To see if they have been removed.",
+      "To ensure the seat and back portions are not loose.",
+      "All these answers are correct."
+    ],
+    "answer": "All these answers are correct."
+  },
+  {
+    "question": "121. You must inspect your cargo:",
+    "choices": [
+      "After every break.",
+      "Every 3 hours or 150 miles.",
+      "Before starting.",
+      "All of these are correct."
+    ],
+    "answer": "All of these are correct."
+  },
+  {
+    "question": "122. Tie downs must be of the proper type and strength. The combined strength of cargo tie downs must be strong enough to lift:",
+    "choices": [
+      "One and one-half times the weight of the cargo tied down.",
+      "Three times the weight of the cargo tied down.",
+      "Twice the weight of the cargo tied down."
+    ],
+    "answer": "Three times the weight of the cargo tied down."
+  },
+  {
+    "question": "123. Which of these is important to check before driving in the winter?",
+    "choices": [
+      "Exhaust.",
+      "Steering.",
+      "Tires."
+    ],
+    "answer": "Exhaust."
+  },
+  {
+    "question": "124. Tank vehicles are used to carry any liquid and are dangerous to drive because:",
+    "choices": [
+      "Danger of load surge.",
+      "High center of gravity.",
+      "Shifting of the load occurs.",
+      "All of these are true."
+    ],
+    "answer": "All of these are true."
+  },
+  {
+    "question": "125. Gross Vehicle Weight Rating (GVWR) means the following?",
+    "choices": [
+      "Maximum GVW specified by manufacture for a single vehicle including its load.",
+      "Maximum GVW specified by the manufacture.",
+      "Maximum GVW specified by manufacture for a single vehicle."
+    ],
+    "answer": "Maximum GVW specified by manufacture for a single vehicle including its load."
+  },
+  {
+    "question": "126. Gross Vehicle Weight (GVW) means the following:",
+    "choices": [
+      "The total weight of a single vehicle including its load.",
+      "Total weight of a single vehicle.",
+      "Total weight of the vehicle axle."
+    ],
+    "answer": "The total weight of a single vehicle including its load."
+  },
+  {
+    "question": "127. Prior to driving, what are some of the items you should check the interior of the bus for?",
+    "choices": [
+      "School books and student belongings.",
+      "A student or other passengers.",
+      "Trash and clothing.",
+      "All of these are correct."
+    ],
+    "answer": "All of these are correct."
+  },
+  {
+    "question": "128. How far can the board of education make a student walk to their assigned pick up location?",
+    "choices": [
+      "1/2 mile.",
+      "150 yards.",
+      "250 yards."
+    ],
+    "answer": "1/2 mile."
+  },
+  {
+    "question": "129. There are three types of vehicle inspections, which of these is one of them?",
+    "choices": [
+      "Post-trip.",
+      "En-route.",
+      "Pre-trip.",
+      "All of these are correct."
+    ],
+    "answer": "All of these are correct."
+  },
+  {
+    "question": "130. You are checking your brakes and suspension system for a pre-trip inspection. Which of these statements is true?",
+    "choices": [
+      "Brake pads should not have brake fluid on them.",
+      "One missing leaf in a leaf spring can be dangerous.",
+      "Brake shoes should be at least 1/32 inch thick.",
+      "All of these are true."
+    ],
+    "answer": "All of these are true."
+  },
+  {
+    "question": "131. You must park on the side of a level, straight, four-lane, divided highway. Where should you place the three reflective triangles?",
+    "choices": [
+      "One about 50 feet from the rear of the vehicle, one about 100 feet to the rear, and one about 100 feet from the front of the vehicle.",
+      "One within 10 feet of the front of the vehicle, one about 200 feet from the front, and one about 100 feet to the rear.",
+      "One within 10 feet of the rear of the vehicle, one about 100 feet to the rear, and one about 200 feet to the rear."
+    ],
+    "answer": "One within 10 feet of the rear of the vehicle, one about 100 feet to the rear, and one about 200 feet to the rear."
+  },
+  {
+    "question": "132. Which of these is a good driving rule for work zones?",
+    "choices": [
+      "Turn on your flashers/hazard lights.",
+      "Use your brake lights to warn drivers behind you.",
+      "Drive slowly.",
+      "All of these are correct."
+    ],
+    "answer": "All of these are correct."
+  },
+  {
+    "question": "133. Under loaded front axles can cause the following:",
+    "choices": [
+      "Too much play in the steering wheel.",
+      "Poor traction.",
+      "Damage to the tires.",
+      "All of these are correct."
+    ],
+    "answer": "All of these are correct."
+  },
+  {
+    "question": "134. Dry bulk tanks require special care because:",
+    "choices": [
+      "The load can shift.",
+      "They have a high center of gravity.",
+      "Both of these are true."
+    ],
+    "answer": "Both of these are true."
+  },
+  {
+    "question": "135. Overloading can have a bad effect on?",
+    "choices": [
+      "Speed control.",
+      "Steering.",
+      "Braking.",
+      "All of these are correct."
+    ],
+    "answer": "All of these are correct."
+  },
+  {
+    "question": "136. No matter how small the cargo is, it should have at least:",
+    "choices": [
+      "6 tie downs.",
+      "2 tie downs.",
+      "1 tie down."
+    ],
+    "answer": "2 tie down."
+  },
+  {
+    "question": "137. As part of your pre-trip inspection, you must:",
+    "choices": [
+      "Check for poorly balanced weight.",
+      "Check if cargo is secured.",
+      "Check for overloads.",
+      "All of these are correct."
+    ],
+    "answer": "All of these are correct."
+  },
+  {
+    "question": "138. Which item below lists almost all or all the emergency equipment that is required on a school bus?",
+    "choices": [
+      "A fire extinguisher, flashlight, fusees, electrical fuses (if your vehicle uses them), a crowbar, emergency triangles, and a first aid kit (with an emergency medical card for each student inside the first aid kit).",
+      "A crowbar and fire extinguisher only.",
+      "A can of brake fluid, flashlight, and a new bottle of window washer fluid."
+    ],
+    "answer": "A fire extinguisher, flashlight, fusees, electrical fuses (if your vehicle uses them), a crowbar, emergency triangles, and a first aid kit (with an emergency medical card for each student inside the first aid kit)."
+  },
+  {
+    "question": "139. Cargo that is not loaded or secured properly can cause many problems. Which of these statements is true?",
+    "choices": [
+      "Other highway users can hit or be hit by loose cargo.",
+      "Loose cargo can cause injury to the driver or passengers during a quick stop or crash.",
+      "Overloading can damage the vehicle.",
+      "All of these are true."
+    ],
+    "answer": "All of these are true."
+  },
+  {
+    "question": "140. You must drive on a slippery road. Which of these is a good thing to do in such a situation?",
+    "choices": [
+      "Apply the brakes during turns.",
+      "Slow down gradually.",
+      "Use a smaller following distance."
+    ],
+    "answer": "Slow down gradually."
+  },
+  {
+    "question": "141. Brake 'fade':",
+    "choices": [
+      "Can be corrected by letting up on the brakes for 1-2 seconds and then reapplying them.",
+      "Only occurs with drum brakes.",
+      "Can be caused by the brakes becoming too hot."
+    ],
+    "answer": "Can be caused by the brakes becoming too hot."
+  },
+  {
+    "question": "142. The biggest problem with a broken exhaust system is that it may let poison fumes into the vehicle's cab.",
+    "choices": ["True.", "False."],
+    "answer": "True."
+  },
+  {
+    "question": "143. What is the most important reason for doing a vehicle inspection?",
+    "choices": [
+      "Federal and State regulations require you to inspect your vehicle.",
+      "Safety for yourself and others.",
+      "A vehicle defect found during inspection can save you problems later.",
+      "All of these are correct."
+    ],
+    "answer": "All of these are correct."
+  },
+  {
+    "question": "144. You should have a minimum of tread on your steering tires.",
+    "choices": ["1/4 inch.", "4/32 inch.", "2/32 inch."],
+    "answer": "4/32 inch."
+  },
+  {
+    "question": "145. When taking a break in the middle of your trip, you should check:",
+    "choices": [
+      "Critical items: windshield wiper blades, heater, and defroster.",
+      "Call in and check with dispatch.",
+      "Critical items such as: tires, brakes, and cargo tie-downs."
+    ],
+    "answer": "Critical items such as: tires, brakes, and cargo tie-downs."
+  },
+  {
+    "question": "146. Which of these is correct regarding brake shoes:",
+    "choices": [
+      "Brake shoes should be larger than a quarter on the steering axle.",
+      "Brake shoes should not be worn dangerously thin.",
+      "Brake shoes should have the same thickness as a penny."
+    ],
+    "answer": "Brake shoes should not be worn dangerously thin."
+  },
+  {
+    "question": "147. What items should be checked for safety on the steering column?",
+    "choices": [
+      "Up to 1/4 of the steering parts may be broken.",
+      "Steering arms should not have missing nut, bolts or cotter keys.",
+      "Steering arms should not have mismatched, bent or cracked lug nuts."
+    ],
+    "answer": "Steering arms should not have missing nut, bolts or cotter keys."
+  },
+  {
+    "question": "148. Measuring BAC (Blood Alcohol Concentration) is done by measuring a person's:",
+    "choices": ["Age.", "Height.", "Body Weight."],
+    "answer": "Body Weight."
+  },
+  {
+    "question": "149. Your truck has a dual air system and one of the systems loses its pressure. What will happen?",
+    "choices": [
+      "The manual slack adjusters of the S-cam brakes will not be set properly.",
+      "Brake drums will not be fully pressurized.",
+      "Either the front or back brake will not be fully operational."
+    ],
+    "answer": "Either the front or back brake will not be fully operational."
+  },
+  {
+    "question": "150. When getting in to start the engine and inspect inside the cab you must:",
+    "choices": [
+      "Make sure the parking brake is on and put the gearshift in neutral (or park if automatic).",
+      "Start the engine and listen for unusual noises.",
+      "Both of these answers are correct."
+    ],
+    "answer": "Both of these answers are correct."
+  },
+  {
+    "question": "151. When preparing to do a pre-trip inspection you must check to see that the parking brakes are on and/or chocked.",
+    "choices": ["True.", "False."],
+    "answer": "True."
+  },
+  {
+    "question": "152. The oil pressure gauge should come up to normal within how long after starting the engine?",
+    "choices": ["Minutes.", "Seconds.", "It does not matter."],
+    "answer": "Seconds."
+  },
+  {
+    "question": "153. You should check the following for looseness, sticking, damage, or improper settings:",
+    "choices": [
+      "Steering wheel and Transmission controls.",
+      "Accelerator, brakes, and clutch pedals.",
+      "Both of these answers are correct."
+    ],
+    "answer": "Both of these answers are correct."
+  },
+  {
+    "question": "154. After inspecting mirrors and windshields for cracks, dirt, and illegal stickers, or other obstructions to your vision, you should:",
+    "choices": [
+      "Look in the mirror to see if you look good.",
+      "Clean and adjust as necessary.",
+      "Not worry about any of it."
+    ],
+    "answer": "Clean and adjust as necessary."
+  },
+  {
+    "question": "155. When checking lights you should:",
+    "choices": [
+      "Make sure that the parking brake is set.",
+      "Turn off the engine and take the key with you.",
+      "Turn on the headlights and four-way flashers.",
+      "All of these are correct."
+    ],
+    "answer": "All of these are correct."
+  },
+  {
+    "question": "156. What should the wheel bearing seals be checked for?",
+    "choices": [
+      "Color of paint used on cover.",
+      "Cleanliness.",
+      "Hub oil level and no leaks."
+    ],
+    "answer": "Hub oil level and no leaks."
+  },
+  {
+    "question": "157. How many red reflective triangles should you carry?",
+    "choices": ["1.", "3.", "4."],
+    "answer": "3."
+  },
+  {
+    "question": "158. How do you test the hydraulic brakes for leaks?",
+    "choices": [
+      "Pump the brake pedal three times, then apply firm pressure to the pedal and hold for five seconds. The pedal should not move.",
+      "Drive 20 mph and slam on the brakes.",
+      "Drive slowly and pump the brake pedal. Make sure it doesn't hit the floor."
+    ],
+    "answer": "Pump the brake pedal three times, then apply firm pressure to the pedal and hold for five seconds. The pedal should not move."
+  },
+  {
+    "question": "159. Why put the starter key in your pocket during the pre-trip inspection?",
+    "choices": [
+      "So you don't lose it.",
+      "So no one moves the vehicle.",
+      "For your safety."
+    ],
+    "answer": "For your safety."
+  }
+
+]
+
