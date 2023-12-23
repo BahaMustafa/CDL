@@ -11,20 +11,33 @@ function App() {
   const [incorrectAnswers, setIncorrectAnswers] = useState(0);
   const [selectedTest, setSelectedTest] = useState('test1');
   const [testCompleted, setTestCompleted] = useState(false);
+  const [shuffleEnabled, setShuffleEnabled] = useState(true); // New state for shuffle button
 
   // Shuffle the questions and choices
   function shuffleArray(array) {
     return [...array].sort(() => Math.random() - 0.5);
   }
 
+  // Function to shuffle questions and choices
+  const shuffleQuestionsAndChoices = () => {
+    if (shuffleEnabled) {
+      setQuestions(currentQuestions => {
+        return shuffleArray(currentQuestions).map(question => ({
+          ...question,
+          choices: shuffleArray(question.choices)
+        }));
+      });
+    }
+  };
+
   useEffect(() => {
     const savedIndex = sessionStorage.getItem('currentQuestionIndex');
     if (savedIndex) {
       setCurrentQuestionIndex(parseInt(savedIndex, 10));
+      setShuffleEnabled(false); // Disable shuffle if continuing a test
     }
 
     fetch(`${process.env.PUBLIC_URL}/${selectedTest}.json`)
-
       .then(response => response.json())
       .then(data => {
         const shuffledQuestions = shuffleArray(data).map(question => ({
@@ -38,6 +51,9 @@ function App() {
 
   useEffect(() => {
     sessionStorage.setItem('currentQuestionIndex', currentQuestionIndex);
+    if (currentQuestionIndex > 0) {
+      setShuffleEnabled(false); // Disable shuffle once the test has started
+    }
   }, [currentQuestionIndex]);
 
   const handleChoiceSelect = (choice) => {
@@ -72,11 +88,8 @@ function App() {
     setScore(0);
     setIncorrectAnswers(0);
     setIsCorrect(null);
-    // Optionally shuffle questions again
-    setQuestions(shuffleArray(questions).map(question => ({
-      ...question,
-      choices: shuffleArray(question.choices)
-    })));
+    setShuffleEnabled(true); // Enable shuffle on restart
+    shuffleQuestionsAndChoices();
   };
 
   return (
@@ -91,7 +104,12 @@ function App() {
         <option value="GeneralKnowledge1">General Knowledge1</option>
         <option value="GeneralKnowledge2">General Knowledge2</option>
         <option value="GeneralKnowledge3">General Knowledge3</option>
+        <option value="GeneralKnowledge4">General Knowledge4</option>
+        <option value="GeneralKnowledge5">General Knowledge5</option>
       </select>
+
+      
+
       {testCompleted ? (
         <>
           <div>Test completed. Score: {score}, Incorrect Answers: {incorrectAnswers}</div>
