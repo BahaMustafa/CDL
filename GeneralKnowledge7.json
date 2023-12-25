@@ -386,8 +386,8 @@
   {
     "question": "431. If you have a heavy load that is slowing you down on an upgrade, you should:",
     "choices": [
-      "Downshift to a higher gear.",
-      "Downshift to a lower gear.",
+      "Shift into a higher gear.",
+      "Shift into a lower gear.",
       "Shift into neutral."
     ],
     "answer": "Shift into a lower gear."
