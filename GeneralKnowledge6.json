@@ -1,0 +1,527 @@
+[
+  {
+    "question": "329. Hydroplaning can happen:",
+    "choices": [
+      "a. Only in heavy rainstorms.",
+      "b. Only on rough road surfaces.",
+      "c. If the thread is worn."
+    ],
+    "answer": "c. If the thread is worn."
+  },
+  {
+    "question": "330. You are driving an 80-foot vehicle at 45 mph in good weather conditions. The least amount of space that you should keep in front of your vehicle to be safe is:",
+    "choices": [
+      "a. 9 seconds.",
+      "b. 3 seconds.",
+      "c. 5 seconds."
+    ],
+    "answer": "a. 9 seconds."
+  },
+  {
+    "question": "331. Which of these statements about crossing traffic with a large vehicle is true?",
+    "choices": [
+      "a. Smaller vehicles need larger gaps in traffic than larger ones.",
+      "b. Larger vehicles need larger gaps in traffic than smaller ones.",
+      "c. Windshield washer antifreeze should be used."
+    ],
+    "answer": "b. Larger vehicles need larger gaps in traffic than smaller ones."
+  },
+  {
+    "question": "332. Which of these statements about tires and very hot weather driving is true?",
+    "choices": [
+      "a. You should replace your tires every 10,000 miles in hot weather.",
+      "b. You don't need to inspect your tires in hot weather.",
+      "c. You should inspect your tires every two hours or 100 miles."
+    ],
+    "answer": "c. You should inspect your tires every two hours or 100 miles."
+  },
+  {
+    "question": "333. Which of the following is a proper braking technique once the vehicle is in low gear?",
+    "choices": [
+      "a. Apply the brakes firmly to come to a complete stop.",
+      "b. Keep the brakes applied continuously while in low gear.",
+      "c. Apply the brakes enough to slow down approximately 5 mph below your safe speed, release the brakes; repeat the procedure when you reach your safe speed."
+    ],
+    "answer": "c. Apply the brakes enough to slow down approximately 5 mph below your safe speed, release the brakes; repeat the procedure when you reach your safe speed."
+  },
+  {
+    "question": "334. A hazard ahead may cause your vehicle to collide with another if you do not take action. You should remember that:",
+    "choices": [
+      "a. You can always stop in time to avoid a collision.",
+      "b. You can almost always turn more quickly than you can stop.",
+      "c. You should never attempt to turn to avoid a collision."
+    ],
+    "answer": "b. You can almost always turn more quickly than you can stop."
+  },
+  {
+    "question": "335. You are driving a bus, and it goes into a front wheel skid, the vehicle will:",
+    "choices": [
+      "a. Slide straight ahead even if you turn the wheel.",
+      "b. Skid to the side of the road.",
+      "c. Stop immediately when you apply the brakes."
+    ],
+    "answer": "a. Slide straight ahead even if you turn the wheel."
+  },
+  {
+    "question": "336. Which of these should you NOT do when caring for an injured person at a collision scene?",
+    "choices": [
+      "a. Keep the person warm.",
+      "b. Keep the person still and comfortable.",
+      "c. Keep an injured person cool."
+    ],
+    "answer": "c. Keep an injured person cool."
+  },
+  {
+    "question": "337. Inspect your cargo after you have cooled:",
+    "choices": [
+      "a. 100 miles.",
+      "b. 50 miles, depending on the law in the state you are in.",
+      "c. 25 miles or 50 miles, depending on the law in the state you are in, then again after 3 hours or after you have driven 150 miles, and after every stop for a break."
+    ],
+    "answer": "c. 25 miles or 50 miles, depending on the law in the state you are in, then again after 3 hours or after you have driven 150 miles, and after every stop for a break."
+  },
+
+    {
+      "question": "338. Which of these statements about alcohol is true?",
+      "choices": [
+        "a. Only heavy drinkers are affected by alcohol.",
+        "b. Everyone who drinks is affected by alcohol.",
+        "c. Alcohol does not affect professional drivers."
+      ],
+      "answer": "b. Everyone who drinks is affected by alcohol."
+    },
+    {
+      "question": "339. Where must the shipping papers be for a vehicle placarded for hazardous material?",
+      "choices": [
+        "a. On the driver's seat if the driver is out of the cab.",
+        "b. In the glove compartment.",
+        "c. Under the driver's seat."
+      ],
+      "answer": "a. On the driver's seat if the driver is out of the cab."
+    },
+    {
+      "question": "340. The maximum weight rating specified by the manufactured for a single vehicle including its load is the ?",
+      "choices": [
+        "a. GVWR",
+        "b. GVR",
+        "c. GWR"
+      ],
+      "answer": "a. GVWR"
+    },
+    {
+      "question": "341. Rules governing the loading and securing of cotton, jute, lumber products, and other specialized cargos are contained in:",
+      "choices": [
+        "a. Federal Motor Carrier Safety Regulations (FMCSRs).",
+        "b. State regulations.",
+        "c. Title 13, CCR."
+      ],
+      "answer": "c. Title 13, CCR."
+    },
+    {
+      "question": "342. A load that extends to the left must have an amber light on the external left side if it extends:",
+      "choices": [
+        "a. 6 inches or more.",
+        "b. 8 inches or more.",
+        "c. One foot or more."
+      ],
+      "answer": "c. One foot or more."
+    },
+    {
+      "question": "343. Commercial drivers must notify their employer of any out-of-state conviction:",
+      "choices": [
+        "a. Immediately upon conviction.",
+        "b. Within 30 days of conviction.",
+        "c. Within 90 days of conviction."
+      ],
+      "answer": "b. Within 30 days of conviction."
+    },
+    {
+      "question": "344. What are the three types of vehicle inspections?",
+      "choices": [
+        "a. Pre-trip, post-trip, and en-route.",
+        "b. Vehicle inspection, load inspection, and paperwork inspection.",
+        "c. Pre-trip, post-trip, and en-route."
+      ],
+      "answer": "a. Pre-trip, post-trip, and en-route."
+    },
+    {
+      "question": "345. The posted speed limit is 65 mph. A vehicle transporting explosives may legally drive no faster than ____ mph, weather conditions permitting.",
+      "choices": [
+        "a. 50.",
+        "b. 55.",
+        "c. 60."
+      ],
+      "answer": "b. 55."
+    },
+    {
+      "question": "346. You are checking your tires during your pre-trip inspection. Which of these statements is true?",
+      "choices": [
+        "a. Dual tires should touch each other.",
+        "b. Dual tires should not touch each other.",
+        "c. It doesn't matter if dual tires touch each other."
+      ],
+      "answer": "b. Dual tires should not touch each other."
+    },
+      {
+        "question": "347. Which of these statements about checking your suspension system is true?",
+        "choices": [
+          "a. 1/4 or more missing leaves in any leaf spring will put the vehicle out of service.",
+          "b. A few missing leaves in any leaf spring are acceptable.",
+          "c. Leaf spring condition is not important for vehicle safety."
+        ],
+        "answer": "a. 1/4 or more missing leaves in any leaf spring will put the vehicle out of service."
+      },
+      {
+        "question": "348. Which of these statements about vehicle fires is true?",
+        "choices": [
+          "a. Use gasoline to extinguish a vehicle fire.",
+          "b. The best way to extinguish a vehicle fire is to blow on it.",
+          "c. Cool a burning tire with water."
+        ],
+        "answer": "c. Cool a burning tire with water."
+      },
+      {
+        "question": "349. It is illegal to drive a commercial motor vehicle with a BAC this high, even though a BAC below the level does not mean it is safe to drive.",
+        "choices": [
+          "a. 0.02%",
+          "b. 0.04%",
+          "c. 0.08%"
+        ],
+        "answer": "b. 0.04%"
+      },
+      {
+        "question": "350. Maximum axle weight is usually set by a _____ formula.",
+        "choices": [
+          "a. Height",
+          "b. Bridge",
+          "c. Weight"
+        ],
+        "answer": "b. Bridge"
+      },
+      {
+        "question": "351. Which of these is true regarding brake shoes?",
+        "choices": [
+          "a. Brake shoes should be replaced only when they are completely worn out.",
+          "b. Brake shoes should not be worn dangerously thin.",
+          "c. Brake shoe thickness is not important for safe braking."
+        ],
+        "answer": "b. Brake shoes should not be worn dangerously thin."
+      },
+      {
+        "question": "352. If the drive wheels have poor traction, retarders may cause:",
+        "choices": [
+          "a. Improved traction.",
+          "b. Skidding.",
+          "c. Better fuel efficiency."
+        ],
+        "answer": "b. Skidding."
+      },
+      {
+        "question": "353. The key principle in balancing cargo weight is to keep the load:",
+        "choices": [
+          "a. Shifted to the front.",
+          "b. Shifted to the rear.",
+          "c. Centered."
+        ],
+        "answer": "c. Centered."
+      },
+      {
+        "question": "354. The California Driver Handbook suggests that you limit the use of your horn why?",
+        "choices": [
+          "a. It may startle other drivers.",
+          "b. Horns are ineffective and should not be used.",
+          "c. Using your horn is mandatory in all situations."
+        ],
+        "answer": "a. It may startle other drivers."
+      },
+      {
+        "question": "355. Measured from the road surface, the maximum legal height of any vehicle and load not needing a permit is:",
+        "choices": [
+          "a. 10 feet.",
+          "b. 12 feet.",
+          "c. 14 feet."
+        ],
+        "answer": "c. 14 feet."
+      },
+      {
+        "question": "356. When no signs are posted on a three-lane highway, a school bus transporting pupils must drive in _____ lane, except when passing, turning, or leaving the highway.",
+        "choices": [
+          "a. Lane one.",
+          "b. Lane two.",
+          "c. Lane three."
+        ],
+        "answer": "c. Lane three."
+      },
+      
+        {
+          "question": "357. Unless your employer requires immediate notice, California law states that you have _____ days to notify your employer of a collision in the employer's vehicle.",
+          "choices": [
+            "a. 1",
+            "b. 3",
+            "c. 5"
+          ],
+          "answer": "c. 5"
+        },
+        {
+          "question": "358. The vehicle's parking brake should be tested when the vehicle is:",
+          "choices": [
+            "a. Moving",
+            "b. Parked on an incline",
+            "c. Stop"
+          ],
+          "answer": "c. Stop"
+        },
+        {
+          "question": "359. Retarders are used to:",
+          "choices": [
+            "a. Help slow the vehicle while driving and reduce brake wear.",
+            "b. Keep you from skidding where the road is slippery.",
+            "c. Both A and B."
+          ],
+          "answer": "c. Both A and B"
+        },
+        {
+          "question": "360. If you are towing a vehicle with a load that blocks your view to the rear, you must have:",
+          "choices": [
+            "a. A left-hand rear view mirror.",
+            "b. A right-hand rear view mirror.",
+            "c. Both left and right-hand rear view mirrors."
+          ],
+          "answer": "c. Both left and right-hand rear view mirrors."
+        },
+        {
+          "question": "361. Which of these statements about marking a stopped vehicle is true?",
+          "choices": [
+            "a. The rear reflective triangle should never be moved once placed.",
+            "b. If a hill keeps drivers behind you from seeing the vehicle within 500 feet, the rear reflective triangle should be moved to give adequate warning.",
+            "c. Reflective triangles are not required for marking a stopped vehicle."
+          ],
+          "answer": "b. If a hill keeps drivers behind you from seeing the vehicle within 500 feet, the rear reflective triangle should be moved to give adequate warning."
+        },
+        {
+          "question": "362. If you must stop in the road, you should put your reflective triangles within _____ minutes:",
+          "choices": [
+            "a. 2",
+            "b. 5",
+            "c. 10"
+          ],
+          "answer": "c. 10"
+        },
+        {
+          "question": "363. What should you do if the road you are driving becomes icy?",
+          "choices": [
+            "a. Speed up to maintain control.",
+            "b. Stop driving, as you can install chains.",
+            "c. Turn off the engine and coast until the road improves."
+          ],
+          "answer": "b. Stop driving, as you can install chains."
+        },
+        {
+          "question": "364. Which of these statements about stopping distance and braking speed is true?",
+          "choices": [
+            "a. Dry roads have no effect on stopping distance.",
+            "b. Wet roads can double stopping distance at any speed.",
+            "c. Stopping distance is not affected by road conditions."
+          ],
+          "answer": "b. Wet roads can double stopping distance at any speed."
+        },
+        {
+          "question": "365. The most important space around your vehicle is the space:",
+          "choices": [
+            "a. Behind the vehicle.",
+            "b. To the sides of the vehicle.",
+            "c. Ahead of the vehicle."
+          ],
+          "answer": "c. Ahead of the vehicle."
+        },
+        {
+          "question": "366. You want to make a left turn and there are two left turn lanes. You will be turning into a street with two lanes in each direction. You should:",
+          "choices": [
+            "a. Use the left-hand left turn lane.",
+            "b. Use the center left turn lane.",
+            "c. Use the right-hand left turn lane."
+          ],
+          "answer": "c. Use the right-hand left turn lane."
+        },
+        
+          {
+            "question": "367. Water on the brakes can cause:",
+            "choices": [
+              "a. Stronger brakes.",
+              "b. No effect on brakes.",
+              "c. Weak brakes."
+            ],
+            "answer": "c. Weak brakes."
+          },
+          {
+            "question": "368. The safest way to keep brakes from getting too hot while going downhill is to:",
+            "choices": [
+              "a. Use the braking effect of the engine to control speed.",
+              "b. Apply the brakes continuously to maintain a slow speed.",
+              "c. Downshift only if the engine starts to overheat."
+            ],
+            "answer": "a. Use the braking effect of the engine to control speed."
+          },
+          {
+            "question": "369. Which of these statements about quick steering movements is true?",
+            "choices": [
+              "a. Quick steering movements are safe for all vehicles.",
+              "b. Quick steering movements are only a concern for small vehicles.",
+              "c. Top heavy vehicles may tip over more easily when making quick steering movements."
+            ],
+            "answer": "c. Top heavy vehicles may tip over more easily when making quick steering movements."
+          },
+          {
+            "question": "370. Which of these is the most important thing to remember about emergency braking?",
+            "choices": [
+              "a. You can still steer the vehicle if the wheels are skidding.",
+              "b. If the wheels are skidding, you cannot control the vehicle.",
+              "c. Emergency braking should only be used in minor situations."
+            ],
+            "answer": "b. If the wheels are skidding, you cannot control the vehicle."
+          },
+          {
+            "question": "371. A vehicle transporting hazardous materials must place signboards on _____ sides.",
+            "choices": [
+              "a. 2.",
+              "b. 3.",
+              "c. 4."
+            ],
+            "answer": "c. 4."
+          },
+          {
+            "question": "372. If a vehicle is loaded with too much weight on the steering axle, what can happen?",
+            "choices": [
+              "a. Improved steering response.",
+              "b. Easier steering control.",
+              "c. Difficult (hard) steering and possible damage to the tires."
+            ],
+            "answer": "c. Difficult (hard) steering and possible damage to the tires."
+          },
+          {
+            "question": "373. A second conviction for operating a commercial vehicle under the influence of alcohol will result in a:",
+            "choices": [
+              "a. 1-year driving sanction.",
+              "b. 5-year driving sanction.",
+              "c. Life-time driving sanction."
+            ],
+            "answer": "c. Life-time driving sanction."
+          },
+          {
+            "question": "374. Drivers must have a peace officer's authorization to change from a permitted route when _____ transporting:",
+            "choices": [
+              "a. Extralegal loads.",
+              "b. Regular cargo.",
+              "c. Hazardous materials."
+            ],
+            "answer": "a. Extralegal loads."
+          },
+          {
+            "question": "375. Which of these statements about checking your wheels and rims is true?",
+            "choices": [
+              "a. Rust around wheel fasteners means they are tight.",
+              "b. Rust around wheel fasteners may mean they are loose.",
+              "c. Wheel fasteners should be covered in grease to prevent rust."
+            ],
+            "answer": "b. Rust around wheel fasteners may mean they are loose."
+          },
+          {
+            "question": "376. Before you drive a vehicle that has been released for service by the maintenance mechanic, you should:",
+            "choices": [
+              "a. Ignore the mechanic's report.",
+              "b. Make sure the vehicle has been released for service by the maintenance mechanic.",
+              "c. Check the vehicle's fluids and tires, but no need to worry about the mechanic's report."
+            ],
+            "answer": "b. Make sure the vehicle has been released for service by the maintenance mechanic."
+          },
+          
+            {
+              "question": "377. Commercial drivers should inspect their vehicle within the first _ miles and then:",
+              "choices": [
+                "a. 50 miles, 150 miles or 3 hours.",
+                "b. 25 miles, 75 miles or 2 hours.",
+                "c. 100 miles, 200 miles or 4 hours."
+              ],
+              "answer": "a. 50 miles, 150 miles or 3 hours."
+            },
+            {
+              "question": "378. What are some things to do at an accident scene to prevent another accident?",
+              "choices": [
+                "a. Try to get your vehicle to the side of the road.",
+                "b. If you're stopping to help, park away from the accident.",
+                "c. Put on the flashers and set out reflective triangles.",
+                "d. All of the above."
+              ],
+              "answer": "d. All of the above."
+            },
+            {
+              "question": "379. You should test the stopping action of your service brakes by allowing the vehicle to:",
+              "choices": [
+                "a. Move forward at about 2 mph and applying the brake pedal firmly.",
+                "b. Move forward at about 5 mph and applying the brake pedal firmly.",
+                "c. Move forward at about 10 mph and applying the brake pedal firmly."
+              ],
+              "answer": "b. Move forward at about 5 mph and applying the brake pedal firmly."
+            },
+            {
+              "question": "380. You are backing a large vehicle. You should:",
+              "choices": [
+                "a. Back in the direction that feels easiest.",
+                "b. Back in the direction that is most convenient for you.",
+                "c. Back in the direction that gives you the best vision."
+              ],
+              "answer": "c. Back in the direction that gives you the best vision."
+            },
+            {
+              "question": "381. Using your mirrors correctly means that you:",
+              "choices": [
+                "a. Should never rely on them for information.",
+                "b. Know there are no blind spots that your mirror cannot show you.",
+                "c. Know there are blind spots that your mirror cannot show you."
+              ],
+              "answer": "c. Know there are blind spots that your mirror cannot show you."
+            },
+            {
+              "question": "382. The service brakes of a bus must be capable of stopping from an initial speed of 20 mph within a maximum stopping distance of:",
+              "choices": [
+                "a. 20 feet.",
+                "b. 40 feet.",
+                "c. 60 feet."
+              ],
+              "answer": "b. 40 feet."
+            },
+            {
+              "question": "383. Which of these statements about certain types of cargo is true?",
+              "choices": [
+                "a. Stable loads such as hanging meat or livestock require extra caution on curves.",
+                "b. Unstable loads such as hanging meat or livestock require extra caution on curves.",
+                "c. All types of cargo are equally stable on curves."
+              ],
+              "answer": "b. Unstable loads such as hanging meat or livestock require extra caution on curves."
+            },
+            {
+              "question": "384. Vehicles traveling over 40 mph should allow an extra vehicle ahead of space between you and the:",
+              "choices": [
+                "a. 1 additional second, over 40 mph.",
+                "b. 2 additional seconds, over 40 mph.",
+                "c. 3 additional seconds, over 40 mph."
+              ],
+              "answer": "a. 1 additional second, over 40 mph."
+            },
+            {
+              "question": "385. When you drive at night you should:",
+              "choices": [
+                "a. Adjust your speed so that you can stop within your sight distance.",
+                "b. Drive at the same speed as during the day.",
+                "c. Drive faster to reach your destination sooner."
+              ],
+              "answer": "a. Adjust your speed so that you can stop within your sight distance."
+            }
+                    
+                
+            
+
+    ]
+    
+    
+
