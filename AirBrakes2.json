@@ -1,0 +1,387 @@
+[
+    {
+        "question": "39. In ideal conditions a truck or bus with an air brake going at 55 mph would require stopping distance of how many feet?",
+        "choices": [
+            "From 100 to 250 feet.",
+            "Less than 100 feet.",
+            "More than 300 feet."
+        ],
+        "answer": "More than 300 feet."
+    },
+    {
+        "question": "40. It is not safe to drive a vehicle that has brake drums with cracks that are longer than of the width of the friction area.",
+        "choices": [
+            "1/2",
+            "1/4",
+            "1/32"
+        ],
+        "answer": "1/2"
+    },
+    {
+        "question": "41. Why must air tanks be drained?",
+        "choices": [
+            "To drain all the air out of the tank.",
+            "To drain moisture and oil out of tank.",
+            "To tell you how much air is in the air tanks."
+        ],
+        "answer": "To drain moisture and oil out of tank."
+    },
+    {
+        "question": "42. It is possible to have an air leak in one system which will not affect the other.",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": "True"
+    },
+    {
+        "question": "43. Both systems run off of the same air compressor, so if one air compressor malfunctions you will not be able to build or maintain pressure in either system.",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": "True"
+    },
+    {
+        "question": "44. All vehicles with air brakes must have a low-pressure warning signal.",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": "True"
+    },
+    {
+        "question": "45. What are spring brakes?",
+        "choices": [
+            "Brakes used for parking.",
+            "If the air brakes leak down, springs press the brakes on to stop the vehicle.",
+            "The spring on the brake pedal."
+        ],
+        "answer": "If the air brakes leak down, springs press the brakes on to stop the vehicle."
+    },
+    {
+        "question": "46. Front wheel brakes are good under all conditions.",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": "True"
+    },
+    {
+        "question": "47. When you apply your brakes, the air brake system works with an electric switch, by air pressure, to turn on the brake lights.",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": "True"
+    },
+    {
+        "question": "48. What do air brakes use to make the brakes work?",
+        "choices": [
+            "Compressed gas.",
+            "Compressed oil.",
+            "Compressed air."
+        ],
+        "answer": "Compressed air."
+    },
+    {
+        "question": "49. The service brake applies and releases:",
+        "choices": [
+            "The parking brake when you use the parking brake control.",
+            "The brake when you use the brake pedal during normal driving.",
+            "In the event of an emergency."
+        ],
+        "answer": "The brake when you use the brake pedal during normal driving."
+    },
+    {
+        "question": "50. The parking brake applies and releases:",
+        "choices": [
+            "The brake pedal during normal driving.",
+            "In the event of an emergency.",
+            "The parking brakes when you use the parking brake control."
+        ],
+        "answer": "The parking brakes when you use the parking brake control."
+    },
+    {
+        "question": "51. The emergency brake system:",
+        "choices": [
+            "Uses parts of the service and parking brake system to stop the vehicle in the event of a brake system failure.",
+            "Uses the service brake to stop the vehicle in the event of a brake system failure.",
+            "Uses the parking brake to stop the vehicle in the event of a brake system failure."
+        ],
+        "answer": "Uses parts of the service and parking brake system to stop the vehicle in the event of a brake system failure."
+    },
+    {
+        "question": "52. The governor controls when the air compressor will pump into the air storage tanks.",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": "True"
+    },
+    {
+        "question": "53. When the air pressure falls to the minimum pressure allowed in the system, the governor prevents more air from escaping the air tanks.",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": "False"
+    },
+    {
+        "question": "54. The storage tanks are used to hold compressed air.",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": "True"
+    },
+    {
+        "question": "55. When you put the brakes on by pushing down on the brake pedal:",
+        "choices": [
+            "The air pressure is reduced to the brake pads.",
+            "Air pressure is applied to the brake pads.",
+            "Compressed air is let go out of the system."
+        ],
+        "answer": "Air pressure is applied to the brake pads."
+    },
+    {
+        "question": "56. The S-cam forces the brake shoes away from one another and presses them against the inside of the brake drum. It is called the S-cam because:",
+        "choices": [
+            "It is shaped like the letter 'Z'",
+            "It is shaped like the letter 'N'.",
+            "It is shaped like the letter 'S'."
+        ],
+        "answer": "It is shaped like the letter 'S'."
+    },
+    {
+        "question": "57. What is a dual air brake system?",
+        "choices": [
+            "A two brake system, one operates the front brakes and one operates the back brakes.",
+            "A two braking system, one for each side of the vehicle.",
+            "A two braking system, one for daytime and one for nighttime driving."
+        ],
+        "answer": "A two brake system, one operates the front brakes and one operates the back brakes."
+    },
+    {
+        "question": "58. What are the slack adjusters?",
+        "choices": [
+            "It is the space between the back wheels.",
+            "It is an adjusting nut on the backside of the brake drum used for adjusting the brakes.",
+            "It is an adjusting nut under the cab to adjust the springs."
+        ],
+        "answer": "It is an adjusting nut on the backside of the brake drum used for adjusting the brakes."
+    },
+    {
+        "question": "59. How can you check the slack adjuster?",
+        "choices": [
+            "Park on level ground, turn off parking brakes, pull hard on each slack adjuster. It shouldn't move more than one inch.",
+            "Park on level ground, turn off parking brakes and press brake pedal.",
+            "Park on an incline and see if the vehicle rolls."
+        ],
+        "answer": "Park on level ground, turn off parking brakes, pull hard on each slack adjuster. It shouldn't move more than one inch."
+    },
+    {
+        "question": "60. How can you test the low pressure warning signal?",
+        "choices": [
+            "While the engine is running, step on and off the brake pedal.",
+            "Shut off the engine and see if the air pressure leaks down.",
+            "Shut off the engine with enough air pressure, turn on the electrical power and step on and off the brake pedal until the low air pressure warning signal comes on."
+        ],
+        "answer": "Shut off the engine with enough air pressure, turn on the electrical power and step on and off the brake pedal until the low air pressure warning signal comes on."
+    },
+    {
+        "question": "61. What are the maximum leakage rates?",
+        "choices": [
+            "Less than 4 psi in one minute for single vehicles and less than 8 psi in one minute for combination vehicles.",
+            "Less than 2 psi in one minute for single vehicles and less than 3 psi in one minute for combination vehicles.",
+            "Less than 6 psi for all vehicles."
+        ],
+        "answer": "Less than 2 psi in one minute for single vehicles and less than 3 psi in one minute for combination vehicles."
+    },
+    {
+        "question": "62. When is it OK to leave your truck unattended without applying parking brakes or chocking the wheels?",
+        "choices": [
+            "If you will only be away from the truck for a few minutes.",
+            "Never.",
+            "If you are conducting your pre-trip inspection."
+        ],
+        "answer": "Never."
+    },
+    {
+        "question": "63. If you are away from your vehicle for only a short time you don't need to use the parking brake.",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": "False"
+    },
+    {
+        "question": "64. If you do not have automatic tank drains, how often should you drain the oil and water from the bottom of compressed air storage tanks?",
+        "choices": [
+            "After every four hours of service.",
+            "At the end of each day of driving.",
+            "Once a week."
+        ],
+        "answer": "At the end of each day of driving."
+    },
+    {
+        "question": "65. The use of brakes on a long steep downgrade is only a supplement to the braking effect of the engine.",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": "True"
+    },
+    {
+        "question": "66. What factors can cause brakes to fade or fail?",
+        "choices": [
+            "Not pressing the brake pedal hard enough.",
+            "Over heating, low air pressure, and not relying on the engine braking effect.",
+            "Not taking your foot off the accelerator."
+        ],
+        "answer": "Over heating, low air pressure, and not relying on the engine braking effect."
+    },
+    {
+        "question": "67. Why should you be in the proper gear before starting down a hill?",
+        "choices": [
+            "So you only have to apply the brake just hard enough to feel a definite slowdown.",
+            "So you can coast downhill.",
+            "So you can go through the gears on the way down."
+        ],
+        "answer": "So you only have to apply the brake just hard enough to feel a definite slowdown."
+    },
+    {
+        "question": "68. If oil and water collects in the air tanks what can happen to the brakes?",
+        "choices": [
+            "The brakes could heat up.",
+            "The brakes could fail.",
+            "The brakes could lock up."
+        ],
+        "answer": "The brakes could fail."
+    },
+    {
+        "question": "69. What is the purpose of an alcohol evaporator?",
+        "choices": [
+            "So you don't have to drain the air tanks as often.",
+            "To have a drink available if you get thirsty.",
+            "To reduce the risk of ice in the brake valves and other parts in cold weather."
+        ],
+        "answer": "To reduce the risk of ice in the brake valves and other parts in cold weather."
+    },
+    {
+        "question": "70. What is another name for controlled braking?",
+        "choices": [
+            "Steady braking.",
+            "Squeeze braking.",
+            "Hard braking."
+        ],
+        "answer": "Squeeze braking."
+    },
+    {
+        "question": "71. The brake chamber fills with air pushing the rod out which moves the_______ _______, which twists the_____ _______.",
+        "choices": [
+            "Brake camshaft and tie rod.",
+            "Slack adjuster and tie rod.",
+            "Slack adjuster and brake camshaft."
+        ],
+        "answer": "Slack adjuster and brake camshaft."
+    },
+    {
+        "question": "72. If your vehicle has an alcohol evaporator you should check and fill the alcohol level everyday during cold weather.",
+        "choices": [
+            "True",
+            "False"
+        ],
+        "answer": "True"
+    },
+    {
+        "question": "73. To test the air service brakes you should:",
+        "choices": [
+            "Stop the vehicle, put it in low gear, depress the service brake, and then gently pull against the brakes.",
+            "Brake firmly while slowly moving backwards.",
+            "Brake firmly while slowly moving forward."
+        ],
+        "answer": "Brake firmly while slowly moving forward."
+    },
+    {
+        "question": "74. The driver must be able to see a low pressure warning which comes on before pressure in the service air tank falls below:",
+        "choices": [
+            "60 psi",
+            "80 psi",
+            "100 psi"
+        ],
+        "answer": "60 psi"
+    },
+    {
+        "question": "75. Converter dollies built on or after March 1, 1998 are required to have anti-lock brakes. These dollies will have:",
+        "choices": [
+            "A yellow malfunction lamp in the center of the dolly.",
+            "A yellow malfunction lamp on the right side of the dolly.",
+            "A yellow malfunction lamp on the left side of the dolly."
+        ],
+        "answer": "A yellow malfunction lamp on the left side of the dolly."
+    },
+    {
+        "question": "76. Which of these is the most important thing to remember about emergency braking?",
+        "choices": [
+            "Disconnecting the steering axle brakes will help keep your vehicle in a straight line during emergency braking.",
+            "Never do it without downshifting first.",
+            "If the wheels are skidding, you cannot control the vehicle."
+        ],
+        "answer": "If the wheels are skidding, you cannot control the vehicle."
+    },
+    {
+        "question": "77. Controlled braking:",
+        "choices": [
+            "Involves locking the wheels for short periods of time.",
+            "Can be used while you are turning sharply.",
+            "Is used to keep a vehicle in a straight line when braking."
+        ],
+        "answer": "Is used to keep a vehicle in a straight line when braking."
+    },
+    {
+        "question": "78. To correct a drive-wheel braking skid, you should:",
+        "choices": [
+            "Increase braking.",
+            "Stop braking, turn quickly, and countersteer.",
+            "Increase braking, turn quickly, and countersteer."
+        ],
+        "answer": "Stop braking, turn quickly, and countersteer."
+    },
+    {
+        "question": "79. How do you test the hydraulic brakes for leaks?",
+        "choices": [
+            "Drive slowly and pump the brake pedal. Make sure it doesn't hit the floor.",
+            "Pump the brake pedal three times, then apply firm pressure to the pedal and hold for five seconds. The pedal should not move.",
+            "Drive 20 mph and slam on the brakes."
+        ],
+        "answer": "Pump the brake pedal three times, then apply firm pressure to the pedal and hold for five seconds. The pedal should not move."
+    },
+    {
+        "question": "80. Modern air brake systems are three different systems combined together. They are the service, parking, and the brakes.",
+        "choices": [
+            "Emergency.",
+            "Foot.",
+            "S-cam."
+        ],
+        "answer": "Emergency."
+    },
+    {
+        "question": "81. The air supply pressure gauge shows how much pressure:",
+        "choices": [
+            "Is in the air tanks.",
+            "You have used in this trip.",
+            "Is going to the brake chambers."
+        ],
+        "answer": "Is in the air tanks."
+    },
+    {
+        "question": "82. The parking or emergency brakes of trucks or buses can legally be held on by _ pressure.",
+        "choices": [
+            "Spring.",
+            "Fluid.",
+            "Air."
+        ],
+        "answer": "Spring."
+    }
+]

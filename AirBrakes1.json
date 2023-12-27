@@ -1,0 +1,342 @@
+[
+  {
+      "question": "1. Oil and water usually collect in compressed air tanks. If you do not have an automatic tank drain, when should you drain the air tanks?",
+      "choices": [
+          "After every working day.",
+          "After every four hours of service.",
+          "Once a week."
+      ],
+      "answer": "After every working day."
+  },
+  {
+      "question": "2. Why should you drain water from the compressed air tanks?",
+      "choices": [
+          "To keep from fouling the air compressor oil.",
+          "Water can freeze in cold weather and cause brake failure.",
+          "The low boiling point of water reduces braking power."
+      ],
+      "answer": "Water can freeze in cold weather and cause brake failure."
+  },
+  {
+      "question": "3. The air brake system for a straight truck or bus should not leak at a rate of more than______ psi per minute with the engine off and the brakes released.",
+      "choices": [
+          "1",
+          "2",
+          "3"
+      ],
+      "answer": "2"
+  },
+  {
+      "question": "4. To make an emergency stop with air brakes, using the stab braking method, you should:",
+      "choices": [
+          "Pump the brake pedal rapidly and lightly.",
+          "Brake hard until the wheels lock, and then get off the brakes for as much time as the wheels were locked.",
+          "Press on the brake pedal as hard as you can, release the brakes when the wheels locked, put on the brakes again when the wheels start rolling."
+      ],
+      "answer": "Press on the brake pedal as hard as you can, release the brakes when the wheels locked, put on the brakes again when the wheels start rolling."
+  },
+  {
+      "question": "5. You should know that your brakes are fading when:",
+      "choices": [
+          "Pressure on the brake pedal is released and speed increases.",
+          "You have to press the brake pedal harder to control speed on a downgrade.",
+          "The brake feels spongy when pressure is applied."
+      ],
+      "answer": "You have to press the brake pedal harder to control speed on a downgrade."
+  },
+  {
+      "question": "6. If the air compressor should develop a leak, what keeps the air in the tanks?",
+      "choices": [
+          "The tractor protection valve.",
+          "The emergency relay valve.",
+          "The one-way check valve."
+      ],
+      "answer": "The one-way check valve."
+  },
+  {
+      "question": "7. To check the brake slack on S-cam brakes, you should park on:",
+      "choices": [
+          "Park on level ground, chock the wheels, and release the parking brakes.",
+          "Stop on level ground and apply the parking brakes.",
+          "Park on level ground and drain off air pressure before adjusting."
+      ],
+      "answer": "Park on level ground, chock the wheels, and release the parking brakes."
+  },
+  {
+      "question": "8. The application pressure gauge shows how much pressure you have:",
+      "choices": [
+          "In the tanks.",
+          "In a modulating control valve.",
+          "When you are applying the brakes."
+      ],
+      "answer": "When you are applying the brakes."
+  },
+  {
+      "question": "9. The spring brakes used on the chambers in a straight truck will bring you to a stop when air pressure drops below:",
+      "choices": [
+          "60",
+          "20",
+          "100"
+      ],
+      "answer": "20"
+  },
+  {
+    "question": "10. The safety valve is set to automatically reduce pressure at:",
+    "choices": [
+        "150",
+        "50",
+        "100"
+    ],
+    "answer": "150"
+},
+{
+    "question": "11. Your truck has a dual air system, and one of the systems loses its pressure. What will happen?",
+    "choices": [
+        "Brake drums will not be fully pressurized.",
+        "Either the front or back brake will not be fully operational.",
+        "The manual slack adjusters of the S-cam brakes will not be set properly."
+    ],
+    "answer": "Either the front or back brake will not be fully operational."
+},
+{
+    "question": "12. If your truck or bus has dual parking control valves, you can use pressure from a separate:",
+    "choices": [
+        "Balance the service brake system when you are parked.",
+        "Release the spring emergency/parking brakes to move a short distance.",
+        "Stay parked twice as long without using up service air pressure."
+    ],
+    "answer": "Release the spring emergency/parking brakes to move a short distance."
+},
+{
+    "question": "13. If your truck has a properly functioning dual air brake system and minimum size air tanks, the air pressure should build from 85 to 100 psi within _ seconds?",
+    "choices": [
+        "45",
+        "60",
+        "20"
+    ],
+    "answer": "45"
+},
+{
+    "question": "14. During normal driving, spring brakes are usually held back by:",
+    "choices": [
+        "Air Pressure.",
+        "Springs.",
+        "Bolts and braces."
+    ],
+    "answer": "Air Pressure."
+},
+{
+    "question": "15. The air compressor stops pumping air at what psi?",
+    "choices": [
+        "125",
+        "100",
+        "150"
+    ],
+    "answer": "125"
+},
+{
+    "question": "16. The driver must be able to see a warning before pressure in the service air tanks falls below _ psi.",
+    "choices": [
+        "55",
+        "50",
+        "80"
+    ],
+    "answer": "55"
+},
+{
+    "question": "17. Excessive use of the service brakes results in overheating, which can lead to:",
+    "choices": [
+        "Expansion of the brake drums.",
+        "Increase contact between the brake drums and linings.",
+        "Proper adjustment of S-cam."
+    ],
+    "answer": "Expansion of the brake drums."
+},
+{
+    "question": "18. The most common type of foundation brake found on heavy vehicles is the:",
+    "choices": [
+        "Wedge drum.",
+        "S-cam drum.",
+        "Disc drum."
+    ],
+    "answer": "S-cam drum."
+},{
+  "question": "19. If you must make an emergency stop, brake so you:",
+  "choices": [
+      "Use the hand brake before the brake pedal.",
+      "Can steer and your vehicle stays in a straight line.",
+      "Use the full power of the brakes to lock them."
+  ],
+  "answer": "Can steer and your vehicle stays in a straight line."
+},
+{
+  "question": "20. The braking power of the spring brakes:",
+  "choices": [
+      "Is not affected by the condition of the service brakes.",
+      "Increases when the service brakes are hot.",
+      "Depends on the service brakes being in adjustment."
+  ],
+  "answer": "Depends on the service brakes being in adjustment."
+},
+{
+  "question": "21. The air brake lag distance at 55 mph on dry pavement adds about feet.",
+  "choices": [
+      "32 feet.",
+      "45 feet.",
+      "65 feet."
+  ],
+  "answer": "32 feet."
+},
+{
+  "question": "22. Total stopping distance for air brakes is longer than that for hydraulic brakes due to distance.",
+  "choices": [
+      "Brake lag.",
+      "Reaction distance.",
+      "Effective braking."
+  ],
+  "answer": "Brake lag."
+},
+{
+  "question": "23. It is accepted that too much heat caused by using your brakes too often can also cause:",
+  "choices": [
+      "Modulated control valve to wear out.",
+      "Brake linings to split up.",
+      "Brake fade or failure."
+  ],
+  "answer": "Brake fade or failure."
+},
+{
+  "question": "24. Repeatedly pressing and releasing (fanning) the brake pedal may result in:",
+  "choices": [
+      "The loss of brake air pressure.",
+      "A build up of brake air pressure.",
+      "No change of brake air pressure."
+  ],
+  "answer": "The loss of brake air pressure."
+},
+{
+  "question": "25. The brake system that applies and releases the brakes when the driver uses the brake pedal is the______ brake system.",
+  "choices": [
+      "Emergency.",
+      "Service.",
+      "Parking."
+  ],
+  "answer": "Service."
+},
+{
+  "question": "26. A slack adjuster's free play needs to be adjusted if it is more than about inches when you pull hard on it?",
+  "choices": [
+      "1/4 inch",
+      "1/2 inch",
+      "1 inch"
+  ],
+  "answer": "1 inch"
+},
+{
+  "question": "27. An air brake system is fully charged at what psi?",
+  "choices": [
+      "125",
+      "150",
+      "75"
+  ],
+  "answer": "125"
+},
+{
+  "question": "28. The brake pedal in an air brake system:",
+  "choices": [
+      "Control the speed of the air compressor.",
+      "Controls the air pressure applied to put on the brakes.",
+      "Is connected to slack adjusters by a series of rods and linkages."
+  ],
+  "answer": "Controls the air pressure applied to put on the brakes."
+},{
+  "question": "29. The S-cam:",
+  "choices": [
+      "Controls the flow air to each of the brake chambers.",
+      "Pulls the brake shoes away from the drum and allow the wheels to roll freely.",
+      "Forces the brake shoes against the inside of the brake drum."
+  ],
+  "answer": "Forces the brake shoes against the inside of the brake drum."
+},
+{
+  "question": "30. Under normal conditions in order to engage the parking brakes the driver must first:",
+  "choices": [
+      "Turn off the engine.",
+      "Let the air out of the spring brakes.",
+      "Be sure air brakes system is fully pressurized."
+  ],
+  "answer": "Let the air out of the spring brakes."
+},
+{
+  "question": "31. Which of these is NOT a proper time to apply the parking brakes?",
+  "choices": [
+      "If your brakes are very hot.",
+      "To use parking brakes if you park for less than 1 hour.",
+      "If you are going to use the parking brakes you need to make sure that they will hold the vehicle."
+  ],
+  "answer": "TIf your brakes are very hot."
+},
+{
+  "question": "32. If the spring brakes are on, when should you push the brake pedal?",
+  "choices": [
+      "Only when driving downhill.",
+      "Only on the slippery road.",
+      "Never."
+  ],
+  "answer": "Never."
+},
+{
+  "question": "33. What is the first thing you should do when a low air pressure warning comes on:",
+  "choices": [
+      "Upshift.",
+      "Downshift.",
+      "Stop and safely park as soon as possible."
+  ],
+  "answer": "Stop and safely park as soon as possible."
+},
+{
+  "question": "34. The parking or emergency brake on a heavy vehicle can only be held in position by something that cannot leak away, like:",
+  "choices": [
+      "Spring pressure.",
+      "Air pressure.",
+      "Hydraulic pressure."
+  ],
+  "answer": "Spring pressure."
+},
+{
+  "question": "35. Air braking takes more time than hydraulic braking because air:",
+  "choices": [
+      "Takes more time to flow through the lines than hydraulic fluid.",
+      "Air brakes use different brake drums.",
+      "Brakes require heavier return springs."
+  ],
+  "answer": "Takes more time to flow through the lines than hydraulic fluid."
+},
+{
+  "question": "36. When you apply the brakes, the brake shoes/linings are pressed against the:",
+  "choices": [
+      "Brake drum.",
+      "Slack adjuster.",
+      "S-cam."
+  ],
+  "answer": "Brake drum."
+},
+{
+  "question": "37. If air pressure is NOT build up fast enough within the correct amount of time:",
+  "choices": [
+      "You should be ready to use your parking brakes to stop.",
+      "The alcohol container may be low.",
+      "You air pressure may drop too low during driving."
+  ],
+  "answer": "You air pressure may drop too low during driving."
+},
+{
+  "question": "38. The proper method of braking when going down a long and/or steep grades after selecting the proper gear, is to brake until your speed is about _ miles per hour below your 'safe' speed, then release your brakes.",
+  "choices": [
+      "5",
+      "10",
+      "15"
+  ],
+  "answer": "5"
+}
+]

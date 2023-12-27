@@ -1,0 +1,251 @@
+[
+    {
+    "question": "83. Air brake equipped vehicles have:",
+    "choices": [
+        "An air use gauge.",
+        "An air supply pressure gauge.",
+        "A backup hydraulic system."
+    ],
+    "answer": "An air supply pressure gauge."
+},
+{
+    "question": "84. The stop light switch:",
+    "choices": [
+        "Turns on the brake lights to warn drivers behind you.",
+        "Tells you when you need to use your emergency brakes.",
+        "Tells you when the air brake system is low on air pressure."
+    ],
+    "answer": "Turns on the brake lights to warn drivers behind you."
+},
+{
+    "question": "85. The air loss rate for a straight truck or bus with the engine off and the brakes on should not be more than:",
+    "choices": [
+        "1 psi in one minute.",
+        "2 psi in 45 seconds.",
+        "3 psi in one minute."
+    ],
+    "answer": "3 psi in one minute."
+},
+{
+    "question": "86. With air brake vehicles, the parking brakes should be used:",
+    "choices": [
+        "Whenever you leave the vehicle unattended.",
+        "As little as possible.",
+        "Only during pre-trip and post-trip inspections."
+    ],
+    "answer": "Whenever you leave the vehicle unattended."
+},
+{
+    "question": "87. The use of air brakes on a downgrade is only a supplement to the:",
+    "choices": [
+        "Use of the spring brakes.",
+        "Use of the front brake limiting valve.",
+        "Braking effect of the engine."
+    ],
+    "answer": "Braking effect of the engine."
+},
+{
+    "question": "88. Excessive heat in the brakes can cause the:",
+    "choices": [
+        "Modulating control valve to wear out.",
+        "Brake lines to plug.",
+        "Brakes to fade or fail."
+    ],
+    "answer": "Brakes to fade or fail."
+},
+{
+    "question": "89. You are on a steep down grade and have reached your safe speed of 40 mph. You would apply the service brakes until your speed drops to - mph.",
+    "choices": [
+        "25",
+        "35",
+        "30"
+    ],
+    "answer": "35"
+},
+{
+    "question": "90. If your bus or truck has dual parking control valves, you can use pressure from a separate tank to:",
+    "choices": [
+        "Balance the service brake system when you are parked.",
+        "Stay parked twice as long without using up service air pressure.",
+        "Release the spring emergency/parking brakes to move a short distance."
+    ],
+    "answer": "Release the spring emergency/parking brakes to move a short distance."
+},
+{
+    "question": "91. The modulating control valve allows you to control the:",
+    "choices": [
+        "Spring brakes.",
+        "Front brakes.",
+        "Amount of pressure in the brake system."
+    ],
+    "answer": "Spring brakes."
+},
+{
+    "question": "92. Some air brake systems have an alcohol evaporator. What may happen if you don't keep the unit filled with alcohol?",
+    "choices": [
+        "The S-cam may not rotate back when you release the brake pedal.",
+        "Ice may form in the air storage tanks and cause the brakes to fail.",
+        "Ice may form on the brake pads and warp them."
+    ],
+    "answer": "Ice may form in the air storage tanks and cause the brakes to fail."
+},
+{
+    "question": "93. Before driving a truck or bus with a dual air brake system, the pressure in each air brake system should be at least psi.",
+    "choices": [
+        "80",
+        "100",
+        "120"
+    ],
+    "answer": "100"
+},
+{
+    "question": "94. How should you check that the spring brakes come on when the air pressure in the system drops below a certain level?",
+    "choices": [
+        "Park on a slight incline, drain off air pressure, set parking brakes and check for movement.",
+        "Park on level ground, chock the wheels, release the parking brake when you have enough air pressure, shut the engine off, and repeatedly press and release the brake pedal.",
+        "Park on level ground, wait for normal air pressure, release the parking brake, move the truck forward slowly, and apply the brakes firmly using the brake pedal."
+    ],
+    "answer": "Park on level ground, chock the wheels, release the parking brake when you have enough air pressure, shut the engine off, and repeatedly press and release the brake pedal."
+},
+{
+    "question": "95. For air brake systems in good condition, the air compressor should start pumping at about - psi.",
+    "choices": [
+        "100",
+        "125",
+        "150"
+    ],
+    "answer": "100"
+},
+{
+    "question": "96. In air brake vehicles, the parking brake should be used:",
+    "choices": [
+        "As little as possible.",
+        "Any time the vehicle is parked.",
+        "To hold your speed when going down hill."
+    ],
+    "answer": "Any time the vehicle is parked."
+},
+{
+    "question": "97. The air compressor governor controls:",
+    "choices": [
+        "When air is pumped into the air storage tanks.",
+        "The speed of the air compressor.",
+        "Air pressure applied to the brakes."
+    ],
+    "answer": "When air is pumped into the air storage tanks."
+},
+{
+    "question": "98. The most important thing to do when a low air pressure warning comes on is:",
+    "choices": [
+        "Upshift.",
+        "Downshift.",
+        "Stop and safely park as soon as possible."
+    ],
+    "answer": "Stop and safely park as soon as possible."
+},
+{
+    "question": "99. If your vehicle has an alcohol evaporator, everyday during cold weather you should:",
+    "choices": [
+        "Check and fill the alcohol level.",
+        "Change the alcohol from a new bottle.",
+        "Check the oil for alcohol content."
+    ],
+    "answer": "Check and fill the alcohol level."
+},
+{
+    "question": "100. Your bus or truck has a dual air brake system. If a low air pressure warning comes on for only one system, what should you do?",
+    "choices": [
+        "Reduce your speed and drive to the nearest garage for repairs.",
+        "Reduce your speed and test the remaining system while driving.",
+        "Stop and safely park. Continue only after the system is fixed."
+    ],
+    "answer": "Stop and safely park. Continue only after the system is fixed."
+},
+{
+    "question": "101. It is not safe to drive a vehicle that has brake drums (or discs) with cracks or that are thinner than the manufacturer's specifications, generally this will be — an inch.",
+    "choices": [
+        "1/3",
+        "1/4",
+        "1/2"
+    ],
+    "answer": "1/2"
+},
+{
+    "question": "102. Emergency controlled braking is when you:",
+    "choices": [
+        "Apply the brakes as hard as you can without locking the wheels.",
+        "Brake as hard as you can, release the brakes when the wheels lock, and put the brakes back on again when the wheels start rolling.",
+        "Apply the hand valve for one second, then push hard on the brake pedal."
+    ],
+    "answer": "Apply the brakes as hard as you can without locking the wheels."
+},
+{
+    "question": "103. When performing your air brake leak down test your engine should be turned off.",
+    "choices": [
+        "True",
+        "False"
+    ],
+    "answer": "True"
+},
+{
+    "question": "104. How should you check that your service brakes are working properly?",
+    "choices": [
+        "Wait for normal air pressure, release the parking brake, move the truck forward slowly, and apply the brakes firmly using the brake pedal.","Check the brake lights to see if they are working.",
+        "Rev the engine and listen for any unusual sounds."
+    ],
+    "answer": "Wait for normal air pressure, release the parking brake, move the truck forward slowly, and apply the brakes firmly using the brake pedal."
+},
+{
+    "question": "105. How should you check that the service brakes come on when air pressure in the system drops below a certain level?",
+    "choices": [
+        "Wait for normal air pressure, release the parking brake, move the truck forward slowly, and apply the brakes using the brake pedal.","Check the oil level in the engine.",
+        "Engage the cruise control and monitor the speed."
+    ],
+    "answer": "Wait for normal air pressure, release the parking brake, move the truck forward slowly, and apply the brakes using the brake pedal."
+},
+{
+    "question": "106. If your truck's air compressor has its own oil supply when should you first check the oil level?",
+    "choices": [
+        "After driving.",
+        "Before driving.",
+        "During driving."
+    ],
+    "answer": "Before driving."
+},
+{
+    "question": "107. What is emergency control braking?",
+    "choices": [
+        "a. You Apply the brakes as hard as you can without locking the brakes.",
+        "b. Pump the brakes rapidly.",
+        "c. Apply light brake pressure."
+    ],
+    "answer": "a. You Apply the brakes as hard as you can without locking the brakes."
+},
+{
+    "question": "108. If your vehicle has an alcohol evaporator, it is there to:",
+    "choices": [
+        "a. Reduce the risk of ice in air brake valves in cold weather.",
+        "b. Provide a refreshing drink for the driver.",
+        "c. Improve fuel efficiency."
+    ],
+    "answer": "a. Reduce the risk of ice in air brake valves in cold weather."
+},
+{
+    "question": "109. What is emergency stab braking?",
+    "choices": [
+        "a. Gradually apply the brakes until the wheels lock up.",
+        "b. Brake hard, release the brakes when the wheel locks and reapply the brake when the wheels start rolling.",
+        "c. Apply the parking brake quickly."
+    ],
+    "answer": "b. Brake hard, release the brakes when the wheel locks and reapply the brake when the wheels start rolling."
+},
+{
+    "question": "110. To check the brake slack on S-cam brakes, you should park on:",
+    "choices": [
+        "a. An incline.",
+        "b. Level ground, chock the wheels, and release the parking brakes.",
+        "c. A steep hill."
+    ],
+    "answer": "b. Level ground, chock the wheels, and release the parking brakes."
+}
+]
