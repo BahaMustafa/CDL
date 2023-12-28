@@ -285,8 +285,7 @@
             "Slack adjuster and brake camshaft."
         ],
         "answer": "Slack adjuster and brake camshaft."
-    },
-    {
+    },{
         "question": "72. If your vehicle has an alcohol evaporator you should check and fill the alcohol level everyday during cold weather.",
         "choices": [
             "True",
@@ -302,86 +301,5 @@
             "Brake firmly while slowly moving forward."
         ],
         "answer": "Brake firmly while slowly moving forward."
-    },
-    {
-        "question": "74. The driver must be able to see a low pressure warning which comes on before pressure in the service air tank falls below:",
-        "choices": [
-            "60 psi",
-            "80 psi",
-            "100 psi"
-        ],
-        "answer": "60 psi"
-    },
-    {
-        "question": "75. Converter dollies built on or after March 1, 1998 are required to have anti-lock brakes. These dollies will have:",
-        "choices": [
-            "A yellow malfunction lamp in the center of the dolly.",
-            "A yellow malfunction lamp on the right side of the dolly.",
-            "A yellow malfunction lamp on the left side of the dolly."
-        ],
-        "answer": "A yellow malfunction lamp on the left side of the dolly."
-    },
-    {
-        "question": "76. Which of these is the most important thing to remember about emergency braking?",
-        "choices": [
-            "Disconnecting the steering axle brakes will help keep your vehicle in a straight line during emergency braking.",
-            "Never do it without downshifting first.",
-            "If the wheels are skidding, you cannot control the vehicle."
-        ],
-        "answer": "If the wheels are skidding, you cannot control the vehicle."
-    },
-    {
-        "question": "77. Controlled braking:",
-        "choices": [
-            "Involves locking the wheels for short periods of time.",
-            "Can be used while you are turning sharply.",
-            "Is used to keep a vehicle in a straight line when braking."
-        ],
-        "answer": "Is used to keep a vehicle in a straight line when braking."
-    },
-    {
-        "question": "78. To correct a drive-wheel braking skid, you should:",
-        "choices": [
-            "Increase braking.",
-            "Stop braking, turn quickly, and countersteer.",
-            "Increase braking, turn quickly, and countersteer."
-        ],
-        "answer": "Stop braking, turn quickly, and countersteer."
-    },
-    {
-        "question": "79. How do you test the hydraulic brakes for leaks?",
-        "choices": [
-            "Drive slowly and pump the brake pedal. Make sure it doesn't hit the floor.",
-            "Pump the brake pedal three times, then apply firm pressure to the pedal and hold for five seconds. The pedal should not move.",
-            "Drive 20 mph and slam on the brakes."
-        ],
-        "answer": "Pump the brake pedal three times, then apply firm pressure to the pedal and hold for five seconds. The pedal should not move."
-    },
-    {
-        "question": "80. Modern air brake systems are three different systems combined together. They are the service, parking, and the brakes.",
-        "choices": [
-            "Emergency.",
-            "Foot.",
-            "S-cam."
-        ],
-        "answer": "Emergency."
-    },
-    {
-        "question": "81. The air supply pressure gauge shows how much pressure:",
-        "choices": [
-            "Is in the air tanks.",
-            "You have used in this trip.",
-            "Is going to the brake chambers."
-        ],
-        "answer": "Is in the air tanks."
-    },
-    {
-        "question": "82. The parking or emergency brakes of trucks or buses can legally be held on by _ pressure.",
-        "choices": [
-            "Spring.",
-            "Fluid.",
-            "Air."
-        ],
-        "answer": "Spring."
     }
 ]
