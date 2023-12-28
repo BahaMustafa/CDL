@@ -99,7 +99,7 @@
     "answer": "Either the front or back brake will not be fully operational."
 },
 {
-    "question": "12. If your truck or bus has dual parking control valves, you can use pressure from a separate:",
+    "question": "12. If your truck or bus has dual parking control valves, you can use pressure from a separate tank to:",
     "choices": [
         "Balance the service brake system when you are parked.",
         "Release the spring emergency/parking brakes to move a short distance.",
@@ -224,7 +224,7 @@
   "answer": "Service."
 },
 {
-  "question": "26. A slack adjuster's free play needs to be adjusted if it is more than about inches when you pull hard on it?",
+  "question": "26. A slack adjuster's free play needs to be adjusted if it is more than about _______ how many inches when you pull hard on it?",
   "choices": [
       "1/4 inch",
       "1/2 inch",
