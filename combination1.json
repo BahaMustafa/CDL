@@ -51,7 +51,7 @@
           "Never.",
           "To park on a grade."
       ],
-      "answer": "TNever."
+      "answer": "Never."
   },
   {
       "question": "7. You supply air to the trailer tanks by:",
@@ -159,7 +159,7 @@
             "Trailer emergency brakes to come on.",
             "Tractor spring brakes to lock on."
         ],
-        "answer": "Trailer emergency brakes to come on"
+        "answer": "Trailer emergency brakes to come on."
     },
     {
         "question": "19. When backing under a tractor under a trailer you should expect:",
