@@ -36,7 +36,7 @@
     "answer": "b. Always use the lowest reverse gear."
 },
 {
-    "question": "55. Compared to a straight truck or bus there are more things to inspect in combination vehicles.",
+    "question": "55. Compared to a straight truck or bus there are _________ things to inspect in combination vehicles.",
     "choices": [
         "a. Fewer.",
         "b. The same number.",
@@ -81,7 +81,7 @@
     "answer": "c. Normal."
 },
 {
-    "question": "60. The tractor protection valve will close and the trailer emergency brakes will come on when there is a major leak in the brake line.",
+    "question": "60. The tractor protection valve will close and the trailer emergency brakes will come on when there is a major leak in the________ brake line.",
     "choices": [
         "a. Emergency.",
         "b. Parking.",
