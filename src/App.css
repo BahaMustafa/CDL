@@ -9,17 +9,54 @@ html, body {
 }
 
 /* This ensures that .App takes up only as much space as it needs */
-
+/* App.css */
 .App {
-  background-color: #fff;
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/Users/bahamustafa/dmv-quiz/src/124.webp') no-repeat center center;
+
+  background: url('/Users/bahamustafa/dmv-quiz/src/124.webp') no-repeat center center;
+  background-size: cover;
   border-radius: 10px;
   box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
   padding: 20px;
-  margin: 20px auto;
-  max-width: 500px;
   margin: auto; /* Centers the app in the available space */
-  padding: 20px;
-  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+}
+
+.App-header {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.App-title {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.App-subtitle {
+  font-size: 1.2rem;
+  margin-bottom: 2rem;
+}
+
+.start-button {
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  color: #fff;
+  background-color: #007bff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.start-button:hover {
+  background-color: #0056b3;
 }
 
 /* Shuffle Questions label */
@@ -67,7 +104,6 @@ select {
 }
 
 /* General button styles */
-/* Button styling with a more modern appearance */
 button {
   background-color: #3498db; /* A fresh blue color */
   color: white;
@@ -83,47 +119,43 @@ button {
   outline: none; /* Removes the outline to maintain the style on focus */
 }
 
-/* Button hover and focus effects for interactivity */
 button:hover, button:focus {
   background-color: #2980b9; /* A darker shade of blue for contrast */
   box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15); /* Larger shadow for a "lifted" effect */
   transform: translateY(-2px); /* Slightly raise the button */
 }
 
-/* Button active state, when the button is pressed */
 button:active {
   background-color: #3498db; /* Return to original color */
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Smaller shadow to "push" the button down */
   transform: translateY(1px); /* Button goes down a bit */
 }
-
-
-/* Test completion message styling */
-.test-completed {
-  background-color: #dff0d8;
-  color: #3c763d;
-  padding: 10px;
-  margin-top: 20px;
-  border-radius: 4px;
+.App-title, .App-subtitle, label, button, p {
+  color: #ffffff; /* White text color for better contrast */
+  text-shadow: 0px 0px 8px rgba(0, 0, 0, 0.8); /* Black text shadow for legibility */
 }
 
-/* Score and Incorrect Answers Styling */
-p {
-  color: #333;
-  font-size: 18px;
+/* Alternatively, use an opaque background for text containers */
+.text-container {
+  background-color: rgba(255, 255, 255, 0.7); /* White with some transparency */
+  padding: 1rem; /* Or as needed */
+  border-radius: 8px; /* Or as needed for style */
+  margin: 0.5rem; /* Space out elements */
 }
 
-/* Feedback message animation */
-.feedback {
-  transition: all 0.3s ease;
+.test-container {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
-.feedback:not(.hidden) {
-  transform: scale(1.05);
-}
-
-/* Keyframes for fadeIn effect used in test completion message */
-@keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
+/* Apply styles to text and other elements within the .test-container for better readability */
+.test-container h1,
+.test-container h2,
+.test-container p,
+.test-container button {
+  color: #333; /* Darker text for better contrast */
+  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  /* More styles as needed */
 }
