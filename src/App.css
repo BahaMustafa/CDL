@@ -1,68 +1,129 @@
-/* General Styles */
+/* App component styling */
+html, body {
+  height: 100%;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #f0f2f5; /* or any color/background you prefer */
+}
+
+/* This ensures that .App takes up only as much space as it needs */
+
 .App {
-  font-family: 'Arial', sans-serif;
-  text-align: center;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
   padding: 20px;
-  background-color: #f5f5f5;
-  max-width: 600px;
-  margin: 0 auto;
+  margin: 20px auto;
+  max-width: 500px;
+  margin: auto; /* Centers the app in the available space */
+  padding: 20px;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
 }
 
-select, button {
-  padding: 10px 15px;
-  margin: 10px;
-  border-radius: 5px;
-  border: 1px solid #ccc;
-  font-size: 16px;
-  width: 90%;
-  max-width: 300px;
+/* Shuffle Questions label */
+label {
+  display: block;
+  color: #2c3e50; /* A darker shade for better readability */
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  user-select: none; /* Disables text selection for better UX */
 }
 
-button {
-  background-color: #4CAF50;
-  color: white;
+input[type="checkbox"] {
+  appearance: none; /* Removes default styling */
+  background-color: #ecf0f1; /* Light grey background */
+  margin-right: 0.5rem;
+  font-size: 1.25rem;
+  width: 1.25rem;
+  height: 1.25rem;
+  border: 2px solid #bdc3c7; /* Grey border */
+  border-radius: 0.25rem; /* Slightly rounded corners for a modern look */
+  transition: background-color 0.3s, border-color 0.3s;
+  vertical-align: middle; /* Aligns checkbox with the text vertically */
   cursor: pointer;
 }
 
-button:hover {
-  background-color: #45a049;
+input[type="checkbox"]:checked {
+  background-color: #8e44ad; /* A purple background for checked state */
+  border-color: #8e44ad; /* Matching border color */
 }
 
-button:disabled {
-  background-color: #ccc;
-  cursor: not-allowed;
+/* Hover effect for the custom checkbox */
+input[type="checkbox"]:hover:not(:checked) {
+  border-color: #3498db; /* Changes border color on hover when not checked */
 }
 
-/* Test Completion Styles */
-.TestCompleted {
-  background-color: #f0f0f0;
+/* Select dropdown styling */
+select {
+  width: 100%;
+  padding: 8px 12px;
+  margin-bottom: 20px;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  background-color: #fafafa;
+}
+
+/* General button styles */
+/* Button styling with a more modern appearance */
+button {
+  background-color: #3498db; /* A fresh blue color */
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  margin: 10px 5px;
+  border-radius: 20px; /* Rounded edges for a softer look */
+  font-size: 16px;
+  font-weight: 500; /* Slightly bold font */
+  cursor: pointer;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  transition: all 0.3s ease;
+  outline: none; /* Removes the outline to maintain the style on focus */
+}
+
+/* Button hover and focus effects for interactivity */
+button:hover, button:focus {
+  background-color: #2980b9; /* A darker shade of blue for contrast */
+  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15); /* Larger shadow for a "lifted" effect */
+  transform: translateY(-2px); /* Slightly raise the button */
+}
+
+/* Button active state, when the button is pressed */
+button:active {
+  background-color: #3498db; /* Return to original color */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Smaller shadow to "push" the button down */
+  transform: translateY(1px); /* Button goes down a bit */
+}
+
+
+/* Test completion message styling */
+.test-completed {
+  background-color: #dff0d8;
+  color: #3c763d;
   padding: 10px;
-  border-radius: 5px;
-  margin: 20px 0;
+  margin-top: 20px;
+  border-radius: 4px;
 }
 
-/* Question and Feedback Styles */
-.Question, .Feedback {
-  background-color: #e3f2fd;
-  padding: 15px;
-  border-radius: 8px;
-  margin: 10px 0;
+/* Score and Incorrect Answers Styling */
+p {
+  color: #333;
+  font-size: 18px;
 }
 
-/* Score Display Styles */
-.Score, .IncorrectAnswers {
-  font-size: 1.2em;
-  font-weight: bold;
-  color: #1565c0;
+/* Feedback message animation */
+.feedback {
+  transition: all 0.3s ease;
 }
 
-/* Responsive Styles */
-@media (max-width: 600px) {
-  .App {
-    padding: 10px;
-  }
+.feedback:not(.hidden) {
+  transform: scale(1.05);
+}
 
-  select, button {
-    width: 100%;
-  }
+/* Keyframes for fadeIn effect used in test completion message */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
 }

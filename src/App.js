@@ -1,6 +1,9 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
+import { motion } from './framer-motion';
+
 import Question from './Question';
 import Feedback from './Feedback';
+
 import './App.css';
 
 function App() {
@@ -12,15 +15,26 @@ function App() {
   const [selectedTest, setSelectedTest] = useState('test1');
   const [testCompleted, setTestCompleted] = useState(false);
   const [shuffleEnabled, setShuffleEnabled] = useState(true); // New state for shuffle button
+  const [isShuffleActive, setIsShuffleActive] = useState(false);
 
+  const handleShuffleToggle = () => {
+    setIsShuffleActive(!isShuffleActive);
+  };
   // Shuffle the questions and choices
   function shuffleArray(array) {
-    return [...array].sort(() => Math.random() - 0.5);
+    const result = [...array];
+    for (let i = result.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [result[i], result[j]] = [result[j], result[i]]; // Swap elements
+    }
+    return result;
   }
+  
+  
 
   // Function to shuffle questions and choices
-  const shuffleQuestionsAndChoices = () => {
-    if (shuffleEnabled) {
+  const shuffleQuestionsAndChoices = useCallback(() => {
+    if (isShuffleActive) {
       setQuestions(currentQuestions => {
         return shuffleArray(currentQuestions).map(question => ({
           ...question,
@@ -28,7 +42,7 @@ function App() {
         }));
       });
     }
-  };
+  }, [isShuffleActive]); 
 
   useEffect(() => {
     const savedIndex = sessionStorage.getItem('currentQuestionIndex');
@@ -38,16 +52,19 @@ function App() {
     }
 
     fetch(`${process.env.PUBLIC_URL}/${selectedTest}.json`)
-      .then(response => response.json())
-      .then(data => {
-        const shuffledQuestions = shuffleArray(data).map(question => ({
+    .then(response => response.json())
+    .then(data => {
+      let questionsData = data;
+      if (isShuffleActive) {
+        questionsData = shuffleArray(data).map(question => ({
           ...question,
           choices: shuffleArray(question.choices)
         }));
-        setQuestions(shuffledQuestions);
-      })
-      .catch(error => console.error('Error fetching questions:', error));
-  }, [selectedTest]);
+      }
+      setQuestions(questionsData);
+    })
+    .catch(error => console.error('Error fetching questions:', error));
+}, [selectedTest, isShuffleActive]);
 
   useEffect(() => {
     sessionStorage.setItem('currentQuestionIndex', currentQuestionIndex);
@@ -93,20 +110,41 @@ function App() {
   };
 
   return (
+    
     <div className="App">
-      <select onChange={(e) => setSelectedTest(e.target.value)}>
-        <option value="test1">Test 1</option>
-        <option value="test2">Test 2</option>
-        <option value="test3">Test 3</option>
-        <option value="airBrakes">Air Brakes</option>
-        <option value="combination">Combination</option>
-        <option value="GeneralKnowledge">General Knowledge</option>
-        <option value="GeneralKnowledge1">General Knowledge1</option>
-        <option value="GeneralKnowledge2">General Knowledge2</option>
-        <option value="GeneralKnowledge3">General Knowledge3</option>
-        <option value="GeneralKnowledge4">General Knowledge4</option>
-        <option value="GeneralKnowledge5">General Knowledge5</option>
-      </select>
+            <div>
+              <label>
+                Shuffle Questions
+                <input 
+                  type="checkbox" 
+                  checked={isShuffleActive} 
+                  onChange={handleShuffleToggle} 
+                />
+              </label>
+            </div>
+            <select onChange={(e) => setSelectedTest(e.target.value)}>
+  <optgroup label="General Knowledge">
+    <option value="GeneralKnowledge">General Knowledge</option>
+    <option value="GeneralKnowledge1">General Knowledge 1</option>
+    <option value="GeneralKnowledge2">General Knowledge 2</option>
+    <option value="GeneralKnowledge3">General Knowledge 3</option>
+    <option value="GeneralKnowledge4">General Knowledge 4</option>
+    <option value="GeneralKnowledge5">General Knowledge 5</option>
+    <option value="GeneralKnowledge6">General Knowledge 6</option>
+    <option value="GeneralKnowledge7">General Knowledge 7</option>
+  </optgroup>
+  <optgroup label="Air Brakes">
+    <option value="AirBrakes1">Air Brakes</option>
+    <option value="AirBrakes2">Air Brakes 1</option>
+    <option value="AirBrakes3">Air Brakes 2</option>
+  </optgroup>
+  <optgroup label="Combination">
+    <option value="combination1">Combination</option>
+    <option value="combination2">Combination 1</option>
+    <option value="combination3">Combination 2</option>
+    <option value="combination4">Combination 3</option>
+  </optgroup>
+</select>
 
       
 
@@ -119,10 +157,10 @@ function App() {
         <>
           {questions.length > 0 && (
             <Question
-              question={questions[currentQuestionIndex].question}
-              choices={questions[currentQuestionIndex].choices}
-              onSelect={handleChoiceSelect}
-              isCorrect={isCorrect}
+            question={questions[currentQuestionIndex].question}
+            choices={questions[currentQuestionIndex].choices}
+            onSelect={handleChoiceSelect}
+            isCorrect={isCorrect}
             />
           )}
           <Feedback isCorrect={isCorrect} />
@@ -133,7 +171,9 @@ function App() {
           <p>Score: {score}</p>
           <p>Incorrect Answers: {incorrectAnswers}</p>
         </>
+       
       )}
+
     </div>
   );
 }

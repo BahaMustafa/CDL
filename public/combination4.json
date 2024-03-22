@@ -1,0 +1,238 @@
+[
+{
+    "question": "76. Describe what the service line is for?",
+    "choices": [
+        "a. To carry air to the parking brake to control the trailer brakes.",
+        "b. To carry air to a relay valve that allows the trailer brakes to be applied quickly.",
+        "c. To carry air to the cab of the rig to cool it."
+    ],
+    "answer": "b. To carry air to a relay valve that allows the trailer brakes to be applied quickly."
+},
+{
+    "question": "77. What are the other names for the Service Air Line?",
+    "choices": [
+        "a. Control line or signal line.",
+        "b. Straight line or control line.",
+        "c. Curved line or signal line."
+    ],
+    "answer": "a. Control line or signal line."
+},
+{
+    "question": "78. What is the emergency air line?",
+    "choices": [
+        "a. Air lines connecting the parking brake to the trailer brakes.",
+        "b. Air lines that control the emergency brakes of the tractor.",
+        "c. Air lines that control the emergency brakes on combination vehicles."
+    ],
+    "answer": "c. Air lines that control the emergency brakes on combination vehicles."
+},
+{
+    "question": "79. What is the emergency air line for?",
+    "choices": [
+        "a. To engage the front brakes of the tractor in case of an emergency.",
+        "b. To engage the trailer brakes in case of air pressure loss.",
+        "c. To have extra air pressure in case you need it."
+    ],
+    "answer": "b. To engage the trailer brakes in case of air pressure loss."
+},
+{
+    "question": "80. Why should you use chocks when parking a trailer without spring brakes?",
+    "choices": [
+        "a. Because you don't want the trailer rolling down a hill.",
+        "b. Because if the air pressure leaks away or down, there will be no brakes.",
+        "c. Because some states require chocking of trailer wheels."
+    ],
+    "answer": "b. Because if the air pressure leaks away or down, there will be no brakes."
+},
+{
+    "question": "81. When a vehicle is carrying a load at night, which extends four feet or more beyond the rear of the body, there must be __ at the extreme end of the load.",
+    "choices": [
+        "a. 2 Red lights.",
+        "b. 1 Red flag.",
+        "c. 2 Red flags."
+    ],
+    "answer": "a. 2 Red lights."
+},
+{
+    "question": "82. How long does it take a typical tractor-trailer to clear a single track? A double track?",
+    "choices": [
+        "a. It takes 10 seconds to clear a single track, and more than 12 seconds to clear a double track.",
+        "b. It takes 7 seconds to clear a single track, and more than 10 seconds to clear a double track.",
+        "c. It takes 14 seconds to clear a single track, and more than 15 seconds to clear a double track."
+    ],
+    "answer": "c. It takes 14 seconds to clear a single track, and more than 15 seconds to clear a double track."
+},
+{
+    "question": "83. You have pushed in the trailer supply valve. You should not move the tractor until the whole air system:",
+    "choices": [
+        "a. Empty.",
+        "b. At normal pressure.",
+        "c. Between 60 and 80 psi."
+    ],
+    "answer": "b. At normal pressure."
+},
+{
+    "question": "84. The best way to tell if your trailer has started to skid is to:",
+    "choices": [
+        "a. Hear the wheels skidding.",
+        "b. See it in your mirrors.",
+        "c. Feel for 'pulling' in the cab."
+    ],
+    "answer": "b. See it in your mirrors."
+},
+{
+    "question": "85. Which of these vehicles off-track the most?",
+    "choices": [
+        "a. 5-axle tractor towing a 52-foot trailer.",
+        "b. 5-axle tractor towing a 45-foot trailer.",
+        "c. 5-axle tractor towing a 42-foot trailer."
+    ],
+    "answer": "a. 5-axle tractor towing a 52-foot trailer."
+},
+{
+    "question": "86. A tractor with a(n) _ trailer requires the shortest amount of stopping distance.",
+    "choices": [
+        "a. Empty.",
+        "b. Lightly loaded.",
+        "c. Fully Loaded."
+    ],
+    "answer": "c. Fully Loaded."
+},
+{
+    "question": "87. A trailer is most likely to jackknife when it is:",
+    "choices": [
+        "a. Loaded to full capacity.",
+        "b. Overloaded.",
+        "c. Empty."
+    ],
+    "answer": "c. Empty."
+},
+{
+    "question": "88. If you have coupled with a semitrailer, where should the front trailer supports be before driving away?",
+    "choices": [
+        "a. Raised 1/2 way with the crank handle secured in its bracket.",
+        "b. Raised 3/4 way with the crank handle removed.",
+        "c. Fully raised with the crank handle secured in its bracket."
+    ],
+    "answer": "c. Fully raised with the crank handle secured in its bracket."
+},
+{
+    "question": "89. The fifth-wheel locking lever is not locked after the jaws close around the kingpin. This means that:",
+    "choices": [
+        "a. The trailer will not swivel on the fifth wheel.",
+        "b. The parking lock is off and may drive away.",
+        "c. The coupling is not right and should be fixed before driving the coupled unit."
+    ],
+    "answer": "c. The coupling is not right and should be fixed before driving the coupled unit."
+},
+{
+    "question": "90. You want to inspect the trailer supports. You should place the tractor transmission in which gear after you have uncoupled the trailer?",
+    "choices": [
+        "a. Low reverse.",
+        "b. Neutral.",
+        "c. High reverse."
+    ],
+    "answer": "b. Neutral."
+},
+{
+    "question": "91. When should you use chocks to park a trailer not equipped with spring brakes?",
+    "choices": [
+        "a. Never.",
+        "b. Always.",
+        "c. Only when it will be parked on an incline."
+    ],
+    "answer": "b. Always."
+},
+{
+    "question": "92. Which shut off valves should be open and which closed?",
+    "choices": [
+        "a. The front trailer's shut-off valve open and the rear closed.",
+        "b. The rear trailer's shut-off valve open and the front closed.",
+        "c. Both front and rear trailer shut-off valves open."
+    ],
+    "answer": "a. The front trailer's shut-off valve open and the rear closed."
+},
+{
+    "question": "93. The trailer air supply control (also known as the tractor protection valve control) should automatically close when the air pressure falls to between:",
+    "choices": [
+        "a. 60 and 80 psi.",
+        "b. 45 and 60 psi.",
+        "c. 20 and 45 psi."
+    ],
+    "answer": "c. 20 and 45 psi."
+},
+{
+    "question": "94. Combination vehicles and the rearward amplification each trailer has after a quick lane change is referred to as what?",
+    "choices": [
+        "a. Trailer sway effect",
+        "b. Crack the whip effect",
+        "c. Rearward drag effect"
+    ],
+    "answer": "b. Crack the whip effect"
+},
+{
+    "question": "95. What is offtracking?",
+    "choices": [
+        "a. When the trailer follows the same path as the front wheels.",
+        "b. When the rear wheels follow a different path than the front wheels.",
+        "c. When the trailer is loaded to full capacity."
+    ],
+    "answer": "b. When the rear wheels follow a different path than the front wheels."
+},
+{
+    "question": "96. A driver crosses the airlines when hooking up an old trailer with no spring brakes.",
+    "choices": [
+        "a. The trailer will not couple correctly.",
+        "b. The trailer will sway excessively.",
+        "c. The driver could drive away with no trailer brakes."
+    ],
+    "answer": "c. The driver could drive away with no trailer brakes."
+},
+{
+    "question": "97. What two things are most important to prevent a rollover?",
+    "choices": [
+        "a. Keeping the cargo as close to the ground as possible and driving slowly around turns.",
+        "b. Using the trailer handbrake and applying the foot brake when turning.",
+        "c. Installing sway bars on the trailer and using cruise control."
+    ],
+    "answer": "a. Keeping the cargo as close to the ground as possible and driving slowly around turns."
+},
+{
+    "question": "98. Charge the trailer air brake system and check that the trailer rolls freely. Then stop and pull out the trailer air supply control valve. Pull gently on the trailer with the tractor to check that the trailer emergency brakes are on.",
+    "choices": [
+        "a. This is how you test the trailer emergency brakes.",
+        "b. This is how you check the trailer tires for wear.",
+        "c. This is how you align the trailer with the tractor."
+    ],
+    "answer": "a. This is how you test the trailer emergency brakes."
+},
+{
+    "question": "99. Charge the trailer air brake system and push the air supply knob in. Shut the engine off. Step on and off the brake pedal several times to reduce the air pressure in the tanks. The trailer air supply control should pop out when the air pressure falls",
+    "choices": [
+        "a. This is how you test the tractor protection valve.",
+        "b. This is how you test the trailer's suspension.",
+        "c. This is how you test the tractor's horn."
+    ],
+    "answer": "a. This is how you test the tractor protection valve."
+},
+{
+    "question": "100. What might happen if the trailer is too high when you should line up?",
+    "choices": [
+        "a. It may not couple correctly.",
+        "b. It may not align with the curb.",
+        "c. It may cause the trailer to bottom out."
+    ],
+    "answer": "a. It may not couple correctly."
+},
+{
+    "question": "101. There are two things that a driver can do to prevent a rollover. They are (1) go slowly around turns; (2) keep:",
+    "choices": [
+        "a. The trailer fully loaded at all times.",
+        "b. The cargo secure with ropes.",
+        "c. The cargo as close to the ground as possible."
+    ],
+    "answer": "c. The cargo as close to the ground as possible."
+}
+
+
+]

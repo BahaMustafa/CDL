@@ -1,9 +1,15 @@
 import React from 'react';
 
+
 function Feedback({ isCorrect }) {
   return (
-    <div>
-      {isCorrect ? <p>Correct!</p> : <p>Incorrect. Try again!</p>}
+    <div
+      style={{
+        color: isCorrect ? 'green' : 'red',
+        transition: 'all 0.5s ease',
+      }}
+    >
+      {isCorrect ? <p>✅ Correct!</p> : <p>❌ Incorrect. Try again!</p>}
     </div>
   );
 }
