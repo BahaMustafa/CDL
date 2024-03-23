@@ -4,18 +4,17 @@ import Home from './Home';
 import Test from './Test';
 import './App.css';
 
-function App() {
-  return (
-    <Router>
-      <div className="App">
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/test" element={<Test />} />
-          {/* Define other routes as needed */}
-        </Routes>
-      </div>
-    </Router>
-  );
+freturn (
+  <Router>
+    <div className="App">
+      <Routes>
+        <Route path="/" element={<Home />} />
+        <Route path="/test" element={<Test />} />
+        {/* ... other routes */}
+      </Routes>
+    </div>
+  </Router>
+);
 }
 
 export default App;
