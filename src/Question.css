@@ -1,0 +1,36 @@
+/* Question.css */
+
+div {
+    margin-bottom: 20px;
+  }
+  
+  h3 {
+    color: #007bff;
+    margin-bottom: 15px;
+  }
+  
+  button {
+    background-color: #17a2b8;
+    color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    display: block; /* Make buttons full-width on smaller screens */
+    text-align: left; /* Align text to the left */
+  }
+  
+  button:hover {
+    background-color: #107999;
+  }
+  
+  /* Responsive adjustments for larger screens */
+  @media (min-width: 768px) {
+    button {
+      display: inline-block; /* Allow buttons to sit side by side */
+      width: auto; /* Auto width to fit content */
+    }
+  }
+  

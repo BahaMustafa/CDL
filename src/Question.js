@@ -1,5 +1,5 @@
 import React from 'react';
-
+import './Question.css';
 function Question({ question, choices, onSelect }) {
   return (
     <div>

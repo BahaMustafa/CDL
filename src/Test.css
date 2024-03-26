@@ -1,0 +1,134 @@
+/* Test.css - Styling for Test Component */
+
+.test-container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .test-title {
+    color: #333;
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 2em;
+  }
+  
+  .shuffle-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .shuffle-label {
+    cursor: pointer;
+    font-size: 1rem;
+    color: #666;
+  }
+  
+  .shuffle-checkbox {
+    margin-left: 10px;
+  }
+  
+  .test-select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #fafafa;
+    font-size: 1rem;
+  }
+  
+  .test-completion {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .test-results {
+    font-size: 1.25rem;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .restart-test-btn {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+  
+  .restart-test-btn:hover {
+    background-color: #0056b3;
+  }
+  
+  .test-ongoing {
+    /* No specific styles required unless needed for structural purposes */
+  }
+  
+  .question {
+    /* Assuming Question component has its own styles. Add here if necessary */
+  }
+  
+  .feedback {
+    /* Assuming Feedback component has its own styles. Add here if necessary */
+  }
+  
+  .navigation-btns {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .previous-question-btn, .next-question-btn {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 1rem;
+  }
+  
+  .previous-question-btn:hover, .next-question-btn:hover {
+    background-color: #218838;
+  }
+  
+  .score-display, .incorrect-answers-display {
+    text-align: center;
+    color: #333;
+    font-size: 1.25rem;
+    margin-top: 10px;
+  }
+  
+  @media (max-width: 768px) {
+    .test-container {
+      padding: 15px;
+    }
+    
+    .test-title {
+      font-size: 1.5em;
+    }
+  
+    .test-select, .previous-question-btn, .next-question-btn, .restart-test-btn {
+      padding: 8px 10px;
+      font-size: 0.9rem;
+    }
+  
+    .navigation-btns {
+      flex-direction: column;
+    }
+  
+    .previous-question-btn, .next-question-btn {
+      width: 100%;
+      margin-bottom: 10px;
+    }
+  }
+  

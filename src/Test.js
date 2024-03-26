@@ -3,7 +3,7 @@ import React, { useState, useEffect, useCallback } from 'react';
 import Question from './Question';
 import Feedback from './Feedback';
 import { motion } from 'framer-motion'; // Ensure this is correctly imported if used
-
+import './Test.css'
 function Test() {
   const [questions, setQuestions] = useState([]);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
@@ -107,15 +107,15 @@ function Test() {
     shuffleQuestionsAndChoices();
   };
   return (
-    <div class="test-container">
-      <h1>Test</h1>
-      <div>
-        <label>
-          Shuffle Questions
-          <input type="checkbox" checked={isShuffleActive} onChange={handleShuffleToggle} />
-        </label>
-      </div>
-      <select onChange={(e) => setSelectedTest(e.target.value)}>
+    <div className="test-container">
+  <h1 className="test-title">Test</h1>
+  <div className="shuffle-container">
+    <label className="shuffle-label">
+      Shuffle Questions
+      <input type="checkbox" className="shuffle-checkbox" checked={isShuffleActive} onChange={handleShuffleToggle} />
+    </label>
+  </div>
+  <select className="test-select" onChange={(e) => setSelectedTest(e.target.value)}>
      < optgroup label="General Knowledge">
     <option value="GeneralKnowledge">General Knowledge</option>
     <option value="GeneralKnowledge1">General Knowledge 1</option>
@@ -140,30 +140,31 @@ function Test() {
       </select>
 
       {testCompleted ? (
-        <>
-          <div>Test completed. Score: {score}, Incorrect Answers: {incorrectAnswers}</div>
-          <button onClick={handleRestartTest}>Restart Test</button>
-        </>
-      ) : (
-        <>
-          {questions.length > 0 && (
-            <Question
-              question={questions[currentQuestionIndex].question}
-              choices={questions[currentQuestionIndex].choices}
-              onSelect={handleChoiceSelect}
-              isCorrect={isCorrect}
-            />
-          )}
-          <Feedback isCorrect={isCorrect} />
-          <div>
-            {currentQuestionIndex > 0 && <button onClick={handlePreviousQuestion}>Back</button>}
-            {isCorrect !== null && <button onClick={handleNextQuestion}>Next</button>}
-          </div>
-          <p>Score: {score}</p>
-          <p>Incorrect Answers: {incorrectAnswers}</p>
-        </>
-      )}
+    <div className="test-completion">
+      <div className="test-results">Test completed. Score: {score}, Incorrect Answers: {incorrectAnswers}</div>
+      <button className="restart-test-btn" onClick={handleRestartTest}>Restart Test</button>
     </div>
+  ) : (
+    <div className="test-ongoing">
+      {questions.length > 0 && (
+        <Question
+          className="question"
+          question={questions[currentQuestionIndex].question}
+          choices={questions[currentQuestionIndex].choices}
+          onSelect={handleChoiceSelect}
+          isCorrect={isCorrect}
+        />
+      )}
+      <Feedback className="feedback" isCorrect={isCorrect} />
+      <div className="navigation-btns">
+        {currentQuestionIndex > 0 && <button className="previous-question-btn" onClick={handlePreviousQuestion}>Back</button>}
+        {isCorrect !== null && <button className="next-question-btn" onClick={handleNextQuestion}>Next</button>}
+      </div>
+      <p className="score-display">Score: {score}</p>
+      <p className="incorrect-answers-display">Incorrect Answers: {incorrectAnswers}</p>
+    </div>
+  )}
+</div>
   );
 
 }

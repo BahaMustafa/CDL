@@ -1,0 +1,82 @@
+.background-container {
+    width: 100vw;
+    height: 100vh;
+    background-image: url('/Users/bahamustafa/dmv-quiz/src/124.webp'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  .home-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
+  .content-overlay {
+    background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent black overlay */
+    padding: 30px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 400px; /* Adjust the width as needed */
+    text-align: center;
+  }
+  
+  .start-btn, .inspection-btn {
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    margin-top: 15px;
+    text-decoration: none; /* Remove underline from links */
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+    width: 100%; /* Full width for better tap targets on mobile */
+  }
+  
+  .start-btn {
+    background-color: #007bff; /* Blue for primary action */
+  }
+  
+  .inspection-btn {
+    background-color: #28a745; /* Green for secondary action */
+  }
+  
+  .start-btn:hover, .inspection-btn:hover {
+    filter: brightness(90%); /* Darkens the button color on hover */
+  }
+  
+  h1 {
+    color: white;
+    font-size: 2.5rem; /* Larger text for the title */
+    margin-bottom: 0.5em;
+  }
+  
+  p {
+    color: #ddd; /* Lighter text color for the paragraph */
+    font-size: 1.2rem;
+    margin-bottom: 2em;
+  }
+  
+  @media (max-width: 768px) {
+    .content-overlay {
+      padding: 20px;
+    }
+  
+    .start-btn, .inspection-btn {
+      font-size: 1rem;
+      padding: 8px 16px;
+    }
+  
+    h1 {
+      font-size: 2rem;
+    }
+  
+    p {
+      font-size: 1rem;
+    }
+  }
+  

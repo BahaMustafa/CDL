@@ -1,161 +1,94 @@
-/* App component styling */
-html, body {
-  height: 100%;
+/* App.css */
+
+body, html {
   margin: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  background: #f0f2f5; /* or any color/background you prefer */
+  padding: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+  background-color: #f4f4f4;
 }
 
-/* This ensures that .App takes up only as much space as it needs */
-/* App.css */
 .App {
-  text-align: center;
-  height: 100vh;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('/Users/bahamustafa/dmv-quiz/src/124.webp') no-repeat center center;
-
-  background: url('/Users/bahamustafa/dmv-quiz/src/124.webp') no-repeat center center;
-  background-size: cover;
-  border-radius: 10px;
-  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
-  padding: 20px;
-  margin: auto; /* Centers the app in the available space */
+  min-height: 100vh;
 }
 
-.App-header {
-  background-color: rgba(255, 255, 255, 0.8);
-  padding: 2rem;
-  border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-.App-title {
-  font-size: 2.5rem;
-  margin-bottom: 1rem;
-}
-
-.App-subtitle {
-  font-size: 1.2rem;
-  margin-bottom: 2rem;
-}
-
-.start-button {
-  padding: 10px 20px;
-  font-size: 1.2rem;
-  color: #fff;
+header {
   background-color: #007bff;
-  border: none;
-  border-radius: 5px;
-  cursor: pointer;
-  transition: background-color 0.2s ease;
+  color: #ffffff;
+  padding: 20px 0;
+  text-align: center;
+  font-size: 24px;
 }
 
-.start-button:hover {
+main {
+  flex: 1;
+  padding: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: #ffffff;
+  text-align: center;
+  padding: 10px 0;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+  header, footer {
+    font-size: 20px;
+  }
+}
+
+/* Button Styling */
+.button {
+  background-color: #007bff;
+  color: #ffffff;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.button:hover {
   background-color: #0056b3;
 }
+/* App.css or Navbar.css */
 
-/* Shuffle Questions label */
-label {
-  display: block;
-  color: #2c3e50; /* A darker shade for better readability */
-  font-size: 1rem;
-  font-weight: 600;
-  margin-bottom: 0.5rem;
-  user-select: none; /* Disables text selection for better UX */
+/* Enhancements for the navigation bar */
+
+nav ul {
+  list-style-type: none;
+  padding: 20px 0; /* Increase vertical padding */
+  margin: 0;
+  display: flex;
+  background-color: #000000;
+  justify-content: center;
+  align-items: center; /* Center items vertically */
+  position: sticky; /* Make the navbar sticky */
+  top: 0; /* Stick to the top of the viewport */
+  z-index: 1000; /* Ensure it's above other content */
 }
 
-input[type="checkbox"] {
-  appearance: none; /* Removes default styling */
-  background-color: #ecf0f1; /* Light grey background */
-  margin-right: 0.5rem;
-  font-size: 1.25rem;
-  width: 1.25rem;
-  height: 1.25rem;
-  border: 2px solid #bdc3c7; /* Grey border */
-  border-radius: 0.25rem; /* Slightly rounded corners for a modern look */
-  transition: background-color 0.3s, border-color 0.3s;
-  vertical-align: middle; /* Aligns checkbox with the text vertically */
-  cursor: pointer;
+nav ul li {
+  margin: 0 20px; /* Increase spacing between links for a "thicker" feel */
 }
 
-input[type="checkbox"]:checked {
-  background-color: #8e44ad; /* A purple background for checked state */
-  border-color: #8e44ad; /* Matching border color */
-}
-
-/* Hover effect for the custom checkbox */
-input[type="checkbox"]:hover:not(:checked) {
-  border-color: #3498db; /* Changes border color on hover when not checked */
-}
-
-/* Select dropdown styling */
-select {
-  width: 100%;
-  padding: 8px 12px;
-  margin-bottom: 20px;
-  border-radius: 4px;
-  border: 1px solid #ddd;
-  background-color: #fafafa;
-}
-
-/* General button styles */
-button {
-  background-color: #3498db; /* A fresh blue color */
+nav ul li a {
   color: white;
-  border: none;
-  padding: 12px 20px;
-  margin: 10px 5px;
-  border-radius: 20px; /* Rounded edges for a softer look */
-  font-size: 16px;
-  font-weight: 500; /* Slightly bold font */
-  cursor: pointer;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
-  transition: all 0.3s ease;
-  outline: none; /* Removes the outline to maintain the style on focus */
+  text-decoration: none;
+  padding: 10px 20px; /* Increase padding for a larger click area */
+  font-size: 16px; /* Optional: Increase font size for better readability */
 }
 
-button:hover, button:focus {
-  background-color: #2980b9; /* A darker shade of blue for contrast */
-  box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15); /* Larger shadow for a "lifted" effect */
-  transform: translateY(-2px); /* Slightly raise the button */
+nav ul li a:hover, nav ul li a:focus {
+  background-color: #c8c9ca;
+  border-radius: 5px; /* Optional: Rounded corners on hover/focus */
 }
 
-button:active {
-  background-color: #3498db; /* Return to original color */
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Smaller shadow to "push" the button down */
-  transform: translateY(1px); /* Button goes down a bit */
-}
-.App-title, .App-subtitle, label, button, p {
-  color: #ffffff; /* White text color for better contrast */
-  text-shadow: 0px 0px 8px rgba(0, 0, 0, 0.8); /* Black text shadow for legibility */
+/* Ensure content doesn't hide behind the sticky navbar */
+.body-content {
+  padding-top: 80px; /* Adjust based on the final height of your navbar */
 }
 
-/* Alternatively, use an opaque background for text containers */
-.text-container {
-  background-color: rgba(255, 255, 255, 0.7); /* White with some transparency */
-  padding: 1rem; /* Or as needed */
-  border-radius: 8px; /* Or as needed for style */
-  margin: 0.5rem; /* Space out elements */
-}
-
-.test-container {
-  background-color: rgba(255, 255, 255, 0.8);
-  padding: 2rem;
-  border-radius: 10px;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-/* Apply styles to text and other elements within the .test-container for better readability */
-.test-container h1,
-.test-container h2,
-.test-container p,
-.test-container button {
-  color: #333; /* Darker text for better contrast */
-  text-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
-  /* More styles as needed */
-}
