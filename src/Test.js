@@ -2,8 +2,18 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import Question from './Question';
 import Feedback from './Feedback';
-import { motion } from 'framer-motion'; // Ensure this is correctly imported if used
-import './Test.css'
+import './Test.css';
+
+// This function is moved outside the component as it does not depend on component's state or props.
+function shuffleArray(array) {
+  const result = [...array];
+  for (let i = result.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [result[i], result[j]] = [result[j], result[i]]; // Swap elements
+  }
+  return result;
+}
+
 function Test() {
   const [questions, setQuestions] = useState([]);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
@@ -12,100 +22,98 @@ function Test() {
   const [incorrectAnswers, setIncorrectAnswers] = useState(0);
   const [selectedTest, setSelectedTest] = useState('test1');
   const [testCompleted, setTestCompleted] = useState(false);
-  const [shuffleEnabled, setShuffleEnabled] = useState(true); // New state for shuffle button
   const [isShuffleActive, setIsShuffleActive] = useState(false);
+  const [questionAnswered, setQuestionAnswered] = useState(false);
+  const [userSelectedAnswer, setUserSelectedAnswer] = useState(null);
 
-  const handleShuffleToggle = () => {
-    setIsShuffleActive(!isShuffleActive);
-  };
-  // Shuffle the questions and choices
-  function shuffleArray(array) {
-    const result = [...array];
-    for (let i = result.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [result[i], result[j]] = [result[j], result[i]]; // Swap elements
-    }
-    return result;
-  }
-  
-  
+  const handleShuffleToggle = () => setIsShuffleActive(!isShuffleActive);
 
-  // Function to shuffle questions and choices
   const shuffleQuestionsAndChoices = useCallback(() => {
     if (isShuffleActive) {
-      setQuestions(currentQuestions => {
-        return shuffleArray(currentQuestions).map(question => ({
-          ...question,
-          choices: shuffleArray(question.choices)
-        }));
-      });
+      setQuestions(currentQuestions => shuffleArray(currentQuestions).map(question => ({
+        ...question,
+        choices: shuffleArray(question.choices)
+      })));
     }
-  }, [isShuffleActive]); 
-
-  useEffect(() => {
-    const savedIndex = sessionStorage.getItem('currentQuestionIndex');
-    if (savedIndex) {
-      setCurrentQuestionIndex(parseInt(savedIndex, 10));
-      setShuffleEnabled(false); // Disable shuffle if continuing a test
-    }
-
-    fetch(`${process.env.PUBLIC_URL}/${selectedTest}.json`)
-    .then(response => response.json())
-    .then(data => {
-      let questionsData = data;
-      if (isShuffleActive) {
-        questionsData = shuffleArray(data).map(question => ({
-          ...question,
-          choices: shuffleArray(question.choices)
-        }));
-      }
-      setQuestions(questionsData);
-    })
-    .catch(error => console.error('Error fetching questions:', error));
-}, [selectedTest, isShuffleActive]);
-
-  useEffect(() => {
-    sessionStorage.setItem('currentQuestionIndex', currentQuestionIndex);
-    if (currentQuestionIndex > 0) {
-      setShuffleEnabled(false); // Disable shuffle once the test has started
-    }
-  }, [currentQuestionIndex]);
-
-  const handleChoiceSelect = (choice) => {
-    const correctAnswer = questions[currentQuestionIndex].answer;
-    setIsCorrect(choice === correctAnswer);
-    if (choice === correctAnswer) {
-      setScore(prevScore => prevScore + 1);
-    } else {
-      setIncorrectAnswers(prevIncorrect => prevIncorrect + 1);
-    }
-  };
-
-  const handleNextQuestion = () => {
-    if (currentQuestionIndex < questions.length - 1) {
-      setCurrentQuestionIndex(prevIndex => prevIndex + 1);
-      setIsCorrect(null);
-    } else {
-      setTestCompleted(true);
-      alert(`Test completed. Score: ${score}, Incorrect Answers: ${incorrectAnswers}`);
-    }
-  };
-
-  const handlePreviousQuestion = () => {
-    if (currentQuestionIndex > 0) {
-      setCurrentQuestionIndex(prevIndex => prevIndex - 1);
-    }
-  };
-
+  }, [isShuffleActive]);
   const handleRestartTest = () => {
     setTestCompleted(false);
     setCurrentQuestionIndex(0);
     setScore(0);
     setIncorrectAnswers(0);
     setIsCorrect(null);
-    setShuffleEnabled(true); // Enable shuffle on restart
-    shuffleQuestionsAndChoices();
+    setIsShuffleActive(false); // Assuming you want to reset the shuffle state as well
+    setUserSelectedAnswer(null); // Reset user's selected answer on restart
+    shuffleQuestionsAndChoices(); // Only if shuffling is desired on restart
   };
+  
+    // Optionally, move to the next question or provide feedback here
+
+    const handlePreviousQuestion = () => {
+      if (currentQuestionIndex > 0) {
+        setCurrentQuestionIndex(prevIndex => prevIndex - 1);
+        setIsCorrect(null);
+        setQuestionAnswered(false); // Reset for the previous question
+        setUserSelectedAnswer(null); // Also reset here
+      }
+    };
+    
+  
+  const handleNextQuestion = () => {
+    if (currentQuestionIndex < questions.length - 1) {
+      setCurrentQuestionIndex(prevIndex => prevIndex + 1);
+      setIsCorrect(null);
+      setQuestionAnswered(false); // Reset for the next question
+      setUserSelectedAnswer(null); // Reset user's selected answer
+    } else {
+      setTestCompleted(true);
+    }
+  };
+  
+  const handleChoiceSelect = (choice) => {
+    setUserSelectedAnswer(choice); // Update the state with the user's selected answer
+  
+    // Determine if the selected choice is correct
+    const correctAnswer = questions[currentQuestionIndex].answer;
+    const isAnswerCorrect = choice === correctAnswer;
+  
+    setIsCorrect(isAnswerCorrect); // Update the state to reflect if the answer is correct
+  
+    if (isAnswerCorrect) {
+      // If the answer is correct, increment the score
+      setScore(prevScore => prevScore + 1);
+    } else {
+      // If the answer is incorrect, increment the incorrect answers count
+      setIncorrectAnswers(prevIncorrect => prevIncorrect + 1);
+    }
+  
+    setQuestionAnswered(true); // Mark the current question as answered
+  };
+  
+  useEffect(() => {
+    const savedIndex = sessionStorage.getItem('currentQuestionIndex');
+    if (savedIndex) {
+      setCurrentQuestionIndex(parseInt(savedIndex, 10));
+    }
+
+    fetch(`${process.env.PUBLIC_URL}/${selectedTest}.json`)
+      .then(response => response.json())
+      .then(data => {
+        let questionsData = isShuffleActive ? shuffleArray(data).map(question => ({
+          ...question,
+          choices: shuffleArray(question.choices)
+        })) : data;
+        setQuestions(questionsData);
+      })
+      .catch(error => {
+        alert('Error fetching questions. Please try again later.'); // User-friendly error handling
+        console.error('Error fetching questions:', error);
+      });
+  }, [selectedTest, isShuffleActive]);
+
+  useEffect(() => {
+    sessionStorage.setItem('currentQuestionIndex', currentQuestionIndex);
+  }, [currentQuestionIndex]);
   return (
     <div className="test-container">
   <h1 className="test-title">Test</h1>
@@ -148,12 +156,12 @@ function Test() {
     <div className="test-ongoing">
       {questions.length > 0 && (
         <Question
-          className="question"
-          question={questions[currentQuestionIndex].question}
-          choices={questions[currentQuestionIndex].choices}
-          onSelect={handleChoiceSelect}
-          isCorrect={isCorrect}
-        />
+        question={questions[currentQuestionIndex].question}
+        choices={questions[currentQuestionIndex].choices}
+        onSelect={handleChoiceSelect}
+        userAnswer={userSelectedAnswer}
+        correctAnswer={questions[currentQuestionIndex].answer}
+      />
       )}
       <Feedback className="feedback" isCorrect={isCorrect} />
       <div className="navigation-btns">

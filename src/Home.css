@@ -1,82 +1,56 @@
 .background-container {
-    width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
     height: 100vh;
     background-image: url('/Users/bahamustafa/dmv-quiz/src/124.webp'); /* Replace with your image path */
     background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
+    
   }
   
   .home-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.9); /* Slight transparency */
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
   
   .content-overlay {
-    background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent black overlay */
-    padding: 30px;
-    border-radius: 10px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    max-width: 400px; /* Adjust the width as needed */
-    text-align: center;
-  }
-  
-  .start-btn, .inspection-btn {
-    padding: 10px 20px;
-    border: none;
-    border-radius: 5px;
-    color: white;
-    margin-top: 15px;
-    text-decoration: none; /* Remove underline from links */
-    font-weight: bold;
-    transition: background-color 0.3s ease;
-    width: 100%; /* Full width for better tap targets on mobile */
-  }
-  
-  .start-btn {
-    background-color: #007bff; /* Blue for primary action */
-  }
-  
-  .inspection-btn {
-    background-color: #28a745; /* Green for secondary action */
-  }
-  
-  .start-btn:hover, .inspection-btn:hover {
-    filter: brightness(90%); /* Darkens the button color on hover */
+    padding: 20px;
   }
   
   h1 {
-    color: white;
-    font-size: 2.5rem; /* Larger text for the title */
-    margin-bottom: 0.5em;
+    margin-bottom: 20px;
+    color: #333;
   }
   
   p {
-    color: #ddd; /* Lighter text color for the paragraph */
-    font-size: 1.2rem;
-    margin-bottom: 2em;
+    margin-bottom: 30px;
+    color: #555;
   }
   
-  @media (max-width: 768px) {
-    .content-overlay {
-      padding: 20px;
-    }
+  .start-btn, .inspection-btn {
+    display: inline-block;
+    background-color: #007bff;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+    text-decoration: none; /* Remove underline from link */
+    transition: background-color 0.3s ease;
+  }
   
-    .start-btn, .inspection-btn {
-      font-size: 1rem;
-      padding: 8px 16px;
-    }
+  .start-btn:hover, .inspection-btn:hover {
+    background-color: #0056b3;
+  }
   
-    h1 {
-      font-size: 2rem;
-    }
+  .inspection-btn {
+    background-color: #28a745; /* Different color for secondary action */
+  }
   
-    p {
-      font-size: 1rem;
-    }
+  .inspection-btn:hover {
+    background-color: #218838;
   }
   
