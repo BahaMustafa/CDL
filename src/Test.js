@@ -59,36 +59,45 @@ function Test() {
     };
     
   
-  const handleNextQuestion = () => {
-    if (currentQuestionIndex < questions.length - 1) {
-      setCurrentQuestionIndex(prevIndex => prevIndex + 1);
-      setIsCorrect(null);
-      setQuestionAnswered(false); // Reset for the next question
-      setUserSelectedAnswer(null); // Reset user's selected answer
-    } else {
-      setTestCompleted(true);
-    }
-  };
+  // Example for handleNextQuestion
+const handleNextQuestion = () => {
+  if (currentQuestionIndex < questions.length - 1) {
+    setCurrentQuestionIndex(prevIndex => prevIndex + 1);
+    setIsCorrect(null);
+    setQuestionAnswered(false); // Reset for the next question
+    setUserSelectedAnswer(null); // Also reset the selected answer
+  } else {
+    setTestCompleted(true);
+  }
+};
+
   
   const handleChoiceSelect = (choice) => {
+    // Ignore any selections if the question has already been answered
+    if (questionAnswered) return;
+  
     setUserSelectedAnswer(choice); // Update the state with the user's selected answer
   
-    // Determine if the selected choice is correct
     const correctAnswer = questions[currentQuestionIndex].answer;
     const isAnswerCorrect = choice === correctAnswer;
   
     setIsCorrect(isAnswerCorrect); // Update the state to reflect if the answer is correct
   
-    if (isAnswerCorrect) {
-      // If the answer is correct, increment the score
-      setScore(prevScore => prevScore + 1);
-    } else {
-      // If the answer is incorrect, increment the incorrect answers count
-      setIncorrectAnswers(prevIncorrect => prevIncorrect + 1);
-    }
+    // Now, we ensure scoring happens only once by checking if the question hasn't been answered yet
+    if (!questionAnswered) {
+      if (isAnswerCorrect) {
+        // If the answer is correct, increment the score
+        setScore(prevScore => prevScore + 1);
+      } else {
+        // If the answer is incorrect, increment the incorrect answers count
+        setIncorrectAnswers(prevIncorrect => prevIncorrect + 1);
+      }
   
-    setQuestionAnswered(true); // Mark the current question as answered
+      // Mark the current question as answered to prevent multiple scoring
+      setQuestionAnswered(true);
+    }
   };
+  
   
   useEffect(() => {
     const savedIndex = sessionStorage.getItem('currentQuestionIndex');

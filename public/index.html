@@ -1,44 +1,59 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+<head>
     <meta charset="utf-8" />
     <link rel="icon" href="%PUBLIC_URL%/favicon.png" />
     
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#000000" />
-    <meta
-      name="description"
-      content="Prepare for your CDL (Commercial Driver's License) with our comprehensive practice tests. Designed to simulate the actual exam, our tests will help you review key concepts and gain confidence."
-    />
+    <meta name="description" content="Ace your (Commercial Driver's License) CDL exam with our practice tests and detailed vehicle inspection guides. Prepare and practice with comprehensive resources to gain confidence." />
+    
     <link rel="apple-touch-icon" href="%PUBLIC_URL%/favicon.png" />
-    <!--
-      manifest.json provides metadata used when your web app is installed on a
-      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
-    -->
     <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
     
-    <title>Free CDL Practice Test - Prepare for Your CDL Exam</title>
+    <title>CDL Practice Test & Inspection Guide - Free Preparation Resources</title>
+    
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-KZYZWW18WX"></script>
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'G-KZYZWW18WX');
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-KZYZWW18WX');
     </script>
-  </head>
-  <body>
+
+    <!-- Schema Markup for Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "EducationalOrganization",
+        "name": "CDL Prep Hub",
+        "url": "https://www.example.com",
+        "logo": "https://www.example.com/favicon.png",
+        "sameAs": [
+            "https://www.facebook.com/CDLPrepHub",
+            "https://www.twitter.com/CDLPrepHub"
+        ],
+        "description": "Comprehensive preparation resources for the CDL exam, including practice tests and vehicle inspection guides."
+    }
+    </script>
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://www.example.com/" />
+    <meta property="og:title" content="CDL Practice Test & Inspection Guide - Free Preparation Resources" />
+    <meta property="og:description" content="Ace your CDL exam with our practice tests and detailed vehicle inspection guides." />
+    <meta property="og:image" content="%PUBLIC_URL%/social-share-image.jpg" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:url" content="https://www.example.com/" />
+    <meta name="twitter:title" content="CDL Practice Test & Inspection Guide - Free Preparation Resources" />
+    <meta name="twitter:description" content="Ace your CDL exam with our practice tests and detailed vehicle inspection guides." />
+    <meta name="twitter:image" content="%PUBLIC_URL%/social-share-image.jpg" />
+</head>
+<body>
     <noscript>You need to enable JavaScript to run this app.</noscript>
     <div id="root"></div>
-    <!--
-      This HTML file is a template.
-      If you open it directly in the browser, you will see an empty page.
-
-      You can add webfonts, meta tags, or analytics to this file.
-      The build step will place the bundled scripts into the <body> tag.
-
-      To begin the development, run `npm start` or `yarn start`.
-      To create a production bundle, use `npm run build` or `yarn build`.
-    -->
-  </body>
+    <!-- Additional comments or scripts can be added here -->
+</body>
 </html>

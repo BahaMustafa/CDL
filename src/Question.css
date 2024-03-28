@@ -26,10 +26,10 @@ button:hover {
 }
 
 .correct-answer {
-  border-color: #28a745;
-  background-color: #dff0d8;
+  border-color: #37c882;
+  background-color: #16330b;
 }
 
 button.correct-answer:hover {
-  background-color: #c3e6cb;
+  background-color: #2b0571;
 }
